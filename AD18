@@ -1,79 +1,493 @@
 #EXTM3U
-#EXTINF:0 group-title="XXX: Adult",XXX: WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XPANDED TV 
-https://vod2t.xxxpanded.com/x3tv/index_wlan.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XPANDED TV 2 
-https://vod2t.xxxpanded.com/x3tv2/index_wlan.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX HD
-http://tv.asplay.club:25461/live/marcol/marcol/9040.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX 
-http://tv.asplay.club:25461/live/marcol/marcol/8106.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (1+) 
-http://tv.asplay.club:25461/live/marcol/marcol/9656.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (2+) 
-http://gorillaiptv.online:25461/live/young/young/1709.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (3+) 
-http://gorillaiptv.online:25461/live/young/young/1710.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (4+) 
-http://gorillaiptv.online:25461/live/young/young/1711.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (5+) 
-http://gorillaiptv.online:25461/live/young/young/1714.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (6+) 
-http://gorillaiptv.online:25461/live/young/young/1715.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (7+) 
-http://gorillaiptv.online:25461/live/young/young/1716.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (8+) 
-http://gorillaiptv.online:25461/live/young/young/1717.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (9+) 
-http://gorillaiptv.online:25461/live/young/young/1719.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (10+) 
-http://gorillaiptv.online:25461/live/young/young/1720.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (11+) 
-http://gorillaiptv.online:25461/live/young/young/1721.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (12+) 
-http://gorillaiptv.online:25461/live/young/young/1722.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (13+) 
-http://gorillaiptv.online:25461/live/young/young/1723.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (14+) 
-http://gorillaiptv.online:25461/live/young/young/1724.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (15+) 
-http://gorillaiptv.online:25461/live/young/young/1725.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (16+) 
-http://gorillaiptv.online:25461/live/young/young/1726.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (17+) 
-http://gorillaiptv.online:25461/live/young/young/1727.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (18+) 
-http://gorillaiptv.online:25461/live/young/young/1728.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (19+) 
-http://gorillaiptv.online:25461/live/young/young/1729.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (20+) 
-http://gorillaiptv.online:25461/live/young/young/1730.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (21+) 
-http://gorillaiptv.online:25461/live/young/young/1731.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (22+) 
-http://gorillaiptv.online:25461/live/young/young/1732.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (23+) 
-http://gorillaiptv.online:25461/live/young/young/1712.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (24+) 
-http://gorillaiptv.online:25461/live/young/young/1713.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (25+) 
-http://gorillaiptv.online:25461/live/young/young/1718.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (26+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (27+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (28+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (29+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/71.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (30+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/72.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (31+) 
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (32+) 
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (33+) 
-http://uvodscp-lh.akamaihd.net/i/karibenartmp_1@504436/master.m3u8
-#EXTINF:0 group-title="XXX: Adult",XXX: XXX (34+) 
-http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AndrTV Pro وتطبيق Janberyan هذا السيرفر خاص لموقع" tvg-logo="" group-title="",AndrTV Pro وتطبيق Janberyan هذا السيرفر خاص لموقع
+http://iptv-janberyan.com:25461/movie/janberyan01022019/010220451/3211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁" tvg-logo="" group-title="رياضة وافلام منوعة",▁ ▂ ▄☆رياضة وافلام منوعة☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/448
+#EXTINF:-1 tvg-id="" tvg-name="افلام منوعة 1" tvg-logo="" group-title="ARABIC-Movies",افلام منوعة 1
+http://iptv-janberyan.com:25461/movie/janberyan01022019/010220451/3333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="افلام منوعة 2" tvg-logo="" group-title="ARABIC-Movies",افلام منوعة 2
+http://iptv-janberyan.com:25461/movie/janberyan01022019/010220451/3334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aso-Sport" tvg-logo="" group-title="رياضة وافلام منوعة",Aso-Sport
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3327
+#EXTINF:-1 tvg-id="" tvg-name="Sport1" tvg-logo="" group-title="رياضة وافلام منوعة",Sport1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3330
+#EXTINF:-1 tvg-id="" tvg-name="Sport2" tvg-logo="" group-title="رياضة وافلام منوعة",Sport2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3331
+#EXTINF:-1 tvg-id="" tvg-name="Astera-Sport" tvg-logo="" group-title="رياضة وافلام منوعة",Astera-Sport
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3332
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV Mada*" tvg-logo="" group-title="رياضة وافلام منوعة",Ajyal TV Mada*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/451
+#EXTINF:-1 tvg-id="" tvg-name="Almahed*" tvg-logo="" group-title="رياضة وافلام منوعة",Almahed*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/452
+#EXTINF:-1 tvg-id="" tvg-name="AlSalam TV*" tvg-logo="" group-title="رياضة وافلام منوعة",AlSalam TV*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/457
+#EXTINF:-1 tvg-id="" tvg-name="Bethlehem TV*" tvg-logo="" group-title="رياضة وافلام منوعة",Bethlehem TV*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/449
+#EXTINF:-1 tvg-id="" tvg-name="Byaban Sports*" tvg-logo="" group-title="رياضة وافلام منوعة",Byaban Sports*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/453
+#EXTINF:-1 tvg-id="" tvg-name="Falcon-Eye-1*" tvg-logo="" group-title="رياضة وافلام منوعة",Falcon-Eye-1*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/456
+#EXTINF:-1 tvg-id="" tvg-name="Falcon-Eye-2*" tvg-logo="" group-title="رياضة وافلام منوعة",Falcon-Eye-2*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/455
+#EXTINF:-1 tvg-id="" tvg-name="Falcon-Family*" tvg-logo="" group-title="رياضة وافلام منوعة",Falcon-Family*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/454
+#EXTINF:-1 tvg-id="" tvg-name="Watar1*" tvg-logo="" group-title="رياضة وافلام منوعة",Watar1*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/450
+#EXTINF:-1 tvg-id="" tvg-name="ON SPORT" tvg-logo="" group-title="رياضة وافلام منوعة",ON SPORT
+http://185.27.116.54:1935/livestream/sno/chunklist_w1177349334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁" tvg-logo="" group-title="BEIN SPORTS HD",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/472
+#EXTINF:-1 tvg-id="" tvg-name="Jan Beryan IPTV HD1" tvg-logo="" group-title="BEIN SPORTS HD",Jan Beryan IPTV HD1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3325
+#EXTINF:-1 tvg-id="" tvg-name="Jan Beryan IPTV HD2" tvg-logo="" group-title="BEIN SPORTS HD",Jan Beryan IPTV HD2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3326
+#EXTINF:-1 tvg-id="" tvg-name="BeinMax1" tvg-logo="" group-title="BEIN SPORTS HD",BeinMax1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3321
+#EXTINF:-1 tvg-id="" tvg-name="BeinMax2" tvg-logo="" group-title="BEIN SPORTS HD",BeinMax2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3322
+#EXTINF:-1 tvg-id="" tvg-name="BeinMax1**" tvg-logo="" group-title="BEIN SPORTS HD",BeinMax1**
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3323
+#EXTINF:-1 tvg-id="" tvg-name="BeinMax2**" tvg-logo="" group-title="BEIN SPORTS HD",BeinMax2**
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3324
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-1 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3221
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-2 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3220
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-3 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3219
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-4 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-4 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3218
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-5 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-5 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3217
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-6 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3216
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-7 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3215
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-8 HD" tvg-logo="" group-title="BEIN SPORTS HD",AR:BEINSPORTS-8 HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3214
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆Bein SD☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/488
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-1 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-1 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3237
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-2 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-2 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3236
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-3 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-3 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3235
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-4 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-4 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3234
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-5 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-5 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3233
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-6 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-6 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3232
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-7 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-7 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3231
+#EXTINF:-1 tvg-id="" tvg-name="AR:BEINSPORTS-8 SD" tvg-logo="" group-title="BEIN SPORTS SD",AR:BEINSPORTS-8 SD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3230
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁" tvg-logo="" group-title="BeoutQ Sports",▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3261
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 1HD" tvg-logo="" group-title="BeoutQ Sports",beoutQ sports 1HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3256
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 2HD" tvg-logo="" group-title="BeoutQ Sports",beoutQ sports 2HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3257
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 3HD" tvg-logo="" group-title="BeoutQ Sports",beoutQ sports 3HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3258
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 4HD" tvg-logo="" group-title="BeoutQ Sports",beoutQ sports 4HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3259
+#EXTINF:-1 tvg-id="" tvg-name="beoutQ sports 5HD" tvg-logo="" group-title="BeoutQ Sports",beoutQ sports 5HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3260
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆MBC☆▄ ▂ ▁" tvg-logo="" group-title="MBC",▁ ▂ ▄☆MBC☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/483
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBC1" tvg-logo="" group-title="MBC",AR-MBC1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/482
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBC 2" tvg-logo="" group-title="MBC",AR-MBC 2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/481
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBC3" tvg-logo="" group-title="MBC",AR-MBC3
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/480
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBC4" tvg-logo="" group-title="MBC",AR-MBC4
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/479
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBCDrama" tvg-logo="" group-title="MBC",AR-MBCDrama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/474
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBCAction" tvg-logo="" group-title="MBC",AR-MBCAction
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/478
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBCMax" tvg-logo="" group-title="MBC",AR-MBCMax
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/473
+#EXTINF:-1 tvg-id="" tvg-name="B4u Aflam" tvg-logo="" group-title="MBC",B4u Aflam
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/476
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA+" tvg-logo="" group-title="MBC",MBC DRAMA+
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/475
+#EXTINF:-1 tvg-id="" tvg-name="AR-MBC Bollywood" tvg-logo="" group-title="MBC",AR-MBC Bollywood
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/477
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆OSN☆▄ ▂ ▁" tvg-logo="" group-title="",▁ ▂ ▄☆OSN☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3251
+#EXTINF:-1 tvg-id="" tvg-name="MY-FILM-BOX-HD" tvg-logo="" group-title="OSN",MY-FILM-BOX-HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3329
+#EXTINF:-1 tvg-id="" tvg-name="AD_Nat_Geo" tvg-logo="" group-title="OSN",AD_Nat_Geo
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3315
+#EXTINF:-1 tvg-id="" tvg-name="ART-AFLAM-1" tvg-logo="" group-title="OSN",ART-AFLAM-1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3314
+#EXTINF:-1 tvg-id="" tvg-name="ART-AFLAM-2" tvg-logo="" group-title="OSN",ART-AFLAM-2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3313
+#EXTINF:-1 tvg-id="" tvg-name="ART-CINEMA" tvg-logo="" group-title="OSN",ART-CINEMA
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3312
+#EXTINF:-1 tvg-id="" tvg-name="OSN-MOVIES-AC" tvg-logo="" group-title="OSN",OSN-MOVIES-AC
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3318
+#EXTINF:-1 tvg-id="" tvg-name="OSN-Movies-First" tvg-logo="" group-title="OSN",OSN-Movies-First
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3317
+#EXTINF:-1 tvg-id="" tvg-name="OSN-MOVIES-HD" tvg-logo="" group-title="OSN",OSN-MOVIES-HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3320
+#EXTINF:-1 tvg-id="" tvg-name="OSN-Movies-Kids" tvg-logo="" group-title="OSN",OSN-Movies-Kids
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3311
+#EXTINF:-1 tvg-id="" tvg-name="OSN-Yahala-Cinem" tvg-logo="" group-title="OSN",OSN-Yahala-Cinem
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3319
+#EXTINF:-1 tvg-id="" tvg-name="OSN-YHALA-HD" tvg-logo="" group-title="OSN",OSN-YHALA-HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3316
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama" tvg-logo="" group-title="OSN",Bein Drama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3353
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series" tvg-logo="" group-title="OSN",Bein Series
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3354
+#EXTINF:-1 tvg-id="" tvg-name="TEST" tvg-logo="" group-title="",TEST
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3355
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات الاخبارية☆▄ ▂ ▁" tvg-logo="" group-title="قنوات الاخبارية",▁ ▂ ▄☆قنوات الاخبارية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/120
+#EXTINF:-1 tvg-id="" tvg-name="Alarabiya" tvg-logo="" group-title="قنوات الاخبارية",Alarabiya
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/119
+#EXTINF:-1 tvg-id="" tvg-name="Alarabiya Alhadath" tvg-logo="" group-title="قنوات الاخبارية",Alarabiya Alhadath
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/118
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby" tvg-logo="" group-title="قنوات الاخبارية",Alaraby
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/111
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera News" tvg-logo="" group-title="قنوات الاخبارية",Aljazeera News
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/117
+#EXTINF:-1 tvg-id="" tvg-name="Ann" tvg-logo="" group-title="قنوات الاخبارية",Ann
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/112
+#EXTINF:-1 tvg-id="" tvg-name="BBC ARABIC" tvg-logo="" group-title="قنوات الاخبارية",BBC ARABIC
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/115
+#EXTINF:-1 tvg-id="" tvg-name="Cnbc arabia" tvg-logo="" group-title="قنوات الاخبارية",Cnbc arabia
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/113
+#EXTINF:-1 tvg-id="" tvg-name="RT Arabic" tvg-logo="" group-title="قنوات الاخبارية",RT Arabic
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/116
+#EXTINF:-1 tvg-id="" tvg-name="RT Arabic old" tvg-logo="" group-title="قنوات الاخبارية",RT Arabic old
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/110
+#EXTINF:-1 tvg-id="" tvg-name="Sky news arabia" tvg-logo="" group-title="قنوات الاخبارية",Sky news arabia
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/114
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁" tvg-logo="" group-title="قنوات الاطفال",▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/109
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal" tvg-logo="" group-title="قنوات الاطفال",Ajyal
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/107
+#EXTINF:-1 tvg-id="" tvg-name="Nour kids" tvg-logo="" group-title="قنوات الاطفال",Nour kids
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/101
+#EXTINF:-1 tvg-id="" tvg-name="Sat7kids" tvg-logo="" group-title="قنوات الاطفال",Sat7kids
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/103
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="قنوات الاطفال",Spacetoon
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/106
+#EXTINF:-1 tvg-id="" tvg-name="Toyor aljanah" tvg-logo="" group-title="قنوات الاطفال",Toyor aljanah
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/108
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات السورية☆▄ ▂ ▁" tvg-logo="" group-title="Syria قنوات السورية",▁ ▂ ▄☆قنوات السورية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/3310
+#EXTINF:-1 tvg-id="" tvg-name="Suriya tv*" tvg-logo="" group-title="Syria قنوات السورية",Suriya tv*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/35
+#EXTINF:-1 tvg-id="" tvg-name="Syria 1 HD*" tvg-logo="" group-title="Syria قنوات السورية",Syria 1 HD*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/38
+#EXTINF:-1 tvg-id="" tvg-name="Syria Drama HD*" tvg-logo="" group-title="Syria قنوات السورية",Syria Drama HD*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/36
+#EXTINF:-1 tvg-id="" tvg-name="Syria EDU*" tvg-logo="" group-title="Syria قنوات السورية",Syria EDU*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/32
+#EXTINF:-1 tvg-id="" tvg-name="Syria news HD*" tvg-logo="" group-title="Syria قنوات السورية",Syria news HD*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/37
+#EXTINF:-1 tvg-id="" tvg-name="Alminber*" tvg-logo="" group-title="Syria قنوات السورية",Alminber*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/24
+#EXTINF:-1 tvg-id="" tvg-name="HALAB TODAY*" tvg-logo="" group-title="Syria قنوات السورية",HALAB TODAY*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/26
+#EXTINF:-1 tvg-id="" tvg-name="LANA SYRIA*" tvg-logo="" group-title="Syria قنوات السورية",LANA SYRIA*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/34
+#EXTINF:-1 tvg-id="" tvg-name="NOOR ALSHAM HD*" tvg-logo="" group-title="Syria قنوات السورية",NOOR ALSHAM HD*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/31
+#EXTINF:-1 tvg-id="" tvg-name="ORIENT NEWS*" tvg-logo="" group-title="Syria قنوات السورية",ORIENT NEWS*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/25
+#EXTINF:-1 tvg-id="" tvg-name="Radio Demashk*" tvg-logo="" group-title="Syria قنوات السورية",Radio Demashk*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/23
+#EXTINF:-1 tvg-id="" tvg-name="Radio karma*" tvg-logo="" group-title="Syria قنوات السورية",Radio karma*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/21
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zanobya*" tvg-logo="" group-title="Syria قنوات السورية",Radio Zanobya*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/22
+#EXTINF:-1 tvg-id="" tvg-name="Sama tv*" tvg-logo="" group-title="Syria قنوات السورية",Sama tv*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/29
+#EXTINF:-1 tvg-id="" tvg-name="SHAM FM RADIO*" tvg-logo="" group-title="Syria قنوات السورية",SHAM FM RADIO*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/27
+#EXTINF:-1 tvg-id="" tvg-name="SHAM FM TV*" tvg-logo="" group-title="Syria قنوات السورية",SHAM FM TV*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/28
+#EXTINF:-1 tvg-id="" tvg-name="Souryana HD*" tvg-logo="" group-title="Syria قنوات السورية",Souryana HD*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/30
+#EXTINF:-1 tvg-id="" tvg-name="Ugarit*" tvg-logo="" group-title="Syria قنوات السورية",Ugarit*
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/33
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات اللبنانية☆▄ ▂ ▁" tvg-logo="" group-title="LEBANON قنوات اللبنانية",▁ ▂ ▄☆قنوات اللبنانية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/71
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR" tvg-logo="" group-title="LEBANON قنوات اللبنانية",AL MANAR
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/56
+#EXTINF:-1 tvg-id="" tvg-name="Alalam" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Alalam
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/57
+#EXTINF:-1 tvg-id="" tvg-name="Aljadeed" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Aljadeed
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/61
+#EXTINF:-1 tvg-id="" tvg-name="Future" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Future
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/63
+#EXTINF:-1 tvg-id="" tvg-name="Future backup" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Future backup
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/62
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="LEBANON قنوات اللبنانية",LBC HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/66
+#EXTINF:-1 tvg-id="" tvg-name="LDC HD" tvg-logo="" group-title="LEBANON قنوات اللبنانية",LDC HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/67
+#EXTINF:-1 tvg-id="" tvg-name="Mayadeen" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Mayadeen
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/58
+#EXTINF:-1 tvg-id="" tvg-name="Mtv" tvg-logo="" group-title="LEBANON قنوات اللبنانية",Mtv
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/69
+#EXTINF:-1 tvg-id="" tvg-name="MTV lebanon" tvg-logo="" group-title="LEBANON قنوات اللبنانية",MTV lebanon
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/68
+#EXTINF:-1 tvg-id="" tvg-name="NBN" tvg-logo="" group-title="LEBANON قنوات اللبنانية",NBN
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/59
+#EXTINF:-1 tvg-id="" tvg-name="New TELE LEBANON" tvg-logo="" group-title="LEBANON قنوات اللبنانية",New TELE LEBANON
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/70
+#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="" group-title="LEBANON قنوات اللبنانية",OTV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/60
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁" tvg-logo="" group-title="EGYPT القنوات المصرية",▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/141
+#EXTINF:-1 tvg-id="" tvg-name="CBC HD" tvg-logo="" group-title="EGYPT القنوات المصرية",CBC HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/135
+#EXTINF:-1 tvg-id="" tvg-name="Cbc1" tvg-logo="" group-title="EGYPT القنوات المصرية",Cbc1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/140
+#EXTINF:-1 tvg-id="" tvg-name="Cbcdrama" tvg-logo="" group-title="EGYPT القنوات المصرية",Cbcdrama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/139
+#EXTINF:-1 tvg-id="" tvg-name="Cbcsofra" tvg-logo="" group-title="EGYPT القنوات المصرية",Cbcsofra
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/138
+#EXTINF:-1 tvg-id="" tvg-name="CBCSOFRA HD" tvg-logo="" group-title="EGYPT القنوات المصرية",CBCSOFRA HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/134
+#EXTINF:-1 tvg-id="" tvg-name="Dmc" tvg-logo="" group-title="EGYPT القنوات المصرية",Dmc
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/137
+#EXTINF:-1 tvg-id="" tvg-name="Dmcdrama" tvg-logo="" group-title="EGYPT القنوات المصرية",Dmcdrama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/136
+#EXTINF:-1 tvg-id="" tvg-name="Rotana aflam" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana aflam
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/129
+#EXTINF:-1 tvg-id="" tvg-name="Rotana classic" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana classic
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/127
+#EXTINF:-1 tvg-id="" tvg-name="Rotana clip" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana clip
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/126
+#EXTINF:-1 tvg-id="" tvg-name="Rotana drama" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana drama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/125
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ROTANA HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/131
+#EXTINF:-1 tvg-id="" tvg-name="Rotana music" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana music
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/130
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Khalejeh" tvg-logo="" group-title="EGYPT القنوات المصرية",Rotana Khalejeh
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/128
+#EXTINF:-1 tvg-id="" tvg-name="SADA ELBALAD HD" tvg-logo="" group-title="EGYPT القنوات المصرية",SADA ELBALAD HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/133
+#EXTINF:-1 tvg-id="" tvg-name="WANASAH HD" tvg-logo="" group-title="EGYPT القنوات المصرية",WANASAH HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/132
+#EXTINF:-1 tvg-id="" tvg-name="ZEE AFLAM HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ZEE AFLAM HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/124
+#EXTINF:-1 tvg-id="" tvg-name="Zee alwan" tvg-logo="" group-title="EGYPT القنوات المصرية",Zee alwan
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/121
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ALWAN HD" tvg-logo="" group-title="EGYPT القنوات المصرية",ZEE ALWAN HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/123
+#EXTINF:-1 tvg-id="" tvg-name="Zeeaflam" tvg-logo="" group-title="EGYPT القنوات المصرية",Zeeaflam
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/122
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁" tvg-logo="" group-title="IRAQ قنوات العراقية",▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/100
+#EXTINF:-1 tvg-id="" tvg-name="Afaqtv yoytube" tvg-logo="" group-title="IRAQ قنوات العراقية",Afaqtv yoytube
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/78
+#EXTINF:-1 tvg-id="" tvg-name="AL Etejah" tvg-logo="" group-title="IRAQ قنوات العراقية",AL Etejah
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/87
+#EXTINF:-1 tvg-id="" tvg-name="AL Rasheed TV" tvg-logo="" group-title="IRAQ قنوات العراقية",AL Rasheed TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/86
+#EXTINF:-1 tvg-id="" tvg-name="AL Rasheed TV backup" tvg-logo="" group-title="IRAQ قنوات العراقية",AL Rasheed TV backup
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/85
+#EXTINF:-1 tvg-id="" tvg-name="Alahad" tvg-logo="" group-title="IRAQ قنوات العراقية",Alahad
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/75
+#EXTINF:-1 tvg-id="" tvg-name="Alfaloja" tvg-logo="" group-title="IRAQ قنوات العراقية",Alfaloja
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/98
+#EXTINF:-1 tvg-id="" tvg-name="Alforat" tvg-logo="" group-title="IRAQ قنوات العراقية",Alforat
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/74
+#EXTINF:-1 tvg-id="" tvg-name="Alghadeer" tvg-logo="" group-title="IRAQ قنوات العراقية",Alghadeer
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/81
+#EXTINF:-1 tvg-id="" tvg-name="Alhura" tvg-logo="" group-title="IRAQ قنوات العراقية",Alhura
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/72
+#EXTINF:-1 tvg-id="" tvg-name="Almaaref" tvg-logo="" group-title="IRAQ قنوات العراقية",Almaaref
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/82
+#EXTINF:-1 tvg-id="" tvg-name="Alqanat" tvg-logo="" group-title="IRAQ قنوات العراقية",Alqanat
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/90
+#EXTINF:-1 tvg-id="" tvg-name="Sumaria" tvg-logo="" group-title="IRAQ قنوات العراقية",Sumaria
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/99
+#EXTINF:-1 tvg-id="" tvg-name="ALSHARQIA HD" tvg-logo="" group-title="IRAQ قنوات العراقية",ALSHARQIA HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/94
+#EXTINF:-1 tvg-id="" tvg-name="AlSharqiya sd" tvg-logo="" group-title="IRAQ قنوات العراقية",AlSharqiya sd
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/92
+#EXTINF:-1 tvg-id="" tvg-name="AlsharqiyaNews sd" tvg-logo="" group-title="IRAQ قنوات العراقية",AlsharqiyaNews sd
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/91
+#EXTINF:-1 tvg-id="" tvg-name="ALSUMARIA HD" tvg-logo="" group-title="IRAQ قنوات العراقية",ALSUMARIA HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/95
+#EXTINF:-1 tvg-id="" tvg-name="Altaghier" tvg-logo="" group-title="IRAQ قنوات العراقية",Altaghier
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/89
+#EXTINF:-1 tvg-id="" tvg-name="Anb iraq" tvg-logo="" group-title="IRAQ قنوات العراقية",Anb iraq
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/76
+#EXTINF:-1 tvg-id="" tvg-name="Asia TV" tvg-logo="" group-title="IRAQ قنوات العراقية",Asia TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/79
+#EXTINF:-1 tvg-id="" tvg-name="Baghdad" tvg-logo="" group-title="IRAQ قنوات العراقية",Baghdad
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/84
+#EXTINF:-1 tvg-id="" tvg-name="Dejlah" tvg-logo="" group-title="IRAQ قنوات العراقية",Dejlah
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/88
+#EXTINF:-1 tvg-id="" tvg-name="DIJLAH HD" tvg-logo="" group-title="IRAQ قنوات العراقية",DIJLAH HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/96
+#EXTINF:-1 tvg-id="" tvg-name="Hadath Iraq TV" tvg-logo="" group-title="IRAQ قنوات العراقية",Hadath Iraq TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/77
+#EXTINF:-1 tvg-id="" tvg-name="HOUNA BAGHDAD HD" tvg-logo="" group-title="IRAQ قنوات العراقية",HOUNA BAGHDAD HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/97
+#EXTINF:-1 tvg-id="" tvg-name="Imamhussain" tvg-logo="" group-title="IRAQ قنوات العراقية",Imamhussain
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/80
+#EXTINF:-1 tvg-id="" tvg-name="Ishtar TV" tvg-logo="" group-title="IRAQ قنوات العراقية",Ishtar TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/73
+#EXTINF:-1 tvg-id="" tvg-name="MUSICALRAMAS HD" tvg-logo="" group-title="IRAQ قنوات العراقية",MUSICALRAMAS HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/93
+#EXTINF:-1 tvg-id="" tvg-name="Samaraa" tvg-logo="" group-title="IRAQ قنوات العراقية",Samaraa
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/83
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆القنوات الاماراتية☆▄ ▂ ▁" tvg-logo="" group-title="UAE القنوات الاماراتية",▁ ▂ ▄☆القنوات الاماراتية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/162
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/153
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi drama" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi drama
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/149
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi drama HD" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi drama HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/148
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi emarat" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi emarat
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/151
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi emarat HD" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi emarat HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/150
+#EXTINF:-1 tvg-id="" tvg-name="Abudhabi HD" tvg-logo="" group-title="UAE القنوات الاماراتية",Abudhabi HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/152
+#EXTINF:-1 tvg-id="" tvg-name="Alan" tvg-logo="" group-title="UAE القنوات الاماراتية",Alan
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/155
+#EXTINF:-1 tvg-id="" tvg-name="Aldhafra" tvg-logo="" group-title="UAE القنوات الاماراتية",Aldhafra
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/154
+#EXTINF:-1 tvg-id="" tvg-name="Alsharqa" tvg-logo="" group-title="UAE القنوات الاماراتية",Alsharqa
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/145
+#EXTINF:-1 tvg-id="" tvg-name="Alsharqiya from kalba" tvg-logo="" group-title="UAE القنوات الاماراتية",Alsharqiya from kalba
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/144
+#EXTINF:-1 tvg-id="" tvg-name="Alwoustatv" tvg-logo="" group-title="UAE القنوات الاماراتية",Alwoustatv
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/142
+#EXTINF:-1 tvg-id="" tvg-name="Dubai one HD" tvg-logo="" group-title="UAE القنوات الاماراتية",Dubai one HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/160
+#EXTINF:-1 tvg-id="" tvg-name="Dubai one sd" tvg-logo="" group-title="UAE القنوات الاماراتية",Dubai one sd
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/159
+#EXTINF:-1 tvg-id="" tvg-name="Dubai TV" tvg-logo="" group-title="UAE القنوات الاماراتية",Dubai TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/161
+#EXTINF:-1 tvg-id="" tvg-name="Dubai zaman" tvg-logo="" group-title="UAE القنوات الاماراتية",Dubai zaman
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/157
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo abudhabi" tvg-logo="" group-title="UAE القنوات الاماراتية",Natgeo abudhabi
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/147
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo abudhabi HD" tvg-logo="" group-title="UAE القنوات الاماراتية",Natgeo abudhabi HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/146
+#EXTINF:-1 tvg-id="" tvg-name="Noor dubai" tvg-logo="" group-title="UAE القنوات الاماراتية",Noor dubai
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/156
+#EXTINF:-1 tvg-id="" tvg-name="Sama Dubai" tvg-logo="" group-title="UAE القنوات الاماراتية",Sama Dubai
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/158
+#EXTINF:-1 tvg-id="" tvg-name="Sharqa sport" tvg-logo="" group-title="UAE القنوات الاماراتية",Sharqa sport
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/143
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆القنوات الاردنية☆▄ ▂ ▁" tvg-logo="" group-title="Jordan القنوات الاردنية",▁ ▂ ▄☆القنوات الاردنية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/172
+#EXTINF:-1 tvg-id="" tvg-name="ALDAWAA alshafy" tvg-logo="" group-title="Jordan القنوات الاردنية",ALDAWAA alshafy
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/164
+#EXTINF:-1 tvg-id="" tvg-name="ALordon Alyoom" tvg-logo="" group-title="Jordan القنوات الاردنية",ALordon Alyoom
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/168
+#EXTINF:-1 tvg-id="" tvg-name="Amn" tvg-logo="" group-title="Jordan القنوات الاردنية",Amn
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/167
+#EXTINF:-1 tvg-id="" tvg-name="Jordan lights" tvg-logo="" group-title="Jordan القنوات الاردنية",Jordan lights
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/165
+#EXTINF:-1 tvg-id="" tvg-name="Jordan sport" tvg-logo="" group-title="Jordan القنوات الاردنية",Jordan sport
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/170
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Tv" tvg-logo="" group-title="Jordan القنوات الاردنية",Jordan Tv
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/171
+#EXTINF:-1 tvg-id="" tvg-name="Kife" tvg-logo="" group-title="Jordan القنوات الاردنية",Kife
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/163
+#EXTINF:-1 tvg-id="" tvg-name="Manaseer" tvg-logo="" group-title="Jordan القنوات الاردنية",Manaseer
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/166
+#EXTINF:-1 tvg-id="" tvg-name="Roya" tvg-logo="" group-title="Jordan القنوات الاردنية",Roya
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/169
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات المغربية☆▄ ▂ ▁" tvg-logo="" group-title="MOROCCO قنوات المغربية",▁ ▂ ▄☆قنوات المغربية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/182
+#EXTINF:-1 tvg-id="" tvg-name="2M HD" tvg-logo="" group-title="MOROCCO قنوات المغربية",2M HD
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/180
+#EXTINF:-1 tvg-id="" tvg-name="Al aoula laayoune" tvg-logo="" group-title="MOROCCO قنوات المغربية",Al aoula laayoune
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/178
+#EXTINF:-1 tvg-id="" tvg-name="Al maghribia" tvg-logo="" group-title="MOROCCO قنوات المغربية",Al maghribia
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/175
+#EXTINF:-1 tvg-id="" tvg-name="Aloula" tvg-logo="" group-title="MOROCCO قنوات المغربية",Aloula
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/179
+#EXTINF:-1 tvg-id="" tvg-name="Arriadia" tvg-logo="" group-title="MOROCCO قنوات المغربية",Arriadia
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/177
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" group-title="MOROCCO قنوات المغربية",Assadissa
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/174
+#EXTINF:-1 tvg-id="" tvg-name="Athaqafia 4" tvg-logo="" group-title="MOROCCO قنوات المغربية",Athaqafia 4
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/176
+#EXTINF:-1 tvg-id="" tvg-name="tamazight tv8" tvg-logo="" group-title="MOROCCO قنوات المغربية",tamazight tv8
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/173
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات الكويتية☆▄ ▂ ▁" tvg-logo="" group-title="قنوات الكويتية",▁ ▂ ▄☆قنوات الكويتية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/191
+#EXTINF:-1 tvg-id="" tvg-name="ALRAI" tvg-logo="" group-title="قنوات الكويتية",ALRAI
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/183
+#EXTINF:-1 tvg-id="" tvg-name="Ktv 2" tvg-logo="" group-title="قنوات الكويتية",Ktv 2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/189
+#EXTINF:-1 tvg-id="" tvg-name="Ktv almajlis" tvg-logo="" group-title="قنوات الكويتية",Ktv almajlis
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/186
+#EXTINF:-1 tvg-id="" tvg-name="Ktv arabe" tvg-logo="" group-title="قنوات الكويتية",Ktv arabe
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/187
+#EXTINF:-1 tvg-id="" tvg-name="Ktv plus" tvg-logo="" group-title="قنوات الكويتية",Ktv plus
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/185
+#EXTINF:-1 tvg-id="" tvg-name="Ktv sports plus" tvg-logo="" group-title="قنوات الكويتية",Ktv sports plus
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/184
+#EXTINF:-1 tvg-id="" tvg-name="Ktvethraalive" tvg-logo="" group-title="قنوات الكويتية",Ktvethraalive
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/188
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait1" tvg-logo="" group-title="قنوات الكويتية",Kuwait1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/190
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات الليبية☆▄ ▂ ▁" tvg-logo="" group-title="قنوات الليبية",▁ ▂ ▄☆قنوات الليبية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/196
+#EXTINF:-1 tvg-id="" tvg-name="Alnabaa" tvg-logo="" group-title="قنوات الليبية",Alnabaa
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/194
+#EXTINF:-1 tvg-id="" tvg-name="Altanasuh" tvg-logo="" group-title="قنوات الليبية",Altanasuh
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/193
+#EXTINF:-1 tvg-id="" tvg-name="Libya 218 tv" tvg-logo="" group-title="قنوات الليبية",Libya 218 tv
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/192
+#EXTINF:-1 tvg-id="" tvg-name="Libya news" tvg-logo="" group-title="قنوات الليبية",Libya news
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/195
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات اليمنية☆▄ ▂ ▁" tvg-logo="" group-title="قنوات اليمنية",▁ ▂ ▄☆قنوات اليمنية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/205
+#EXTINF:-1 tvg-id="" tvg-name="Yemen" tvg-logo="" group-title="قنوات اليمنية",Yemen
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/204
+#EXTINF:-1 tvg-id="" tvg-name="Almasira TV" tvg-logo="" group-title="قنوات اليمنية",Almasira TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/199
+#EXTINF:-1 tvg-id="" tvg-name="Belqees TV" tvg-logo="" group-title="قنوات اليمنية",Belqees TV
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/202
+#EXTINF:-1 tvg-id="" tvg-name="Hadramout" tvg-logo="" group-title="قنوات اليمنية",Hadramout
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/197
+#EXTINF:-1 tvg-id="" tvg-name="Rushd" tvg-logo="" group-title="قنوات اليمنية",Rushd
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/203
+#EXTINF:-1 tvg-id="" tvg-name="Sanaa" tvg-logo="" group-title="قنوات اليمنية",Sanaa
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/201
+#EXTINF:-1 tvg-id="" tvg-name="Shabab Yemen" tvg-logo="" group-title="قنوات اليمنية",Shabab Yemen
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/198
+#EXTINF:-1 tvg-id="" tvg-name="Suhail" tvg-logo="" group-title="قنوات اليمنية",Suhail
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/200
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄☆قنوات السودانية☆▄ ▂ ▁" tvg-logo="" group-title="قنوات السودانية",▁ ▂ ▄☆قنوات السودانية☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/214
+#EXTINF:-1 tvg-id="" tvg-name="Afriqia1" tvg-logo="" group-title="قنوات السودانية",Afriqia1
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/206
+#EXTINF:-1 tvg-id="" tvg-name="Afriqia2" tvg-logo="" group-title="قنوات السودانية",Afriqia2
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/207
+#EXTINF:-1 tvg-id="" tvg-name="Afriqia3" tvg-logo="" group-title="قنوات السودانية",Afriqia3
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/208
+#EXTINF:-1 tvg-id="" tvg-name="Afriqia4" tvg-logo="" group-title="قنوات السودانية",Afriqia4
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/209
+#EXTINF:-1 tvg-id="" tvg-name="Alshorooq sudan" tvg-logo="" group-title="قنوات السودانية",Alshorooq sudan
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/213
+#EXTINF:-1 tvg-id="" tvg-name="Sudan tv" tvg-logo="" group-title="قنوات السودانية",Sudan tv
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/211
+#EXTINF:-1 tvg-id="" tvg-name="Sudani24" tvg-logo="" group-title="قنوات السودانية",Sudani24
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/212
+#EXTINF:-1 tvg-id="" tvg-name="Tayba" tvg-logo="" group-title="قنوات السودانية",Tayba
+http://iptv-janberyan.com:25461/janberyan01022019/010220451/210
