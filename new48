@@ -551,22 +551,6 @@ http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32176.m3u8
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32179.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 SD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 SD Local
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32175.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 1
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32163.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 2
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32162.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 3" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 3
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32161.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 4" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 4
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32160.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 5" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 5
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32159.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 6" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 6
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32158.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 7" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 7
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32157.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS FHD LOCAL 8" tvg-logo="" group-title="BN SPORTS",beIN SPORTS FHD LOCAL 8
-http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32156.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 1
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32174.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 2
@@ -587,6 +571,22 @@ http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32167.m3u8
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32166.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 10" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 10
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p1
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32163.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p2
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32162.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p3" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p3
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32161.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p4" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p4
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32160.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p5" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p5
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32159.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p6" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p6
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32158.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p7" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p7
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32157.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p8" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p8
+http://iptv-line.com:6969/live/hussboss1/51UrL0XB/32156.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="bein Sport 1 HD" tvg-logo="" group-title="BN SPORTS",bein Sport 1 HD
 http://iptv-line.com:6969/live/hussboss1/51UrL0XB/27757.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="bein Sport 2 HD" tvg-logo="" group-title="BN SPORTS",bein Sport 2 HD
