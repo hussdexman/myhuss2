@@ -75,7 +75,7 @@ http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/6175.m3u8
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/6174.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN FX HD" tvg-logo="" group-title="OSN",OSN FX HD
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/6172.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AR: OSN Star Movies HD" tvg-logo="" group-title="OSN",OSN Star Movies HD
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Star Movies HD" tvg-logo="" group-title="OSN",OSN Star Movies HD
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/4371.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Star Movies HD" tvg-logo="" group-title="OSN",OSN Star Movies HD
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/19288.m3u8
@@ -343,6 +343,10 @@ http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/4642.m3u8
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/19282.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Sports 2 Action" tvg-logo="" group-title="OSN",OSN Sports 2 Action
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/19281.m3u8
+#EXTINF:-1 tvg-ID="OSN Sports 2 HD" tvg-name="OSN SPORTS 2 HD" tvg-logo="" group-title="OSN",OSN SPORTS 2 HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/18008.m3u8
+#EXTINF:-1 tvg-ID="OSN Sports 3 HD" tvg-name="OSN SPORTS 3 HD" tvg-logo="" group-title="OSN",OSN SPORTS  3 HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/18007.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN WWE" tvg-logo="" group-title="OSN",OSN WWE
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/4358.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN WWE HD" tvg-logo="" group-title="OSN",OSN WWE HD
@@ -403,6 +407,8 @@ http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/18009.m3u8
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/5866.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" OSN CRICKET HD" tvg-logo="" group-title="OSN",OSN CRICKET HD
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/4705.m3u8
+#EXTINF:-1 tvg-ID="OSN Sports Cricket HD" tvg-name="OSN SPORTS CRICKET HD" tvg-logo="" group-title="OSN",OSN SPORTS CRICKET HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/18009.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="<<<<<< News >>>>>>" tvg-logo="" group-title="OSN",<<<<<< News >>>>>>
 http://mypanel.tv:8080/live/3fkenaso2h/RLJ8f65A/59100.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN CNBC ARABIA" tvg-logo="" group-title="OSN",OSN CNBC ARABIA
@@ -1377,3 +1383,99 @@ http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/7058.m3u8
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/7059.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AL RASHEED" tvg-logo="" group-title="ARABIC",AL RASHEED
 http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/7449.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AL RESALAH" tvg-logo="" group-title="ARABIC",AL RESALAH
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33036.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ALAFASY TV" tvg-logo="" group-title="ARABIC",ALAFASY TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32368.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AlMajd Quran" tvg-logo="" group-title="ARABIC",AlMajd Quran
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32370.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARMENIA TV" tvg-logo="" group-title="ARABIC",ARMENIA TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32372.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dawri Plus HD 1" tvg-logo="" group-title="ARABIC",Dawri Plus HD 1
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/31366.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dawri Plus HD 2" tvg-logo="" group-title="ARABIC",Dawri Plus HD 2
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/31367.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dawri Plus HD 4" tvg-logo="" group-title="ARABIC",Dawri Plus HD 4
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/31369.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Dawri Plust 3 HD" tvg-logo="" group-title="ARABIC",Dawri Plust 3 HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32284.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GM CHAABI" tvg-logo="" group-title="ARABIC",GM CHAABI
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33473.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GM Comedy" tvg-logo="" group-title="ARABIC",GM Comedy
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33476.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GM MOVIES" tvg-logo="" group-title="ARABIC",GM MOVIES
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33477.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GM Music HD" tvg-logo="" group-title="ARABIC",GM Music HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33475.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="GM News HD" tvg-logo="" group-title="ARABIC",GM News HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33474.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kentron TV" tvg-logo="" group-title="ARABIC",Kentron TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32373.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MECCA TV" tvg-logo="" group-title="ARABIC",MECCA TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33037.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Moroco 1 Alaoula FHD" tvg-logo="" group-title="ARABIC",Moroco 1 Alaoula FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Moroco 3 Arriadia FHD" tvg-logo="" group-title="ARABIC",Moroco 3 Arriadia FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33483.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Moroco 4 Arrabiaa FHD" tvg-logo="" group-title="ARABIC",Moroco 4 Arrabiaa FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33482.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Moroco 6 Assadissa FHD" tvg-logo="" group-title="ARABIC",Moroco 6 Assadissa FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33481.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Moroco 8 Tamazight FHD" tvg-logo="" group-title="ARABIC",Moroco 8 Tamazight FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33480.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="S7T Movies FHD" tvg-logo="" group-title="ARABIC",S7T Movies FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33479.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="S7T Sport FHD" tvg-logo="" group-title="ARABIC",S7T Sport FHD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33478.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZAD TV" tvg-logo="" group-title="ARABIC",ZAD TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/32369.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ksa sport 1" tvg-logo="" group-title="ARABIC",Ksa sport 1
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/31216.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Ksa sport 2" tvg-logo="" group-title="ARABIC",Ksa sport 2
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/31217.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="A1" tvg-logo="" group-title="ARABIC",A1 Jordan
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33057.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Falastiniah" tvg-logo="" group-title="ARABIC",Al Falastiniah
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33047.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alamaken Drama" tvg-logo="" group-title="ARABIC",Alamaken Drama
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33060.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Alaqsaa" tvg-logo="" group-title="ARABIC",Alaqsaa
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33048.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ALFAJER TV" tvg-logo="" group-title="ARABIC",ALFAJER TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33051.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Amman TV" tvg-logo="" group-title="ARABIC",Amman TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33055.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="An Najah Nbc" tvg-logo="" group-title="ARABIC",An Najah Nbc
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33053.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Awdeh" tvg-logo="" group-title="ARABIC",Awdeh
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33046.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARABIC AMEN" tvg-logo="" group-title="ARABIC",Jordan AMEN
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33064.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARABIC DERETNA" tvg-logo="" group-title="ARABIC",Jordan DERETNA
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33063.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARABIC HD" tvg-logo="" group-title="ARABIC",ARABIC HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33059.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARABIC SAMA" tvg-logo="" group-title="ARABIC",Jordan SAMA
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33062.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARABIC Sport" tvg-logo="" group-title="ARABIC",Jordan Sport
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33056.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KAIFA TV" tvg-logo="" group-title="ARABIC",KAIFA TV
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33061.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="KOL ALNAS" tvg-logo="" group-title="ARABIC",KOL ALNAS
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33058.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Maan" tvg-logo="" group-title="ARABIC",Maan
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33045.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Musawa" tvg-logo="" group-title="ARABIC",Musawa
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33044.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Noor ARABIC" tvg-logo="" group-title="ARABIC",Noor Jordan
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33054.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Palestine live" tvg-logo="" group-title="ARABIC",Palestine live
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33050.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Palestine Today" tvg-logo="" group-title="ARABIC",Palestine Today
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33049.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="QUDS" tvg-logo="" group-title="ARABIC",QUDS
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33043.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ROYA HD" tvg-logo="" group-title="ARABIC",ROYA HD
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33065.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Zweina Baladna" tvg-logo="" group-title="ARABIC",Zweina Baladna
+http://iptv-line.com:6969/live/hussboss211/RLJ8f65A/33052.m3u8
