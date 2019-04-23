@@ -195,6 +195,10 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/5404.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6135.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Cinema 2" tvg-logo="" group-title="OSN",OSN Cinema 2 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Zee Alwan" tvg-logo="" group-title="OSN",Zee Alwan
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/1503.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ZEE AFLAM" tvg-logo="" group-title="OSN",ZEE AFLAM
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/1009.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Fann" tvg-logo="" group-title="OSN",OSN Fann
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6147.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Al Youm" tvg-logo="" group-title="OSN",OSN Al Youm
@@ -319,6 +323,8 @@ http://mypanel.tv:8080/live/3fkenaso2h/80LmplYy/5899.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6013.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN MTV Live HD" tvg-logo="" group-title="OSN",OSN MTV Live HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4373.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="OSN MTV LIVE HD 1080P" tvg-logo="" group-title="OSN",OSN MTV LIVE HD 1080P
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/6977.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Music Now" tvg-logo="" group-title="OSN",OSN Music Now
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6148.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="<<<<<< Sports >>>>>>" tvg-logo="" group-title="OSN",<<<<<< Sports >>>>>>
@@ -433,46 +439,70 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/536.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4061.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 1 HD backup" tvg-logo="" group-title="MBC",MBC 1 HD backup
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/8673.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 1 HD (HEVC)" tvg-logo="" group-title="MBC",MBC 1 HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34129.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 2" tvg-logo="" group-title="MBC",MBC 2
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/2500.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 2 HD" tvg-logo="" group-title="MBC",MBC 2 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4060.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 2 HD backup" tvg-logo="" group-title="MBC",MBC 2 HD backup
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/537.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 2 HD (HEVC)" tvg-logo="" group-title="MBC",MBC 2 HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34128.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 3 HD" tvg-logo="" group-title="MBC",MBC 3 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4059.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 3 HD (HEVC)" tvg-logo="" group-title="MBC",MBC 3 HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34127.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 4" tvg-logo="" group-title="MBC",MBC 4
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/2502.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 4 HD" tvg-logo="" group-title="MBC",MBC 4 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/1042.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC 4 HD backup" tvg-logo="" group-title="MBC",MBC 4 HD backup
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4058.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC 4 HD (HEVC)" tvg-logo="" group-title="MBC",MBC 4 HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34126.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Action" tvg-logo="" group-title="MBC",MBC Action
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/2499.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Action HD" tvg-logo="" group-title="MBC",MBC Action HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4057.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Action HD backup" tvg-logo="" group-title="MBC",MBC Action HD backup
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/540.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC ACTION HD (HEVC)" tvg-logo="" group-title="MBC",MBC ACTION HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34125.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Max" tvg-logo="" group-title="MBC",MBC Max
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/2501.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Max HD" tvg-logo="" group-title="MBC",MBC Max HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4055.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC MAX HD (HEVC)" tvg-logo="" group-title="MBC",MBC MAX HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34123.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Drama" tvg-logo="" group-title="MBC",MBC Drama
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4056.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Drama HD" tvg-logo="" group-title="MBC",MBC Drama HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/538.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC  DRAMA HD (HEVC)" tvg-logo="" group-title="MBC",MBC  DRAMA HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34130.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Drama+ HD" tvg-logo="" group-title="MBC",MBC Drama+ HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/8036.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Drama+ HD" tvg-logo="" group-title="MBC",MBC Drama+ HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33776.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Variety HD" tvg-logo="" group-title="MBC",MBC Variety HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4054.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name=" MBC Bollywood" tvg-logo="" group-title="MBC",MBC Bollywood
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6793.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Bollywood HD (HEVC)" tvg-logo="" group-title="MBC",MBC Bollywood HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34124.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC Masr" tvg-logo="" group-title="MBC",MBC Masr
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/539.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC Masr HD" tvg-logo="" group-title="MBC",MBC Masr HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/1044.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MBC Masr 2" tvg-logo="" group-title="MBC",MBC Masr 2
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/7715.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Pro Sports 1HD" tvg-logo="" group-title="MBC",MBC Pro Sports 1HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/2497.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Pro Sports 2HD" tvg-logo="" group-title="MBC",MBC Pro Sports 2HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/2498.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MBC Pro Sports 3HD" tvg-logo="" group-title="MBC",MBC Pro Sports 3HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/1043.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="########## BEIN ##########" tvg-logo="http://cdn.mypanel.tv/picon/arabic.png" group-title="BEIN",########## BEIN ##########
 http://mypanel.tv:8080/live/3fkenaso2h/80LmplYy/5421.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beiN Movies 1 HD" tvg-logo="" group-title="BEIN",beiN Movies 1 HD
@@ -501,6 +531,14 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/6498.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/5999.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Travel HD" tvg-logo="" group-title="BEIN",beIN Travel HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FilmBox HD (HEVC)" tvg-logo="" group-title="BEIN",FilmBox HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34132.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fix & Foxi HD (HEVC)" tvg-logo="" group-title="BEIN",Fix & Foxi HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34131.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cinemachi kids HD (HEVC)" tvg-logo="" group-title="BEIN",Cinemachi kids HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Documentary Arab HD (HEVC)" tvg-logo="" group-title="BEIN",Documentary Arab HD (HEVC)
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34133.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Baraem HD" tvg-logo="" group-title="BEIN",beIN Baraem HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6494.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN Jeem HD" tvg-logo="" group-title="BEIN",beIN Jeem HD
@@ -515,10 +553,6 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/5998.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/17325.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS Global HD" tvg-logo="" group-title="BN SPORTS",beIN SPORTS Global HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32164.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 1 HD" tvg-logo="" group-title="BN SPORTS",BEIN MAX 1 HD
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32124.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 2 HD" tvg-logo="" group-title="BN SPORTS",BEIN MAX 2 HD
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32125.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN 1 HD" tvg-logo="" group-title="BN SPORTS",BEIN 1 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/8998.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN 2 HD" tvg-logo="" group-title="BN SPORTS",BEIN 2 HD
@@ -545,18 +579,34 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/9126.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/9125.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BEIN 13 HD" tvg-logo="" group-title="BN SPORTS",BEIN 13 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/9123.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 FHD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 FHD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32181.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 FHD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 FHD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32177.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 HD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 HD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32180.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 HD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 HD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32176.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 SD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 SD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32179.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 SD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 SD Local
-http://iptv-line.com:6969/live/hussboss281/80LmplYy/32175.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN 14 HD" tvg-logo="" group-title="BN SPORTS",beIN 14 HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33768.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN 15 HD" tvg-logo="" group-title="BN SPORTS",beIN 15 HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33767.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN 16 HD" tvg-logo="" group-title="BN SPORTS",beIN 16 HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 1 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 1 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 2 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 2 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 3 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 3 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 4 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 4 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39870.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 5 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 5 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39869.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 6 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 6 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39868.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 7 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 7 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39867.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 8 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 8 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39866.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 9 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 9 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39865.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 10 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 10 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39864.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS 11 SD" tvg-logo="" group-title="BN SPORTS",BEIN SPORTS 11 SD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/39863.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 1
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32174.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 2
@@ -577,6 +627,10 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/32167.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32166.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD Local 10" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD Local 10
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32165.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD LOCAL 11" tvg-logo="" group-title="BN SPORTS",beIN SPORTS HD LOCAL 11
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33774.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS HD LOCAL 12" tvg-logo="" group-title="BN SPORTS", beIN SPORTS HD LOCAL 12
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33773.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p1" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p1
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32163.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p2" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p2
@@ -593,6 +647,14 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/32158.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32157.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p8" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/32156.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p9" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p9
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33772.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p10" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p10
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33771.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p11" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p11
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33770.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN SPORTS 1080p12" tvg-logo="" group-title="BN SPORTS",beIN SPORTS 1080p12
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33769.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="bein Sport 1 HD" tvg-logo="" group-title="BN SPORTS",bein Sport 1 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/27757.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="bein Sport 2 HD" tvg-logo="" group-title="BN SPORTS",bein Sport 2 HD
@@ -743,6 +805,22 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/18905.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/18904.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Beout Q Sports 5 HD" tvg-logo="" group-title="BN SPORTS",Beout Q Sports 5 HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/18903.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 1 HD" tvg-logo="" group-title="BN SPORTS",BEIN MAX 1 HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32124.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN MAX 2 HD" tvg-logo="" group-title="BN SPORTS",BEIN MAX 2 HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32125.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 FHD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 FHD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32181.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 FHD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 FHD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32177.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 HD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 HD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32180.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 HD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 HD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32176.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 1 SD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 1 SD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32179.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="beIN Max 2 SD Local" tvg-logo="" group-title="BN SPORTS",beIN Max 2 SD Local
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/32175.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Bein NBA HD" tvg-logo="" group-title="BN SPORTS",Bein NBA HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/6354.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="US: Bein Sports US HD" tvg-logo="" group-title="BN SPORTS",US: Bein Sports US HD
@@ -829,8 +907,12 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/4064.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/4062.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi TV" tvg-logo="" group-title="ARABIC",Abu Dhabi TV
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/3385.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Drama HD" tvg-logo="" group-title="ARABIC",Abu Dhabi Drama HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34115.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Nat Geo" tvg-logo="" group-title="ARABIC",Abu Dhabi Nat Geo
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/3384.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Abu Dhabi Nat Geo HD" tvg-logo="" group-title="ARABIC",Abu Dhabi Nat Geo HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34114.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ADALEMARAT-HD" tvg-logo="" group-title="ARABIC",ADALEMARAT-HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/13168.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Sharjah Sport" tvg-logo="" group-title="ARABIC",Sharjah Sport
@@ -857,7 +939,9 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/1005.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/5505.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Rotana Aflam HD" tvg-logo="" group-title="ARABIC",Rotana Aflam HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/5506.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ROTANA DRAMA HD" tvg-logo="" group-title="ARABIC",ROTANA DRAMA HD
+#EXTINF:-1 tvg-ID="" tvg-name="Rotana Drama" tvg-logo="" group-title="ARABIC",Rotana Drama
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/33781.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Rotana Drama HD" tvg-logo="" group-title="ARABIC",Rotana Drama HD
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/27896.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="saudi 1 tv" tvg-logo="" group-title="ARABIC",saudi 1 tv
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/3045.m3u8
@@ -873,6 +957,22 @@ http://iptv-line.com:6969/live/hussboss281/80LmplYy/8524.m3u8
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/8525.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Al Jazeera Documentary" tvg-logo="" group-title="ARABIC",Al Jazeera Documentary
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/1001.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass One HD" tvg-logo="" group-title="ARABIC",Al Kass One HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34120.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Two HD" tvg-logo="" group-title="ARABIC",Al Kass Two HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34116.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Three HD" tvg-logo="" group-title="ARABIC",Al Kass Three HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34117.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Four HD" tvg-logo="" group-title="ARABIC",Al Kass Four HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34121.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Five HD" tvg-logo="" group-title="ARABIC",Al Kass Five HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34122.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Six HD" tvg-logo="" group-title="ARABIC",Al Kass Six HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34118.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Kass Seven HD" tvg-logo="" group-title="ARABIC",Al Kass Seven HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Arryadia HD" tvg-logo="" group-title="ARABIC",Arryadia HD
+http://iptv-line.com:6969/live/hussboss281/80LmplYy/34113.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Toyor Baby" tvg-logo="" group-title="ARABIC",Toyor Baby
 http://iptv-line.com:6969/live/hussboss281/80LmplYy/7061.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TOYOR AL JANAH" tvg-logo="" group-title="ARABIC",TOYOR AL JANAH
