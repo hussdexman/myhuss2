@@ -1869,3 +1869,7 @@ http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26625.m3u8
 http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26626.m3u8
 #EXTINF:-1 tvg-ID="sportklub3.rs" tvg-name="Ex-Yu: Sport Klub HD 3 Srb" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub3_hr.png" group-title="EX-YU",Ex-Yu: Sport Klub HD 3 Srb
 http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26627.m3u8
+#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Real Madrid TV FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/realmadridtv.png" group-title="Spain",ES: Real Madrid TV FHD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/17113.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ES: Real Madrid Channel" tvg-logo="http://iptvreseller.xyz:1234/Anh/realmadridtv.png" group-title="Spain",ES: Real Madrid Channel
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/7680.m3u8
