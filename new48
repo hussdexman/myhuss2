@@ -1837,3 +1837,35 @@ http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/47076.m3u8
 http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/47046.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ALRUWAD TV HD" tvg-logo="" group-title="ARABIC",ALRUWAD TV HD
 http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/47086.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Germany",DE: DAZN 1 FHD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/28269.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 2 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn2_de.png" group-title="Germany",DE: DAZN 2 FHD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/28270.m3u8
+#EXTINF:-1 tvg-ID="eir Sport 2" tvg-name="UK: Eir Sports2"" group-title="United Kingdom",UK: Eir Sports2
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/4684.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eir Sport 1 FHD" tvg-logo="" group-title="United Kingdom",UK: Eir Sport 1 FHD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/33544.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK: Eir Sport 2 FHD" tvg-logo="" group-title="United Kingdom",UK: Eir Sport 2 FHD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/33543.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IR: Irib Varzesh" tvg-logo="" group-title="Iran",IR: Irib Varzesh
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/2559.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORTKLUB 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Sportklubrshrsl.png" group-title="EX-YU",SLO: SPORTKLUB 1 HD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/6845.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORTKLUB 2 HD" tvg-logo="https://i.pinimg.com/originals/06/05/5f/06055ff0d1c05e56168715364aa84621.png" group-title="EX-YU",SLO: SPORTKLUB 2 HD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/6846.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORTKLUB 3 HD" tvg-logo="" group-title="EX-YU",SLO: SPORTKLUB 3 HD
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/6847.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="SLO: SPORTKLUB 4" tvg-logo="" group-title="EX-YU",SLO: SPORTKLUB 4
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/6848.m3u8
+#EXTINF:-1 tvg-ID="sportklub1.rs" tvg-name="EX-YU: Sport Klub 1 FHD HR" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub1_hr.png" group-title="EX-YU",EX-YU: Sport Klub 1 FHD HR
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26932.m3u8
+#EXTINF:-1 tvg-ID="sportklub2.rs" tvg-name="EX-YU: Sport Klub 2 FHD HR" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub2_hr.png" group-title="EX-YU",EX-YU: Sport Klub 2 FHD HR
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26933.m3u8
+#EXTINF:-1 tvg-ID="sportklub3.rs" tvg-name="EX-YU: Sport Klub 3 FHD HR" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub3_hr.png" group-title="EX-YU",EX-YU: Sport Klub 3 FHD HR
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26934.m3u8
+#EXTINF:-1 tvg-ID="sportklub1.rs" tvg-name="Ex-Yu: Sport Klub HD 1 Srb" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub1_hr.png" group-title="EX-YU",Ex-Yu: Sport Klub HD 1 Srb
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26625.m3u8
+#EXTINF:-1 tvg-ID="sportklub2.rs" tvg-name="Ex-Yu: Sport Klub HD 2 Srb" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub2_hr.png" group-title="EX-YU",Ex-Yu: Sport Klub HD 2 Srb
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26626.m3u8
+#EXTINF:-1 tvg-ID="sportklub3.rs" tvg-name="Ex-Yu: Sport Klub HD 3 Srb" tvg-logo="http://iptvreseller.xyz:1234/Anh/sportklub3_hr.png" group-title="EX-YU",Ex-Yu: Sport Klub HD 3 Srb
+http://iptv-line.com:6969/live/hussdexz1/UDC7Tn5B/26627.m3u8
