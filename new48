@@ -1941,3 +1941,129 @@ http://iptv-line.com:6969/live/hussbolo1/EVCFhV9p/33422.m3u8
 http://iptv-line.com:6969/live/hussbolo1/EVCFhV9p/33402.m3u8
 #EXTINF:-1 tvg-ID="sportv.br" tvg-name="BR: SporTV FHD" tvg-logo="" group-title="Only Match",BR: SporTV FHD
 http://iptv-line.com:6969/live/hussbolo1/EVCFhV9p/33404.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: FOX SPORTS 1 HD" tvg-logo="" group-title="Argentina",ARG: FOX SPORTS 1 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/29305.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: FOX SPORTS 2 HD" tvg-logo="" group-title="Argentina",ARG: FOX SPORTS 2 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/29304.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ARG: FOX SPORTS 3 HD" tvg-logo="" group-title="Argentina",ARG: FOX SPORTS 3 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/29303.m3u8
+#EXTINF:-1 tvg-ID="digi.sport.1.hu" tvg-name="HU: DIGI SPORT 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport1.png" group-title="Hungary",HU: DIGI SPORT 1
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4709.m3u8
+#EXTINF:-1 tvg-ID="digi.sport.2.hu" tvg-name="HU: DIGI SPORT 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport2.png" group-title="Hungary",HU: DIGI SPORT 2
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4708.m3u8
+#EXTINF:-1 tvg-ID="digi.sport.3.hu" tvg-name="HU: DIGI Sport 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport3.png" group-title="Hungary",HU: DIGI Sport 3
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8948.m3u8
+#EXTINF:-1 tvg-ID="digi.sport.3.hu" tvg-name="HU: DIGI SPORT 3x" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport3.png" group-title="Hungary",HU: DIGI SPORT 3x
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4707.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 1
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28280.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 10" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 10
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28271.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 2
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28279.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 3
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28278.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 4
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28277.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 5" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 5
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28276.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 6" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 6
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28275.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 7" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 7
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28274.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 8" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 8
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28273.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IT: DAZN Sport 9" tvg-logo="http://iptvreseller.xyz:1234/Anh/dazn1_de.png" group-title="Italy",IT: DAZN Sport 9
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/28272.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO:  DOLCE SPORT 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/dolcesport1.png" group-title="Romania",RO:  DOLCE SPORT 1
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7593.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO:  DOLCE SPORT 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/dolcesport2.png" group-title="Romania",RO:  DOLCE SPORT 2
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7594.m3u8
+#EXTINF:-1 tvg-ID="digisport1.ro" tvg-name="RO: Digi Sport 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport1.png" group-title="Romania",RO: Digi Sport 1
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4481.m3u8
+#EXTINF:-1 tvg-ID="digisport1.ro" tvg-name="RO: DIGI Sport 1 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport1.png" group-title="Romania",RO: DIGI Sport 1 FHD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/17242.m3u8
+#EXTINF:-1 tvg-ID="digisport2.ro" tvg-name="RO: Digi Sport 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport2.png" group-title="Romania",RO: Digi Sport 2
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4482.m3u8
+#EXTINF:-1 tvg-ID="digisport2.ro" tvg-name="RO: DIGI Sport 2 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport2.png" group-title="Romania",RO: DIGI Sport 2 FHD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/17241.m3u8
+#EXTINF:-1 tvg-ID="digisport3.ro" tvg-name="RO: Digi Sport 3" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport3.png" group-title="Romania",RO: Digi Sport 3
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4483.m3u8
+#EXTINF:-1 tvg-ID="digisport3.ro" tvg-name="RO: DIGI Sport 3 FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport3.png" group-title="Romania",RO: DIGI Sport 3 FHD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/17240.m3u8
+#EXTINF:-1 tvg-ID="digisport4.ro" tvg-name="RO: Digi Sport 4" tvg-logo="http://iptvreseller.xyz:1234/Anh/digisport4.png" group-title="Romania",RO: Digi Sport 4
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/4484.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO: DOLCE SPORT 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/Dolce_Sport_5.png/revision/latest?cb=20170812141957" group-title="Romania",RO: DOLCE SPORT 5
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7595.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="RO: Dolce Sport 6" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Dolce_Sport_HD.jpg/revision/latest?cb=20130104053858" group-title="Romania",RO: Dolce Sport 6
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7596.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RO: Dolce Sport 1HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/dolcesport1.png" group-title="Romania",VIP RO: Dolce Sport 1HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8407.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RO: Dolce Sport 2HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/dolcesport2.png" group-title="Romania",VIP RO: Dolce Sport 2HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8406.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP RO: Dolce Sport 3HD" tvg-logo="" group-title="Romania",VIP RO: Dolce Sport 3HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8405.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="US: ESPN" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="United States",US: ESPN
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/189.m3u8
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="US: ESPN 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" group-title="United States",US: ESPN 2
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/121.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="US: ESPN HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="United States",US: ESPN HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/129.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="US: ESPN HD 1080P" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn.png" group-title="United States",US: ESPN HD 1080P
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8581.m3u8
+#EXTINF:-1 tvg-ID="espnnews.us" tvg-name="US: ESPN News US HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espnnewsus.png" group-title="United States",US: ESPN News US HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7255.m3u8
+#EXTINF:-1 tvg-ID="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/espnu.png" group-title="United States",US: ESPN U HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/7256.m3u8
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="US: ESPN 2 HD 1080P" tvg-logo="http://iptvreseller.xyz:1234/Anh/espn2.png" group-title="United States",US: ESPN 2 HD 1080P
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8580.m3u8
+#EXTINF:-1 tvg-ID="espndeportes.us" tvg-name="US: ESPNDeportes HD 1080P" tvg-logo="http://iptvreseller.xyz:1234/Anh/espndeportes.png" group-title="United States",US: ESPNDeportes HD 1080P
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/8579.m3u8
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="VIP US: ESPN PLUS 01 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 01 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31138.m3u8
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="VIP US: ESPN PLUS 02 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 02 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31137.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 03 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 03 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31136.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 04 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 04 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31135.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 05 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 05 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31134.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 06 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 06 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31133.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 07 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 07 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31132.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 08 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 08 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31131.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 09 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 09 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31130.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 10 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 10 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31129.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 11 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 11 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31128.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 12 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 12 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31127.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 13 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 13 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31126.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 14 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 14 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31125.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 15 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 15 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31124.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 16 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 16 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31123.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 17 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 17 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31122.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 18 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 18 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31121.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 19 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 19 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31120.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP US: ESPN PLUS 20 HD" tvg-logo="" group-title="United States",VIP US: ESPN PLUS 20 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/31119.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="VIP SG: FOX SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="VipChannels",VIP SG: FOX SPORTS 1 HD
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/5983.m3u8
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="VIP UK: BT Sport 2 HD 1080p" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiTr4OFq-vjAhWafXAKHSg6D8QQjRx6BAgBEAU&url=https%3A%2F%2Fpastebin.com%2FVVVNLkzj&psig=AOvVaw0n8NVxDemAaml698309Yh0&ust=1565080950272581" group-title="United Kingdom",VIP UK: BT Sport 2 HD 1080p
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/6630.m3u8
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="VIP UK: BT Sport 3 HD 1080p" tvg-logo="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjDxqf0q-vjAhUXE4gKHasRCIgQjRx6BAgBEAU&url=http%3A%2F%2Fwww.live-eventsport.com%2F2019%2F04%2Fbt-sport-3.html&psig=AOvVaw1XAOhvK9x4iGT8R77mFd46&ust=1565081158511139" group-title="United Kingdom",VIP UK: BT Sport 3 HD 1080p
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/6631.m3u8
+#EXTINF:-1 tvg-ID="premiersports1.uk" tvg-name="VIP UK: Premier Sports FHD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/uk/PremierSports.uk.png" group-title="United Kingdom",VIP UK: Premier Sports FHD 1080
+http://m3ulink.com:6969/live/hussbolo1/EVCFhV9p/6971.m3u8
