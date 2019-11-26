@@ -13,7 +13,7 @@ http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/153.m3u8
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="" group-title="OSN HD",OSN Enigma
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN  Binge" tvg-logo="" group-title="OSN HD",OSN  Binge
+#EXTINF:-1 tvg-id="" tvg-name="OSN Binge" tvg-logo="" group-title="OSN HD",OSN Binge
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN Comedy" tvg-logo="" group-title="OSN HD",OSN Comedy
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/965.m3u8
@@ -217,9 +217,9 @@ http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/16.m3u8
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" beIN Junior" tvg-logo="" group-title="beIN Entertainment",beIN Junior
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet " tvg-logo="" group-title="beIN Entertainment"beIN Gourmet 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet " tvg-logo="" group-title="beIN Entertainment",beIN Gourmet 
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="" group-title="beIN Entertainment"beIN FATAFEAT HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="" group-title="beIN Entertainment",beIN FATAFEAT HD
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Documentary Bil Arabia HD" tvg-logo="" group-title="beIN Entertainment",Documentary Bil Arabia HD
 http://iptv.allkaicerteam.com:8080/live/alkaicer_av6z2f34n5/3g1m7wisav/868.m3u8
