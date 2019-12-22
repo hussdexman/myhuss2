@@ -213,6 +213,8 @@ http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/15
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/16
 #EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD" tvg-logo="" group-title="beIN Entertainment",beIN Jeem HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/22
+#EXTINF:-1 tvg-id="" tvg-name="beIN Baraeem" tvg-logo="" group-title="beIN Entertainment",beIN Baraeem
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2028
 #EXTINF:-1 tvg-id="" tvg-name=" beIN Junior" tvg-logo="" group-title="beIN Entertainment",beIN Junior
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/12
 #EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet " tvg-logo="" group-title="beIN Entertainment",beIN Gourmet 
@@ -357,40 +359,48 @@ http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2017
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2018
 #EXTINF:-1 tvg-id="" tvg-name="beIN Radio 5" tvg-logo="" group-title="beIN SPORTS",beIN Radio 5
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2019
-#EXTINF:-1 tvg-id="" tvg-name="  FajerTV1 FULL HD" tvg-logo="" group-title="BEIN SPORTS",  FajerTV1 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV1 FULL HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV1 FULL HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/996
-#EXTINF:-1 tvg-id="" tvg-name=" Fajr 1 HD" tvg-logo="" group-title="BEIN SPORTS", Fajr 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fajr 1 HD" tvg-logo="" group-title="BEIN SPORTS",Fajr 1 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/448
-#EXTINF:-1 tvg-id="" tvg-name=" Fajr 2 HD" tvg-logo="" group-title="BEIN SPORTS", Fajr 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fajr 2 HD" tvg-logo="" group-title="BEIN SPORTS",Fajr 2 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/449
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV1 HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV1 HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV1 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/584
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV1 SD" tvg-logo="" group-title="BEIN SPORTS", FajerTV1 SD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV1 SD" tvg-logo="" group-title="BEIN SPORTS",FajerTV1 SD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/585
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV2 FULL HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV2 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV2 FULL HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV2 FULL HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/586
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV2 HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV2 HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV2 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/587
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV2 SD" tvg-logo="" group-title="BEIN SPORTS", FajerTV2 SD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV2 SD" tvg-logo="" group-title="BEIN SPORTS",FajerTV2 SD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/588
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV3 FULL HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV3 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV3 FULL HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV3 FULL HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/589
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV3 HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV3 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV3 HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV3 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/590
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV3 SD" tvg-logo="" group-title="BEIN SPORTS", FajerTV3 SD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV3 SD" tvg-logo="" group-title="BEIN SPORTS",FajerTV3 SD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/591
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV4 FULL HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV4 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV4 FULL HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV4 FULL HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/592
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV4 HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV4 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV4 HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV4 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/593
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV4 SD" tvg-logo="" group-title="BEIN SPORTS", FajerTV4 SD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV4 SD" tvg-logo="" group-title="BEIN SPORTS",FajerTV4 SD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/594
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV5 FULL HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV5 FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV5 FULL HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV5 FULL HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/595
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV5 HD" tvg-logo="" group-title="BEIN SPORTS", FajerTV5 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV5 HD" tvg-logo="" group-title="BEIN SPORTS",FajerTV5 HD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/596
-#EXTINF:-1 tvg-id="" tvg-name=" FajerTV5 SD" tvg-logo="" group-title="BEIN SPORTS", FajerTV5 SD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV5 SD" tvg-logo="" group-title="BEIN SPORTS",FajerTV5 SD
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/597
+#EXTINF:-1 tvg-id="" tvg-name="Kol Elnas" tvg-logo="[""]" group-title="BEIN SPORTS",Kol Elnas
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/484
+#EXTINF:-1 tvg-id="" tvg-name="Al salam" tvg-logo="" group-title="BEIN SPORTS",Al salam
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/483
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal" tvg-logo="" group-title="BEIN SPORTS",Ajyal
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/482
+#EXTINF:-1 tvg-id="" tvg-name="Raya" tvg-logo="" group-title="BEIN SPORTS",Raya
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/481
 #EXTINF:-1 tvg-id="" tvg-name="•●★★ BOX OFFICE ★★●•" tvg-logo="" group-title="BOX OFFICE",•●★★ BOX OFFICE ★★●•
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/513
 #EXTINF:-1 tvg-id="" tvg-name="BOX OFFICE 1" tvg-logo="" group-title="BOX OFFICE",BOX OFFICE 1
@@ -413,6 +423,26 @@ http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/1478
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/1479
 #EXTINF:-1 tvg-id="" tvg-name="BOX ARAB 5" tvg-logo="" group-title="BOX OFFICE",BOX ARAB 5
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/1480
+#EXTINF:-1 tvg-id="" tvg-name="Netflix SCF FI" tvg-logo="" group-title="BOX OFFICE",Netflix SCF FI
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2041
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Kids" tvg-logo="" group-title="BOX OFFICE",Netflix Kids
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2042
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="" group-title="BOX OFFICE",Netflix Horror
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2043
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="" group-title="BOX OFFICE",Netflix Comedy
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2044
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Christmas" tvg-logo="" group-title="BOX OFFICE",NETFLIX Christmas
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2045
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION (  VIP )" tvg-logo="" group-title="BOX OFFICE",NETFLIX ACTION (  VIP )
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2046
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX  ACTION" tvg-logo="" group-title="BOX OFFICE",NETFLIX  ACTION
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2047
+#EXTINF:-1 tvg-id="" tvg-name="Netflix classic HD" tvg-logo="" group-title="BOX OFFICE",Netflix classic HD
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2038
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic HD" tvg-logo="" group-title="BOX OFFICE",Netflix Arabic HD
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2039
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action  HD" tvg-logo="" group-title="BOX OFFICE",Netflix Action  HD
+http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/2040
 #EXTINF:-1 tvg-id="" tvg-name="•●★★ ARABIC ★★●•" tvg-logo="" group-title="ARABIC",•●★★ ARABIC ★★●•
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/116
 #EXTINF:-1 tvg-id="" tvg-name=" Saudi Qraan" tvg-logo="" group-title="ARABIC", Saudi Qraan
@@ -433,14 +463,6 @@ http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/108
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/109
 #EXTINF:-1 tvg-id="" tvg-name=" Rotana Classic " tvg-logo="[""]" group-title="ARABIC", Rotana Classic 
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/110
-#EXTINF:-1 tvg-id="" tvg-name=" Raya" tvg-logo="" group-title="ARABIC", Raya
-http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/481
-#EXTINF:-1 tvg-id="" tvg-name=" Ajyal" tvg-logo="" group-title="ARABIC", Ajyal
-http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/482
-#EXTINF:-1 tvg-id="" tvg-name=" Kol Elnas" tvg-logo="[""]" group-title="ARABIC", Kol Elnas
-http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/484
-#EXTINF:-1 tvg-id="" tvg-name="Al salam" tvg-logo="" group-title="ARABIC",Al salam
-http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/483
 #EXTINF:-1 tvg-id="" tvg-name=" Aqsa" tvg-logo="" group-title="ARABIC", Aqsa
 http://iptv.allkaicerteam.com:8080/alkaicer_25gnqf3baz/fmp68j0qod/485
 #EXTINF:-1 tvg-id="" tvg-name=" Palstine Today" tvg-logo="" group-title="ARABIC", Palstine Today
