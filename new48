@@ -1,4 +1,45 @@
 #EXTM3U
+
+
+#EXTM3U
+#EXTINF:0,ALFajer International HD
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8
+#EXTINF:0,ALFajer TV 1 (West Bank)
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:0,ALFajer TV 2 (West Bank)
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:0,ALFajer TV 3 (West Bank)
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:0,ALFajer TV 4 (West Bank)
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+
+
+#EXTINF:0,ALFajer TV 1 (Gaza&Jordan)
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8
+#EXTINF:0,ALFajer TV 2 (Gaza&Jordan)
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/chunks.m3u8
+#EXTINF:0,ALFajer TV 3 (Gaza&Jordan)
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/chunks.m3u8
+#EXTINF:0,ALFajer TV 4 (Gaza&Jordan)
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/chunks.m3u8
+#EXTINF:0,ALFajer TV 1 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web
+#EXTINF:0,ALFajer TV 2 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web
+#EXTINF:0,ALFajer TV 3 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD1_web/web1
+#EXTINF:0,ALFajer TV 4 RTMP
+rtmp://vstreamgz.hadara.ps:1990/AlfajertvHD2_web/web1
+#EXTINF:0,ALFajer TV 1 RTMP
+rtmp://vstream3.hadara.ps:1990/AlfajertvHD1_web/web1
+#EXTINF:0,ALFajer TV 2 RTMP
+rtmp://vstream3.hadara.ps:1990/AlfajertvHD2_web/web1
+#EXTINF:0,ALFajer TV 3 RTMP
+rtmp://vstream3.hadara.ps:1990/AlfajertvHD1_web/web
+#EXTINF:0,ALFajer TV 4 RTMP
+rtmp://vstream3.hadara.ps:1990/AlfajertvHD2_web/web
+
+
 #EXTINF:-1,AlfajertvHD 1 Gaza
 http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8?nimblesessionid=35329096
 #EXTINF:-1,AlfajertvHD 2 Aldefa 
