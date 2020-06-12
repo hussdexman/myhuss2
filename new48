@@ -368,6 +368,76 @@ http://run.iptv.cab:80/live/vineman227/vineman227/3232.m3u8
 #EXTINF:-1 TVG-ID="" TVG-NAME=""B4U Plus" tvg-logo="" group-title="MBC HD",B4U Plus
 http://run.iptv.cab:80/live/vineman227/vineman227/3231.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- Movies-TV ---★★●•" tvg-logo="""" group-title="Movies-TV",•●★★--- Movies-TV ---★★●•
+http://iptv.allkaicerteam.com:8080/alkaicer_qbt0ypwi9o/s0h6mef4qg/121
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Coronavirus Pandemic" tvg-logo="" group-title="Movies-TV",Coronavirus Pandemic
+http://run.iptv.cab:80/live/vineman227/vineman227/25068.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club 1" tvg-logo="" group-title="Movies-TV",Cinema Club 1
+http://run.iptv.cab:80/live/vineman227/vineman227/1638.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club 2" tvg-logo="" group-title="Movies-TV",Cinema Club 2
+http://run.iptv.cab:80/live/vineman227/vineman227/1637.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club 3" tvg-logo="" group-title="Movies-TV",Cinema Club 3
+http://run.iptv.cab:80/live/vineman227/vineman227/1375.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club 4" tvg-logo="" group-title="Movies-TV",Cinema Club 4
+http://run.iptv.cab:80/live/vineman227/vineman227/1374.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Classic 1" tvg-logo="" group-title="Movies-TV",Cinema Club Classic 1
+http://run.iptv.cab:80/live/vineman227/vineman227/2600.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Classic 2" tvg-logo="" group-title="Movies-TV",Cinema Club Classic 2
+http://run.iptv.cab:80/live/vineman227/vineman227/2753.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 1" tvg-logo="" group-title="Movies-TV",Cinema Club Action 1
+http://run.iptv.cab:80/live/vineman227/vineman227/2601.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 2" tvg-logo="" group-title="Movies-TV",Cinema Club Action 2
+http://run.iptv.cab:80/live/vineman227/vineman227/2754.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 3" tvg-logo="" group-title="Movies-TV",Cinema Club Action 3
+http://run.iptv.cab:80/live/vineman227/vineman227/3708.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 4" tvg-logo="" group-title="Movies-TV",Cinema Club Action 4
+http://run.iptv.cab:80/live/vineman227/vineman227/3707.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 5" tvg-logo="" group-title="Movies-TV",Cinema Club Action 5
+http://run.iptv.cab:80/live/vineman227/vineman227/1370.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 6" tvg-logo="" group-title="Movies-TV",Cinema Club Action 6
+http://run.iptv.cab:80/live/vineman227/vineman227/1369.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 7" tvg-logo="" group-title="Movies-TV",Cinema Club Action 7
+http://run.iptv.cab:80/live/vineman227/vineman227/1368.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Action 8" tvg-logo="" group-title="Movies-TV",Cinema Club Action 8
+http://run.iptv.cab:80/live/vineman227/vineman227/1367.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Bollywood 1" tvg-logo="" group-title="Movies-TV",Cinema Club Bollywood 1
+http://run.iptv.cab:80/live/vineman227/vineman227/1366.m3u8 
+
+
+#EXTINF:-1 TVG-ID="" TVG-NAME=""Cinema Club Bollywood 2" tvg-logo="" group-title="Movies-TV",Cinema Club Bollywood 2
+http://run.iptv.cab:80/live/vineman227/vineman227/1365.m3u8 
+
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Entertainment ---★★●•" tvg-logo="""" group-title="beIN Entertainment",•●★★--- beIN Entertainment ---★★●•
 http://iptv.allkaicerteam.com:8080/alkaicer_qbt0ypwi9o/s0h6mef4qg/121
 
