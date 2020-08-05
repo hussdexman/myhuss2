@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AL KAICER IPTV" tvg-logo="" group-title="Islami",AL KAICER IPTV
-http://iptv.allkaicerteam.com:8080/live/kaicer_VIPluwofs/mvl296/3019.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="•●★★---beIN SPORTS HEVC 2 M ---★★●•" tvg-logo="" group-title="bein sports hvec",•●★★---beIN SPORTS HEVC 2 M ---★★●•
 http://iptv.allkaicerteam.com:8080/live/kaicer_VIPluwofs/mvl296/2854.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 Hevc 2m" tvg-logo="" group-title="bein sports hvec",Bein Sport 1 Hevc 2m
