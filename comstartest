@@ -1,158 +1,146 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Sport Full HD ---★★●•" tvg-logo="" group-title="4K (Only On 4K Devices)",•●★★--- beIN Sport Full HD ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Sport Full HD ---★★●•" tvg-logo="" group-title="beIN SPORTS FullHD",•●★★--- beIN Sport Full HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3220
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS 4K
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3245
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD1" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 FullHD" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS PREMIUM1 FullHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3221
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD2" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 FullHD" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS PREMIUM2 FullHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3222
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD3" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 FullHD" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS PREMIUM3 FullHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3223
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD4" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD4
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD1" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3224
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD5" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD2" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3225
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD6" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD6
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD3" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3226
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD7" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD7
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3230
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD8" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD4" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3227
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD9" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD9
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD5" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD5
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3228
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD10" tvg-logo="" group-title="4K (Only On 4K Devices)",beIN SPORTS FullHD10
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD6" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3230
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS FullHD7" tvg-logo="" group-title="beIN SPORTS FullHD",beIN SPORTS FullHD7
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3229
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- BEIN SPORTS HVEC---★★●•" tvg-logo="""" group-title="bein sports hvec",•●★★--- BEIN SPORTS HVEC---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- BEIN SPORTS HVEC---★★●•" tvg-logo="""" group-title="beIN SPORTS HVEC (H265)",•●★★--- BEIN SPORTS HVEC---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/492
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports 1 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HEVC" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS PREMIUM1 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/459
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports 2 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HEVC" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS PREMIUM2 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/450
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  3 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  3 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HEVC" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS PREMIUM3 HEVC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/451
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  4 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  4 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS1 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS1 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/452
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  5 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  5 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS2 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS2 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/453
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  6 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  6 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS3 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS3 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/454
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  7 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  7 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS4 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS4 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/455
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  8 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  8 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS5 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS5 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/456
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  9 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  9 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS6 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS6 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/457
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports  10 4K HEVC" tvg-logo="[]" group-title="bein sports hvec",AR: beIN Sports  10 4K HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS7 H265" tvg-logo="[]" group-title="beIN SPORTS HVEC (H265)",beIN SPORTS7 H265
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/458
 #EXTINF:-1 tvg-id="" tvg-name="•●★★---Local beIN SPORTS G HD ---★★●•" tvg-logo="" group-title="beIN SPORTS HD",•●★★---Local beIN SPORTS G HD ---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2058
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 1" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2059
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 2" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2060
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 3" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2061
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 4" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2062
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 5" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2063
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 6" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 6
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2064
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 7" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 7
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2065
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 8" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 8
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2066
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 9" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 9
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3231
-#EXTINF:-1 tvg-id="" tvg-name="local bein sport hd 10" tvg-logo="" group-title="beIN SPORTS HD",local bein sport hd 10
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3232
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SPORTS HD ---★★●•" tvg-logo="""" group-title="beIN SPORTS HD",•●★★--- beIN SPORTS HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/117
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Soprt HD" tvg-logo="" group-title="beIN SPORTS HD",AR: beIN Soprt HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/960
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN sports News" tvg-logo="" group-title="beIN SPORTS HD",AR: beIN sports News
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News" tvg-logo="" group-title="beIN SPORTS HD",beIN SPORTS News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2051
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD1" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD (Global)" tvg-logo="" group-title="beIN SPORTS HD",beIN SPORTS HD (Global)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/960
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 1 HD" tvg-logo="" group-title="beIN SPORTS HD",beIN Sport XTRA 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3620
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport XTRA 2 HD" tvg-logo="" group-title="beIN SPORTS HD",beIN Sport XTRA 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3621
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS PREMIUM1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/46
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD2" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS PREMIUM2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/47
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD3" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS PREMIUM3 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/48
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD4" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD4
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 1HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/49
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD5" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 2HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/50
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD6" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD6
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 3HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/51
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD7" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD7
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 4HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/52
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD8" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 5HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/53
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD9" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD9
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 6HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/54
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD10" tvg-logo="[]" group-title="beIN SPORTS HD",AR: beIN SPORTS HD10
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7HD" tvg-logo="[]" group-title="beIN SPORTS HD",beIN SPORTS 7HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/55
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD11" tvg-logo="" group-title="beIN SPORTS HD",AR: beIN SPORTS HD11
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS 1 ENGLISH HD" tvg-logo="" group-title="beIN SPORTS HD", beIN SPORTS 1 ENGLISH HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3001
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS HD12" tvg-logo="" group-title="beIN SPORTS HD",AR: beIN SPORTS HD12
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS 2 ENGLISH HD" tvg-logo="" group-title="beIN SPORTS HD", beIN SPORTS 2 ENGLISH HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3002
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SPORTS SD ---★★●•" tvg-logo="" group-title="beIN SPORTS SD",•●★★--- beIN SPORTS SD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2873
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD1" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD1
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM1 SD" tvg-logo="[]" group-title="beIN SPORTS SD",beIN SPORTS PREMIUM1 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/56
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD2" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD2
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM2 SD" tvg-logo="[]" group-title="beIN SPORTS SD",beIN SPORTS PREMIUM2 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/57
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD3" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM3 SD" tvg-logo="[]" group-title="beIN SPORTS SD",beIN SPORTS PREMIUM3 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/58
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD4" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD4
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS SD 1" tvg-logo="[]" group-title="beIN SPORTS SD", beIN SPORTS SD 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/59
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD5" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD5
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS SD 2" tvg-logo="[]" group-title="beIN SPORTS SD",beIN SPORTS SD 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/60
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD6" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD6
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS SD 3" tvg-logo="[]" group-title="beIN SPORTS SD", beIN SPORTS SD 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/93
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD7" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD7
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS SD 4" tvg-logo="[]" group-title="beIN SPORTS SD", beIN SPORTS SD 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/92
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD8" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS SD 5" tvg-logo="[]" group-title="beIN SPORTS SD",beIN SPORTS SD 5
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/91
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD9" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD9
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS SD 6" tvg-logo="[]" group-title="beIN SPORTS SD", beIN SPORTS SD 6
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/61
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD10" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD10
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS SD7" tvg-logo="[]" group-title="beIN SPORTS SD",AR: beIN SPORTS SD7
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1459
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SPORTS LOW ---★★●•" tvg-logo="""" group-title="beIN SPORTS LOW",•●★★--- beIN SPORTS LOW ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/119
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS LOW1" tvg-logo="" group-title="beIN SPORTS LOW",AR: beIN SPORTS LOW1
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS PREMINUM low1" tvg-logo="" group-title="beIN SPORTS LOW", beIN SPORTS PREMINUM low1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/62
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS LOW2" tvg-logo="" group-title="beIN SPORTS LOW",AR: beIN SPORTS LOW2
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS PREMINUM low 2" tvg-logo="" group-title="beIN SPORTS LOW", beIN SPORTS PREMINUM low 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/63
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS LOW3" tvg-logo="" group-title="beIN SPORTS LOW",AR: beIN SPORTS LOW3
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM low3" tvg-logo="" group-title="beIN SPORTS LOW",beIN SPORTS PREMIUM low3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/64
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS LOW4" tvg-logo="" group-title="beIN SPORTS LOW",AR: beIN SPORTS LOW4
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS low 1" tvg-logo="" group-title="beIN SPORTS LOW", beIN SPORTS low 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/65
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS LOW5" tvg-logo="[" group-title="beIN SPORTS LOW",AR: beIN SPORTS LOW5
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORTS low 2" tvg-logo="[" group-title="beIN SPORTS LOW", beIN SPORTS low 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/66
-#EXTINF:-1 tvg-id="" tvg-name="AR:bein sport low6" tvg-logo="" group-title="beIN SPORTS LOW",AR:bein sport low6
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 3" tvg-logo="" group-title="beIN SPORTS LOW",bein sport low 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2108
-#EXTINF:-1 tvg-id="" tvg-name="AR:bein sport low7" tvg-logo="" group-title="beIN SPORTS LOW",AR:bein sport low7
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 4" tvg-logo="" group-title="beIN SPORTS LOW",bein sport low 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2109
-#EXTINF:-1 tvg-id="" tvg-name="AR:bein sport low8" tvg-logo="" group-title="beIN SPORTS LOW",AR:bein sport low8
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 5" tvg-logo="" group-title="beIN SPORTS LOW",bein sport low 5
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2110
-#EXTINF:-1 tvg-id="" tvg-name="AR:bein sport low9" tvg-logo="" group-title="beIN SPORTS LOW",AR:bein sport low9
+#EXTINF:-1 tvg-id="" tvg-name="bein sport low 6" tvg-logo="" group-title="beIN SPORTS LOW",bein sport low 6
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2111
-#EXTINF:-1 tvg-id="" tvg-name="AR: bein sport low10" tvg-logo="" group-title="beIN SPORTS LOW",AR: bein sport low10
+#EXTINF:-1 tvg-id="" tvg-name=" bein sport low 7" tvg-logo="" group-title="beIN SPORTS LOW", bein sport low 7
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2112
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- Radio beIN --★★●• " tvg-logo="" group-title="beIN SPORTS LOW",•●★★--- Radio beIN --★★●• 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2014
-#EXTINF:-1 tvg-id="" tvg-name="beIN Radio 1" tvg-logo="" group-title="beIN SPORTS LOW",beIN Radio 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2015
-#EXTINF:-1 tvg-id="" tvg-name="beIN Radio 2" tvg-logo="" group-title="beIN SPORTS LOW",beIN Radio 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2016
-#EXTINF:-1 tvg-id="" tvg-name="beIN Radio 3" tvg-logo="" group-title="beIN SPORTS LOW",beIN Radio 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2017
-#EXTINF:-1 tvg-id="" tvg-name="beIN Radio 4" tvg-logo="" group-title="beIN SPORTS LOW",beIN Radio 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2018
-#EXTINF:-1 tvg-id="" tvg-name="beIN Radio 5" tvg-logo="" group-title="beIN SPORTS LOW",beIN Radio 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2019
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- Radio beIN --★★●• " tvg-logo="" group-title="beIN SPORTS Radio",•●★★--- Radio beIN --★★●• 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/20140000
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 1 premium" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 1 premium
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3546
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 2 premium" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 2 premium
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3547
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 1" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3548
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 2" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3549
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 3" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3550
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 4" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3551
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 5" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3552
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 6" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3553
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bein 7" tvg-logo="" group-title="beIN SPORTS Radio",Radio Bein 7
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3554
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- beout Q--★★●•" tvg-logo="" group-title="BEOUTQ",•●★★--- beout Q--★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2990
 #EXTINF:-1 tvg-id="" tvg-name="BEOUT 1 HD" tvg-logo="" group-title="BEOUTQ",BEOUT 1 HD
@@ -177,87 +165,93 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2999
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3000
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Entertainment ---★★●•" tvg-logo="""" group-title="beIN Entertainment",•●★★--- beIN Entertainment ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/121
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 HD" tvg-logo="" group-title="beIN Entertainment",AR: beIN Movies 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD" tvg-logo="" group-title="beIN Entertainment",beIN Movies 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/24
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="[" group-title="beIN Entertainment",AR: beIN Movies 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD" tvg-logo="[" group-title="beIN Entertainment",beIN Movies 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/17
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="[" group-title="beIN Entertainment",AR: beIN Movies 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD" tvg-logo="[" group-title="beIN Entertainment",beIN Movies 3 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/18
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 HD " tvg-logo="[" group-title="beIN Entertainment",AR: beIN Movies 4 HD 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD " tvg-logo="[" group-title="beIN Entertainment",beIN Movies 4 HD 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/19
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="" group-title="beIN Entertainment",AR: beIN Series 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOXOFFICE HD1" tvg-logo="" group-title="beIN Entertainment",beIN BOXOFFICE HD1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3276
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="" group-title="beIN Entertainment",beIN Series 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/20
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="" group-title="beIN Entertainment",AR: beIN Series 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="" group-title="beIN Entertainment",beIN Series 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/21
-#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN Outdoor" tvg-logo="[" group-title="beIN Entertainment",AR:  beIN Outdoor
+#EXTINF:-1 tvg-id="" tvg-name=" beIN Outdoor" tvg-logo="[" group-title="beIN Entertainment", beIN Outdoor
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/13
-#EXTINF:-1 tvg-id="" tvg-name="AR:  beIN AMC" tvg-logo="[" group-title="beIN Entertainment",AR:  beIN AMC
+#EXTINF:-1 tvg-id="" tvg-name=" beIN AMC" tvg-logo="[" group-title="beIN Entertainment", beIN AMC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/14
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN  Drama" tvg-logo="[" group-title="beIN Entertainment",AR: beIN  Drama
+#EXTINF:-1 tvg-id="" tvg-name="beIN  Drama" tvg-logo="[" group-title="beIN Entertainment",beIN  Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/15
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN  Gourmet" tvg-logo="[" group-title="beIN Entertainment",AR: beIN  Gourmet
+#EXTINF:-1 tvg-id="" tvg-name="beIN  Gourmet" tvg-logo="[" group-title="beIN Entertainment",beIN  Gourmet
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/16
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem HD" tvg-logo="[" group-title="beIN Entertainment",AR: beIN Jeem HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD" tvg-logo="[" group-title="beIN Entertainment",beIN Jeem HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/22
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Movies" tvg-logo="[" group-title="beIN Entertainment",AR: beIN Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies" tvg-logo="[" group-title="beIN Entertainment",beIN Fox Movies
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/23
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FATAFEAT HD" tvg-logo="[" group-title="beIN Entertainment",AR: beIN FATAFEAT HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="[" group-title="beIN Entertainment",beIN FATAFEAT HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/25
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraeem" tvg-logo="" group-title="beIN Entertainment",AR: beIN Baraeem
+#EXTINF:-1 tvg-id="" tvg-name="beIN Baraeem" tvg-logo="" group-title="beIN Entertainment",beIN Baraeem
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2028
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraem 2" tvg-logo="" group-title="beIN Entertainment",AR: beIN Baraem 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2950
 #EXTINF:-1 tvg-id="" tvg-name="AR :beIN_BOOMERANG" tvg-logo="" group-title="beIN Entertainment",AR :beIN_BOOMERANG
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2945
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DTX" tvg-logo="" group-title="beIN Entertainment",AR: beIN DTX
+#EXTINF:-1 tvg-id="" tvg-name="beIN DTX" tvg-logo="" group-title="beIN Entertainment",beIN DTX
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2946
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN JUNIOR HD" tvg-logo="" group-title="beIN Entertainment",AR: beIN JUNIOR HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN JUNIOR HD" tvg-logo="" group-title="beIN Entertainment",beIN JUNIOR HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2947
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DREAMWORKS HD" tvg-logo="" group-title="beIN Entertainment",AR: beIN DREAMWORKS HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN DREAMWORKS HD" tvg-logo="" group-title="beIN Entertainment",beIN DREAMWORKS HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2948
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOXOFFICE HD1" tvg-logo="" group-title="beIN Entertainment",AR: beIN BOXOFFICE HD1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3276
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOXOFFICE HD2" tvg-logo="" group-title="beIN Entertainment",AR: beIN BOXOFFICE HD2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3277
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN BOXOFFICE HD3" tvg-logo="" group-title="beIN Entertainment",AR: beIN BOXOFFICE HD3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3278
-#EXTINF:-1 tvg-id="" tvg-name="AR:Cartoon Network Arabic" tvg-logo="" group-title="beIN Entertainment",AR:Cartoon Network Arabic
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabic" tvg-logo="" group-title="beIN Entertainment",Cartoon Network Arabic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2949
-#EXTINF:-1 tvg-id="" tvg-name="AR: Seevii PRIME 1 HD" tvg-logo="" group-title="beIN Entertainment",AR: Seevii PRIME 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2951
-#EXTINF:-1 tvg-id="" tvg-name="AR: Seevii_PRIME 2 HD" tvg-logo="" group-title="beIN Entertainment",AR: Seevii_PRIME 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2952
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 1 Premiere SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 1 Premiere SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3502
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 2 Action SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 2 Action SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3503
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 3 Drama SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 3 Drama SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3504
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4 Family SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 4 Family SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3505
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- ART Channels ---★★●•" tvg-logo="""" group-title="ART Channels",•●★★--- ART Channels ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/122
-#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam 1" tvg-logo="" group-title="ART Channels",AR: ART Aflam 1
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="ART Channels",ART Aflam 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/997
-#EXTINF:-1 tvg-id="" tvg-name="AR: ART Aflam  2" tvg-logo="[" group-title="ART Channels",AR: ART Aflam  2
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam  2" tvg-logo="[" group-title="ART Channels",ART Aflam  2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/102
-#EXTINF:-1 tvg-id="" tvg-name="AR: ART Cinema" tvg-logo="[" group-title="ART Channels",AR: ART Cinema
+#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="[" group-title="ART Channels",ART Cinema
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/103
-#EXTINF:-1 tvg-id="" tvg-name="AR: ART Hekayat 1" tvg-logo="[" group-title="ART Channels",AR: ART Hekayat 1
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 1" tvg-logo="[" group-title="ART Channels",ART Hekayat 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/104
-#EXTINF:-1 tvg-id="" tvg-name="AR: ART Hekayat 2" tvg-logo="[" group-title="ART Channels",AR: ART Hekayat 2
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 2" tvg-logo="[" group-title="ART Channels",ART Hekayat 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/105
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- OSN HD ---★★●•" tvg-logo="" group-title="OSN HD",•●★★--- OSN HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/124
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Nat Geo SD" tvg-logo="[" group-title="OSN HD",AR: OSN Nat Geo SD
+#EXTINF:-1 tvg-id="" tvg-name="OSN: NICKELODEON HD" tvg-logo="" group-title="OSN HD",OSN: NICKELODEON HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3541
+#EXTINF:-1 tvg-id="" tvg-name="OSN :MIX HD" tvg-logo="" group-title="OSN HD",OSN :MIX HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3542
+#EXTINF:-1 tvg-id="" tvg-name="OSN :POP UP HD" tvg-logo="" group-title="OSN HD",OSN :POP UP HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3543
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo SD" tvg-logo="[" group-title="OSN HD",OSN Nat Geo SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/85
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Cinema 1 SD" tvg-logo="[" group-title="OSN HD",AR: OSN Cinema 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alyoum" tvg-logo="[" group-title="OSN HD",OSN Alyoum
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/86
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Nat Geo pepole SD" tvg-logo="[" group-title="OSN HD",AR: OSN Nat Geo pepole SD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo pepole " tvg-logo="[" group-title="OSN HD",OSN Nat Geo pepole 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/88
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Star World SD" tvg-logo="[" group-title="OSN HD",AR: OSN Star World SD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World SD" tvg-logo="[" group-title="OSN HD",OSN Star World SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/89
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Star Movies SD" tvg-logo="[" group-title="OSN HD",AR: OSN Star Movies SD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies SD" tvg-logo="[" group-title="OSN HD",OSN Star Movies SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/90
 #EXTINF:-1 tvg-id="" tvg-name="OSN:  ITV Choice" tvg-logo="" group-title="OSN HD",OSN:  ITV Choice
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2172
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Box Office 2" tvg-logo="" group-title="OSN HD",[OSN] OSN Box Office 2
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies firest" tvg-logo="" group-title="OSN HD",[OSN] Movies firest
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2825
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Box Office 3" tvg-logo="" group-title="OSN HD",[OSN] OSN Box Office 3
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] FX HD" tvg-logo="" group-title="OSN HD",[OSN] FX HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2826
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN  Binge" tvg-logo="[" group-title="OSN HD",AR: OSN  Binge
+#EXTINF:-1 tvg-id="" tvg-name="OSN: E" tvg-logo="" group-title="OSN HD",OSN: E
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3284
+#EXTINF:-1 tvg-id="" tvg-name="OSN  Movies First +2" tvg-logo="[" group-title="OSN HD",OSN  Movies First +2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/84
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="[" group-title="OSN HD",OSN Movies
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/153
@@ -265,9 +259,9 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/153
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2543
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Mosalsalat" tvg-logo="" group-title="OSN HD",[OSN] Alfa Mosalsalat
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/995
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Musalsalat 2" tvg-logo="" group-title="OSN HD",[OSN] Alfa Musalsalat 2
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Comedy " tvg-logo="" group-title="OSN HD",[OSN] Comedy 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2542
-#EXTINF:-1 tvg-id="" tvg-name="OSN :  KIDS ZONE " tvg-logo="" group-title="OSN HD",OSN :  KIDS ZONE 
+#EXTINF:-1 tvg-id="" tvg-name="OSN : ID" tvg-logo="" group-title="OSN HD",OSN : ID
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/154
 #EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="[" group-title="OSN HD",OSN Action
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/155
@@ -285,14 +279,10 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/160
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/161
 #EXTINF:-1 tvg-id="" tvg-name="OSN Disny Junior" tvg-logo="" group-title="OSN HD",OSN Disny Junior
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/162
-#EXTINF:-1 tvg-id="" tvg-name="OSN Enigma" tvg-logo="[" group-title="OSN HD",OSN Enigma
+#EXTINF:-1 tvg-id="" tvg-name="OSN E" tvg-logo="[" group-title="OSN HD",OSN E
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/164
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Show " tvg-logo="[" group-title="OSN HD",OSN Discovery Show 
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery " tvg-logo="[" group-title="OSN HD",OSN Discovery 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/165
-#EXTINF:-1 tvg-id="" tvg-name="OSN TLC" tvg-logo="" group-title="OSN HD",OSN TLC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/166
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Nickelodeon HD" tvg-logo="" group-title="OSN HD",OSN: Nickelodeon HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2969
 #EXTINF:-1 tvg-id="" tvg-name="OSN History Channel" tvg-logo="" group-title="OSN HD",OSN History Channel
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/167
 #EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science " tvg-logo="" group-title="OSN HD",OSN Discovery Science 
@@ -319,15 +309,15 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/993
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/991
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Cinema 2" tvg-logo="" group-title="OSN HD",[OSN] Alfa Cinema 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/992
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Cinema" tvg-logo="" group-title="OSN HD",[OSN] OSN Cinema
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN HBO" tvg-logo="" group-title="OSN HD",[OSN] OSN HBO
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/964
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Alyoum" tvg-logo="" group-title="OSN HD",[OSN] Alfa Alyoum
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] SYFY" tvg-logo="" group-title="OSN HD",[OSN] SYFY
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/990
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Ya Hala Aloula" tvg-logo="" group-title="OSN HD",[OSN] OSN Ya Hala Aloula
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/988
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] : Enigma" tvg-logo="" group-title="OSN HD",[OSN] : Enigma
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/987
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Series First" tvg-logo="" group-title="OSN HD",[OSN] OSN Series First
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] BBC First" tvg-logo="" group-title="OSN HD",[OSN] BBC First
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/986
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Animal Planet" tvg-logo="" group-title="OSN HD",[OSN] OSN Animal Planet
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/962
@@ -347,115 +337,109 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/979
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/977
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Kids" tvg-logo="" group-title="OSN HD",[OSN] OSN Kids
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/976
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Pop up" tvg-logo="" group-title="OSN HD",[OSN] Pop up
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Mezze" tvg-logo="" group-title="OSN HD",[OSN] Mezze
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/975
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies Family" tvg-logo="" group-title="OSN HD",[OSN] Movies Family
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/974
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Box Office 1" tvg-logo="" group-title="OSN HD",[OSN] OSN Box Office 1
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Play" tvg-logo="" group-title="OSN HD",[OSN] OSN Play
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/973
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] mix" tvg-logo="" group-title="OSN HD",[OSN] mix
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/972
-#EXTINF:-1 tvg-id="" tvg-name="OSN Fight Box HD" tvg-logo="" group-title="OSN HD",OSN Fight Box HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Family HD" tvg-logo="" group-title="OSN HD",OSN Movies Family HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/971
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Discovery HD" tvg-logo="" group-title="OSN HD",[OSN] OSN Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Discovery H" tvg-logo="" group-title="OSN HD",[OSN] OSN Discovery H
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/969
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Discovery ID" tvg-logo="" group-title="OSN HD",[OSN] Discovery ID
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Paramount" tvg-logo="" group-title="OSN HD",[OSN] Paramount
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/968
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Comedy Central" tvg-logo="" group-title="OSN HD",[OSN] OSN Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Aghani" tvg-logo="" group-title="OSN HD",[OSN] OSN Aghani
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/966
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-1HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-1HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2827
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-2HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-2HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN:  AL YAWM HD" tvg-logo="" group-title="OSN HD",OSN:  AL YAWM HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2828
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-3HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-3HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Nick JR" tvg-logo="" group-title="OSN HD",OSN: Nick JR
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2829
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-EXTRA-1HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-EXTRA-1HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN:  Alfa Safwa" tvg-logo="" group-title="OSN HD",OSN:  Alfa Safwa
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2830
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-EXTRA-2HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-EXTRA-2HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN: OSN BBC First" tvg-logo="" group-title="OSN HD",OSN: OSN BBC First
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2831
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ON-DEMAND-EXTRA-3HD" tvg-logo="" group-title="OSN HD",OSN: ON-DEMAND-EXTRA-3HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-HD" tvg-logo="" group-title="OSN HD",OSN ON-DEMAND-EXTRA-HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2832
-#EXTINF:-1 tvg-id="" tvg-name="YAHALA_SD" tvg-logo="" group-title="osn sd",YAHALA_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2891
-#EXTINF:-1 tvg-id="" tvg-name="Ya_Hala_Oula_SD" tvg-logo="" group-title="osn sd",Ya_Hala_Oula_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2892
-#EXTINF:-1 tvg-id="" tvg-name="YAHALA_CINEMA_SD" tvg-logo="" group-title="osn sd",YAHALA_CINEMA_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2893
-#EXTINF:-1 tvg-id="" tvg-name="CINEMA1_SD" tvg-logo="" group-title="osn sd",CINEMA1_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2894
-#EXTINF:-1 tvg-id="" tvg-name="FANN _SD" tvg-logo="" group-title="osn sd",FANN _SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2895
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC_NOW_SD" tvg-logo="" group-title="osn sd",MUSIC_NOW_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2896
-#EXTINF:-1 tvg-id="" tvg-name="ALYOUM_SD" tvg-logo="" group-title="osn sd",ALYOUM_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2897
-#EXTINF:-1 tvg-id="" tvg-name="MUSALSALAT_SD" tvg-logo="" group-title="osn sd",MUSALSALAT_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2898
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES_SD" tvg-logo="" group-title="osn sd",MOVIES_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2899
-#EXTINF:-1 tvg-id="" tvg-name="Movies_First_SD" tvg-logo="" group-title="osn sd",Movies_First_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2901
-#EXTINF:-1 tvg-id="" tvg-name="History_Channel_SD" tvg-logo="" group-title="osn sd",History_Channel_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2903
-#EXTINF:-1 tvg-id="" tvg-name="NAT_GEO_People_SD" tvg-logo="" group-title="osn sd",NAT_GEO_People_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2904
-#EXTINF:-1 tvg-id="" tvg-name="Nat_GEO_Wild_SD" tvg-logo="" group-title="osn sd",Nat_GEO_Wild_SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2905
+#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION SD" tvg-logo="" group-title="OSN HD",OSN ACTION SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3488
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies  SD" tvg-logo="" group-title="OSN HD",OSN Movies  SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3491
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First SD" tvg-logo="" group-title="OSN HD",OSN Movies First SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3499
+#EXTINF:-1 tvg-id="" tvg-name="OSN Serie First SD" tvg-logo="" group-title="OSN HD",OSN Serie First SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3500
+#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET SD" tvg-logo="" group-title="OSN HD",OSN ANIMAL PLANET SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3489
+#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO WILD SD" tvg-logo="" group-title="OSN HD",OSN NAT GEO WILD SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3498
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SD" tvg-logo="" group-title="OSN HD",OSN Discovery SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3490
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3495
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA AL-OULA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA AL-OULA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3496
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA CINEMA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA CINEMA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3497
+#EXTINF:-1 tvg-id="" tvg-name="WWE SD" tvg-logo="" group-title="OSN HD",WWE SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3492
+#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat_2 SD" tvg-logo="" group-title="OSN HD",OSN Musalsalat_2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3506
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- MBC HD ---★★●•" tvg-logo="" group-title="MY HD + MBC",•●★★--- MBC HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/125
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 1 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="" group-title="MY HD + MBC",MBC 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/845
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 2 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="" group-title="MY HD + MBC",MBC 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/846
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 3 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="" group-title="MY HD + MBC",MBC 3 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/847
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 4 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="" group-title="MY HD + MBC",MBC 4 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/848
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC 5 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="" group-title="MY HD + MBC",MBC 5 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2114
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Bollywood HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood HD" tvg-logo="" group-title="MY HD + MBC",MBC Bollywood HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/849
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Massr HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Massr HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Massr HD" tvg-logo="" group-title="MY HD + MBC",MBC Massr HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/850
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Masr 2 HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Masr 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 HD" tvg-logo="" group-title="MY HD + MBC",MBC Masr 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/851
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama HD" tvg-logo="" group-title="MY HD + MBC",MBC Drama HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/852
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Action HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Action HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="" group-title="MY HD + MBC",MBC Action HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/853
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Max HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Max HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" group-title="MY HD + MBC",MBC Max HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/854
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Iraq HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Iraq HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq HD" tvg-logo="" group-title="MY HD + MBC",MBC Iraq HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/855
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC Drama+ HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC Drama+ HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama+ HD" tvg-logo="" group-title="MY HD + MBC",MBC Drama+ HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/856
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: MBC+Variety HD" tvg-logo="" group-title="MY HD + MBC",MYHD: MBC+Variety HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC+Variety HD" tvg-logo="" group-title="MY HD + MBC",MBC+Variety HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/857
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Rewayat HD" tvg-logo="" group-title="MY HD + MBC",MYHD: FOX Rewayat HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Rewayat HD" tvg-logo="" group-title="MY HD + MBC",FOX Rewayat HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/859
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Life HD" tvg-logo="" group-title="MY HD + MBC",MYHD: FOX Life HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life HD" tvg-logo="" group-title="MY HD + MBC",FOX Life HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/860
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Family Movies HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Family Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies HD" tvg-logo="" group-title="MY HD + MBC",Family Movies HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/861
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: FOX Crime HD" tvg-logo="" group-title="MY HD + MBC",MYHD: FOX Crime HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX Crime HD" tvg-logo="" group-title="MY HD + MBC",FOX Crime HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/862
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Fox Action" tvg-logo="" group-title="MY HD + MBC",MYHD: Fox Action
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action" tvg-logo="" group-title="MY HD + MBC",Fox Action
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/863
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Film box" tvg-logo="" group-title="MY HD + MBC",MYHD: Film box
+#EXTINF:-1 tvg-id="" tvg-name="Film box" tvg-logo="" group-title="MY HD + MBC",Film box
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/864
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Docu Box HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Docu Box HD
+#EXTINF:-1 tvg-id="" tvg-name="Docu Box HD" tvg-logo="" group-title="MY HD + MBC",Docu Box HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/865
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Fight Box HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Fight Box HD
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="" group-title="MY HD + MBC",Fight Box HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/866
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Fox Movies" tvg-logo="" group-title="MY HD + MBC",MYHD: Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="" group-title="MY HD + MBC",Fox Movies
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/867
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Planet Earth HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Planet Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="Planet Earth HD" tvg-logo="" group-title="MY HD + MBC",Planet Earth HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/869
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Discovery SC HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Discovery SC HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery SC HD" tvg-logo="" group-title="MY HD + MBC",Discovery SC HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/871
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Gulli Arabic HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Gulli Arabic HD
+#EXTINF:-1 tvg-id="" tvg-name="Gulli Arabic HD" tvg-logo="" group-title="MY HD + MBC",Gulli Arabic HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/872
-#EXTINF:-1 tvg-id="" tvg-name="MYHD: Duck TV HD" tvg-logo="" group-title="MY HD + MBC",MYHD: Duck TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV HD" tvg-logo="" group-title="MY HD + MBC",Duck TV HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/874
 #EXTINF:-1 tvg-id="" tvg-name="MBC_1 sd" tvg-logo="" group-title="MY HD + MBC",MBC_1 sd
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2771
@@ -481,36 +465,36 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2780
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2781
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- KIDS ---★★●•" tvg-logo="" group-title="KIDS",•●★★--- KIDS ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1009
-#EXTINF:-1 tvg-id="" tvg-name="AR: Semsem" tvg-logo="" group-title="KIDS",AR: Semsem
+#EXTINF:-1 tvg-id="" tvg-name="Semsem" tvg-logo="" group-title="KIDS",Semsem
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1010
-#EXTINF:-1 tvg-id="" tvg-name="AR: Cartoon Network" tvg-logo="" group-title="KIDS",AR: Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="KIDS",Cartoon Network
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1011
-#EXTINF:-1 tvg-id="" tvg-name="AR: PBS Kids 1" tvg-logo="" group-title="KIDS",AR: PBS Kids 1
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids 1" tvg-logo="" group-title="KIDS",PBS Kids 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1012
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Mickey Channel" tvg-logo="" group-title="KIDS",AR: Al Mickey Channel
+#EXTINF:-1 tvg-id="" tvg-name="Al Mickey Channel" tvg-logo="" group-title="KIDS",Al Mickey Channel
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1013
-#EXTINF:-1 tvg-id="" tvg-name="AR: KARAMEESH" tvg-logo="" group-title="KIDS",AR: KARAMEESH
+#EXTINF:-1 tvg-id="" tvg-name="KARAMEESH" tvg-logo="" group-title="KIDS",KARAMEESH
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1014
-#EXTINF:-1 tvg-id="" tvg-name="AR: Kooky" tvg-logo="" group-title="KIDS",AR: Kooky
+#EXTINF:-1 tvg-id="" tvg-name="Kooky" tvg-logo="" group-title="KIDS",Kooky
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1015
-#EXTINF:-1 tvg-id="" tvg-name="AR: Hodhod" tvg-logo="" group-title="KIDS",AR: Hodhod
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1021
-#EXTINF:-1 tvg-id="" tvg-name="AR: Toyor Baby" tvg-logo="" group-title="KIDS",AR: Toyor Baby
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1018
-#EXTINF:-1 tvg-id="" tvg-name="AR: Toyor Al Ganna" tvg-logo="" group-title="KIDS",AR: Toyor Al Ganna
+#EXTINF:-1 tvg-id="" tvg-name="Toyor Al Ganna" tvg-logo="" group-title="KIDS",Toyor Al Ganna
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1020
-#EXTINF:-1 tvg-id="" tvg-name="AR: Maged" tvg-logo="" group-title="KIDS",AR: Maged
+#EXTINF:-1 tvg-id="" tvg-name="Maged" tvg-logo="" group-title="KIDS",Maged
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1019
-#EXTINF:-1 tvg-id="" tvg-name="AR: Spacetoon" tvg-logo="" group-title="KIDS",AR: Spacetoon
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="KIDS",Spacetoon
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1017
-#EXTINF:-1 tvg-id="" tvg-name="AR: Mody Kids" tvg-logo="" group-title="KIDS",AR: Mody Kids
+#EXTINF:-1 tvg-id="" tvg-name="KIDS-CO HD" tvg-logo="" group-title="KIDS",KIDS-CO HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1016
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- KAICER BOX OFFICE---★★●•" tvg-logo="" group-title="KAICER BOX OFFICE",•●★★--- KAICER BOX OFFICE---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/513
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX OFFICE 1" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX OFFICE 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/494
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX OFFICE 2" tvg-logo="[]" group-title="KAICER BOX OFFICE",KAICER BOX OFFICE 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/512
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 1" tvg-logo="" group-title="KAICER BOX OFFICE",Box Office 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3523
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 2" tvg-logo="" group-title="KAICER BOX OFFICE",Box Office 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3524
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 3" tvg-logo="" group-title="KAICER BOX OFFICE",Box Office 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3525
+#EXTINF:-1 tvg-id="" tvg-name="Box Office 4" tvg-logo="" group-title="KAICER BOX OFFICE",Box Office 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3526
 #EXTINF:-1 tvg-id="" tvg-name="KAICER BOX OFFICE 3" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX OFFICE 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/515
 #EXTINF:-1 tvg-id="" tvg-name="KAICER BOX OFFICE 4" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX OFFICE 4
@@ -521,16 +505,8 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/516
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2465
 #EXTINF:-1 tvg-id="" tvg-name="KAICER BOX OFFICE 7" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX OFFICE 7
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2466
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX ARAB 1" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX ARAB 1
+#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX Hendi " tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX Hendi 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1476
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX ARAB 2" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX ARAB 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1477
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX ARAB 3" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX ARAB 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1478
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX ARAB 4" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX ARAB 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1479
-#EXTINF:-1 tvg-id="" tvg-name="KAICER BOX ARAB 5" tvg-logo="" group-title="KAICER BOX OFFICE",KAICER BOX ARAB 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1480
 #EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Action" tvg-logo="" group-title="KAICER BOX OFFICE",[NETFLIX] Action
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2418
 #EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Thriller" tvg-logo="" group-title="KAICER BOX OFFICE",[NETFLIX] Thriller
@@ -547,20 +523,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2505
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2506
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX_HOME_CINEMA_1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_HOME_CINEMA_1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2507
-#EXTINF:-1 tvg-id="" tvg-name="shahid TV" tvg-logo="" group-title="KAICER BOX OFFICE",shahid TV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2464
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid Action]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Action]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2423
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid Aflam]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Aflam]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2424
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid Aflam2]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Aflam2]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2425
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid HINDI]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid HINDI]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2426
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid HORROR]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid HORROR]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2427
-#EXTINF:-1 tvg-id="" tvg-name="[Shahid RMANCE]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid RMANCE]
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2428
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX N action" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX N action
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2463
 #EXTINF:-1 tvg-id="" tvg-name="Netflex Action" tvg-logo="" group-title="KAICER BOX OFFICE",Netflex Action
@@ -579,18 +541,40 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2047
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2346
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX_DRAMA" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_DRAMA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2347
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_Musalsalat_3" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_Musalsalat_3
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIMATION HD" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX ANIMATION HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2349
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="" group-title="KAICER BOX OFFICE",Netflix Horror 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2350
 #EXTINF:-1 tvg-id="" tvg-name="Netflix Bollywood" tvg-logo="" group-title="KAICER BOX OFFICE",Netflix Bollywood
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2351
-#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama+" tvg-logo="" group-title="KAICER BOX OFFICE",Netflix Drama+
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2354
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX_KIDS2" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_KIDS2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2357
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX_THRILLER" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_THRILLER
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2358
+#EXTINF:-1 tvg-id="" tvg-name="shahid TV" tvg-logo="" group-title="KAICER BOX OFFICE",shahid TV
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2464
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Action]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Action]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2423
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Aflam]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Aflam]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2424
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid Aflam2]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid Aflam2]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2425
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HINDI]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid HINDI]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2426
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid HORROR]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid HORROR]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2427
+#EXTINF:-1 tvg-id="" tvg-name="[Shahid RMANCE]" tvg-logo="" group-title="KAICER BOX OFFICE",[Shahid RMANCE]
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2428
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_CARTON" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_CARTON
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3250
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ACTION red" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_ACTION red
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3251
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ROAP" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_ROAP
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3252
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID ZAMAN red" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID ZAMAN red
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3253
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID CINEMA red" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID CINEMA red
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3254
 #EXTINF:-1 tvg-id="" tvg-name="Alkaicer Action Movies" tvg-logo="" group-title="KAICER BOX OFFICE",Alkaicer Action Movies
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2398
 #EXTINF:-1 tvg-id="" tvg-name="Alkaicer B-Cinema" tvg-logo="" group-title="KAICER BOX OFFICE",Alkaicer B-Cinema
@@ -619,393 +603,475 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2409
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2410
 #EXTINF:-1 tvg-id="" tvg-name="Alkaicer The-Movies2" tvg-logo="" group-title="KAICER BOX OFFICE",Alkaicer The-Movies2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2411
-#EXTINF:-1 tvg-id="" tvg-name="MAX HD HORROR 1" tvg-logo="" group-title="KAICER BOX OFFICE",MAX HD HORROR 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2520
 #EXTINF:-1 tvg-id="" tvg-name="TOM &JERRY LIVE" tvg-logo="" group-title="KAICER BOX OFFICE",TOM &JERRY LIVE
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2819
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim Movies" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim Movies
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2914
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim Cinema 2" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim Cinema 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2915
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim EL ZAE3EM" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim EL ZAE3EM
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2916
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim Tom & Jerry" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim Tom & Jerry
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2920
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim Cinema 1" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim Cinema 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2921
-#EXTINF:-1 tvg-id="" tvg-name="X Premuim Kids" tvg-logo="" group-title="KAICER BOX OFFICE",X Premuim Kids
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2922
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Action" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10073891408328.png" group-title="KAICER BOX OFFICE",Aroma Action
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2953
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Arabic Films" tvg-logo="https://i.ibb.co/jb0TTsv/film.png" group-title="KAICER BOX OFFICE",Aroma Arabic Films
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2954
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Kids" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/11058240674126.png" group-title="KAICER BOX OFFICE",Aroma Kids
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2955
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Discovery" tvg-logo="https://i.ibb.co/k97wQ37/discovery-new-150.png" group-title="KAICER BOX OFFICE",Aroma Discovery
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2956
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Drama Films" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10806284451133.png" group-title="KAICER BOX OFFICE",Aroma Drama Films
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2957
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Masra7yat" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10598274552678.png" group-title="KAICER BOX OFFICE",Aroma Masra7yat
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2958
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Horror" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/11075616809022.png" group-title="KAICER BOX OFFICE",Aroma Horror
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2959
-#EXTINF:-1 tvg-id="" tvg-name="Aroma Zaman" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10177266297655.png" group-title="KAICER BOX OFFICE",Aroma Zaman
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2960
-#EXTINF:-1 tvg-id="" tvg-name="Aroma WWE" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10979810951588.png" group-title="KAICER BOX OFFICE",Aroma WWE
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2961
-#EXTINF:-1 tvg-id="" tvg-name="Aroma  Box Office 1" tvg-logo="" group-title="KAICER BOX OFFICE",Aroma  Box Office 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2962
-#EXTINF:-1 tvg-id="" tvg-name="Aroma  Box Office 2" tvg-logo="" group-title="KAICER BOX OFFICE",Aroma  Box Office 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2963
-#EXTINF:-1 tvg-id="" tvg-name="Aroma  Box Office 3" tvg-logo="" group-title="KAICER BOX OFFICE",Aroma  Box Office 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2964
-#EXTINF:-1 tvg-id="" tvg-name="Aroma  Box Office 4" tvg-logo="" group-title="KAICER BOX OFFICE",Aroma  Box Office 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2965
-#EXTINF:-1 tvg-id="" tvg-name="OXN INDIA" tvg-logo="" group-title="KAICER BOX OFFICE",OXN INDIA
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2933
-#EXTINF:-1 tvg-id="" tvg-name="OXN MOVIES 1" tvg-logo="" group-title="KAICER BOX OFFICE",OXN MOVIES 1
+#EXTINF:-1 tvg-id="" tvg-name="live film 4" tvg-logo="" group-title="KAICER BOX OFFICE",live film 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2934
-#EXTINF:-1 tvg-id="" tvg-name="OXN TARAB" tvg-logo="" group-title="KAICER BOX OFFICE",OXN TARAB
+#EXTINF:-1 tvg-id="" tvg-name="live film 3" tvg-logo="" group-title="KAICER BOX OFFICE",live film 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2935
-#EXTINF:-1 tvg-id="" tvg-name="OXN ZAMAN" tvg-logo="" group-title="KAICER BOX OFFICE",OXN ZAMAN
+#EXTINF:-1 tvg-id="" tvg-name="live film 2" tvg-logo="" group-title="KAICER BOX OFFICE",live film 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2936
-#EXTINF:-1 tvg-id="" tvg-name="OXN ISLAMIC" tvg-logo="" group-title="KAICER BOX OFFICE",OXN ISLAMIC
+#EXTINF:-1 tvg-id="" tvg-name="live film 1" tvg-logo="" group-title="KAICER BOX OFFICE",live film 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2937
-#EXTINF:-1 tvg-id="" tvg-name="DNH FILM" tvg-logo="" group-title="KAICER BOX OFFICE",DNH FILM
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_CARTON" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_CARTON
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2928
-#EXTINF:-1 tvg-id="" tvg-name="DNH KIDS" tvg-logo="" group-title="KAICER BOX OFFICE",DNH KIDS
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ZAMAN" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_ZAMAN
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2929
-#EXTINF:-1 tvg-id="" tvg-name="DNH TIATRO" tvg-logo="" group-title="KAICER BOX OFFICE",DNH TIATRO
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ROAP" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_ROAP
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2930
-#EXTINF:-1 tvg-id="" tvg-name="DNH ARABIC" tvg-logo="" group-title="KAICER BOX OFFICE",DNH ARABIC
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID_ACTION" tvg-logo="" group-title="KAICER BOX OFFICE",SHAHID_ACTION
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2931
-#EXTINF:-1 tvg-id="" tvg-name="Nimo Kids HD" tvg-logo="" group-title="KAICER BOX OFFICE",Nimo Kids HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2932
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Movies HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Movies HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2971
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Movies Frist HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Movies Frist HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2972
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Cinema 1 HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Cinema 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2973
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Cinema 2 HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Cinema 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2974
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Horror HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Horror HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2975
-#EXTINF:-1 tvg-id="" tvg-name="Panorama Tom & Jerry HD" tvg-logo="" group-title="KAICER BOX OFFICE",Panorama Tom & Jerry HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2976
-#EXTINF:-1 tvg-id="" tvg-name="DREAM KIDS" tvg-logo="" group-title="KAICER BOX OFFICE",DREAM KIDS
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2977
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax 1" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2989
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax 2" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2988
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax 3" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax 3
+#EXTINF:-1 tvg-id="" tvg-name="OZN_AHMEDZAKI" tvg-logo="" group-title="KAICER BOX OFFICE",OZN_AHMEDZAKI
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2987
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Classic 1" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Classic 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2978
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Classic 2" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Classic 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2985
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Classic 3" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Classic 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2984
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Moslsalat " tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Moslsalat 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2979
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Moslsalat 2" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Moslsalat 2
+#EXTINF:-1 tvg-id="" tvg-name="OZN_MASRAH_MASR" tvg-logo="" group-title="KAICER BOX OFFICE",OZN_MASRAH_MASR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3452
+#EXTINF:-1 tvg-id="" tvg-name="OZN_ADELEMAM" tvg-logo="" group-title="KAICER BOX OFFICE",OZN_ADELEMAM
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2986
-#EXTINF:-1 tvg-id="" tvg-name="ShofMax Elkeper Awy" tvg-logo="" group-title="KAICER BOX OFFICE",ShofMax Elkeper Awy
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2980
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema 1 HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Cinema 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="OZN_ISMAIL.YASEAN" tvg-logo="" group-title="KAICER BOX OFFICE",OZN_ISMAIL.YASEAN
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2985
+#EXTINF:-1 tvg-id="" tvg-name="Majestic movies3" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic movies3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3009
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema 2 HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Cinema 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3010
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Movies HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Classic" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Classic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3011
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Movies plus HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Movies plus HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3012
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Horror HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Horror HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3013
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Kids HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Kids HD
+#EXTINF:-1 tvg-id="" tvg-name="Majestic cinema1" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic cinema1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3014
-#EXTINF:-1 tvg-id="" tvg-name="Majestic Premium HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majestic Premium HD
+#EXTINF:-1 tvg-id="" tvg-name="majestic cinema2" tvg-logo="" group-title="KAICER BOX OFFICE",majestic cinema2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3015
-#EXTINF:-1 tvg-id="" tvg-name="Majistic Geographic HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majistic Geographic HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3016
-#EXTINF:-1 tvg-id="" tvg-name="Majistic Tom &Jerry HD" tvg-logo="" group-title="KAICER BOX OFFICE",Majistic Tom &Jerry HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3017
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action HD" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Action HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY_ACTION" tvg-logo="" group-title="KAICER BOX OFFICE",SONY_ACTION
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3246
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Action2 HD" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Action2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3247
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ AFALAM HEVC" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ AFALAM HEVC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3248
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ CINEMA HEVC" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ CINEMA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="SONY_MAX" tvg-logo="" group-title="KAICER BOX OFFICE",SONY_MAX
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2976
+#EXTINF:-1 tvg-id="" tvg-name="SONY_NAWAEAM" tvg-logo="" group-title="KAICER BOX OFFICE",SONY_NAWAEAM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2977
+#EXTINF:-1 tvg-id="" tvg-name="SONY_DRAMA" tvg-logo="" group-title="KAICER BOX OFFICE",SONY_DRAMA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3249
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Kids" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Kids
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3250
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies 2 HD" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Movies 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3251
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies 2HEVC" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Movies 2HEVC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3252
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies HD" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Movies HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3253
-#EXTINF:-1 tvg-id="" tvg-name="BeoutQ Movies1 HEVC" tvg-logo="" group-title="KAICER BOX OFFICE",BeoutQ Movies1 HEVC
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3254
-#EXTINF:-1 tvg-id="" tvg-name="MAX AFLAM 1" tvg-logo="" group-title="KAICER BOX OFFICE",MAX AFLAM 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3255
-#EXTINF:-1 tvg-id="" tvg-name="MAX AFLAM 2" tvg-logo="" group-title="KAICER BOX OFFICE",MAX AFLAM 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3256
-#EXTINF:-1 tvg-id="" tvg-name="MAX AFLAM 3" tvg-logo="" group-title="KAICER BOX OFFICE",MAX AFLAM 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3257
-#EXTINF:-1 tvg-id="" tvg-name="MAX AFLAM 4" tvg-logo="" group-title="KAICER BOX OFFICE",MAX AFLAM 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3258
-#EXTINF:-1 tvg-id="" tvg-name="MAX CINEMA 1" tvg-logo="" group-title="KAICER BOX OFFICE",MAX CINEMA 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3259
-#EXTINF:-1 tvg-id="" tvg-name="MAX CINEMA 2" tvg-logo="" group-title="KAICER BOX OFFICE",MAX CINEMA 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3260
-#EXTINF:-1 tvg-id="" tvg-name="MAX ACTION" tvg-logo="" group-title="KAICER BOX OFFICE",MAX ACTION
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3261
+#EXTINF:-1 tvg-id="" tvg-name="fushar-action" tvg-logo="" group-title="KAICER BOX OFFICE",fushar-action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2978
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION +1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX ACTION +1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3410
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME +1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX ANIME +1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3416
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ANIME +2" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX ANIME +2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3417
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY +2" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX COMEDY +2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3422
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror+" tvg-logo="" group-title="KAICER BOX OFFICE",Netflix Horror+
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3429
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Kids +1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX Kids +1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3436
+#EXTINF:-1 tvg-id="" tvg-name="Netflix KIDS +2" tvg-logo="" group-title="KAICER BOX OFFICE",Netflix KIDS +2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3437
+#EXTINF:-1 tvg-id="" tvg-name="Egy Best Arabic Film" tvg-logo="" group-title="KAICER BOX OFFICE",Egy Best Arabic Film
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3507
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 1" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10407486780961.png" group-title="KAICER BOX OFFICE",HOME CINEMA 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3508
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 2" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10407486780961.png" group-title="KAICER BOX OFFICE",HOME CINEMA 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3509
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 3" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10407486780961.png" group-title="KAICER BOX OFFICE",HOME CINEMA 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3510
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 4" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10777208258709.png" group-title="KAICER BOX OFFICE",HOME CINEMA 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3511
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 5" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10777208258709.png" group-title="KAICER BOX OFFICE",HOME CINEMA 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3512
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 6" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/11089347637155.png" group-title="KAICER BOX OFFICE",HOME CINEMA 6
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3513
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Action" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10073891408328.png" group-title="KAICER BOX OFFICE",Aroma Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3514
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Arabic Films" tvg-logo="https://i.ibb.co/jb0TTsv/film.png" group-title="KAICER BOX OFFICE",Aroma Arabic Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3515
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Kids" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/11058240674126.png" group-title="KAICER BOX OFFICE",Aroma Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3516
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Discovery" tvg-logo="https://i.ibb.co/k97wQ37/discovery-new-150.png" group-title="KAICER BOX OFFICE",Aroma Discovery
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3517
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Drama Films" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10806284451133.png" group-title="KAICER BOX OFFICE",Aroma Drama Films
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3518
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Masra7yat" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10598274552678.png" group-title="KAICER BOX OFFICE",Aroma Masra7yat
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3519
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Horror" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/11075616809022.png" group-title="KAICER BOX OFFICE",Aroma Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3520
+#EXTINF:-1 tvg-id="" tvg-name="Aroma Zaman" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10177266297655.png" group-title="KAICER BOX OFFICE",Aroma Zaman
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3521
+#EXTINF:-1 tvg-id="" tvg-name="Aroma WWE" tvg-logo="https://cmd-tr.foxcodec.com/vod/tksu5875/logo/10979810951588.png" group-title="KAICER BOX OFFICE",Aroma WWE
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3522
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Quran" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Quran
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3527
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Action" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3528
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Aflam" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Aflam
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3529
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Classic" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Classic
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3530
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Hindi" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Hindi
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3531
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Cartoon" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Cartoon
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3532
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Turky" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Turky
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3533
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Masrah" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Masrah
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3534
+#EXTINF:-1 tvg-id="" tvg-name="El Shorouk Clip" tvg-logo="https://code-gsm.com/chourouk.png" group-title="KAICER BOX OFFICE",El Shorouk Clip
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3535
+#EXTINF:-1 tvg-id="" tvg-name="RADIO UMM KULTHUM" tvg-logo="http://starsat123.com:8080/images/7b2ca8a3a882c4e7adbc46df32895de2.png" group-title="KAICER BOX OFFICE",RADIO UMM KULTHUM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3536
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ABDEL HALIM HAFEZ" tvg-logo="http://starsat123.com:8080/images/a4f3716ba7e3f49629f5328f8b7dcb45.jpg" group-title="KAICER BOX OFFICE",RADIO ABDEL HALIM HAFEZ
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3537
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GEORGE WASOUF" tvg-logo="http://starsat123.com:8080/images/2f64d7a205d2a31d684f016d3712d07b.jpg" group-title="KAICER BOX OFFICE",RADIO GEORGE WASOUF
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3538
+#EXTINF:-1 tvg-id="" tvg-name="RADIO AMR DIAB" tvg-logo="http://starsat123.com:8080/images/7145be2d5b7c12dcdfff152cf75e42f8.jpg" group-title="KAICER BOX OFFICE",RADIO AMR DIAB
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3539
+#EXTINF:-1 tvg-id="" tvg-name="best tv movies ch" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1455351_p.png" group-title="KAICER BOX OFFICE",best tv movies ch
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3555
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Arabic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1349978_p.png" group-title="KAICER BOX OFFICE",Majestic Arabic
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3556
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1349977_p.png" group-title="KAICER BOX OFFICE",Majestic Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3557
+#EXTINF:-1 tvg-id="" tvg-name="Majestic Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1358805_p.png" group-title="KAICER BOX OFFICE",Majestic Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3558
+#EXTINF:-1 tvg-id="" tvg-name="Mix Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1312802_p.png" group-title="KAICER BOX OFFICE",Mix Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3559
+#EXTINF:-1 tvg-id="" tvg-name="Mix Cimena" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1329075_p.png" group-title="KAICER BOX OFFICE",Mix Cimena
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3560
+#EXTINF:-1 tvg-id="" tvg-name="Mix Crime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1314164_p.png" group-title="KAICER BOX OFFICE",Mix Crime
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3561
+#EXTINF:-1 tvg-id="" tvg-name="Mix Mystery" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1316592_p.png" group-title="KAICER BOX OFFICE",Mix Mystery
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3562
+#EXTINF:-1 tvg-id="" tvg-name="Mix Sport Movies" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1325421_p.png" group-title="KAICER BOX OFFICE",Mix Sport Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3563
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3610171.png" group-title="KAICER BOX OFFICE",Dragon Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3564
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Fantasia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3637189.png" group-title="KAICER BOX OFFICE",Dragon Fantasia
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3565
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Horror" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3629036.png" group-title="KAICER BOX OFFICE",Dragon Horror
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3566
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Western" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3659757.png" group-title="KAICER BOX OFFICE",Dragon Western
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3567
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Classic" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3661777.png" group-title="KAICER BOX OFFICE",Dragon Classic
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3568
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime WAR" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493091.png" group-title="KAICER BOX OFFICE",Amazon Prime WAR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3569
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Thriller" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3500178.png" group-title="KAICER BOX OFFICE",Amazon Prime Thriller
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3570
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime KIDS" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3602689.png" group-title="KAICER BOX OFFICE",Amazon Prime KIDS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3571
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Adventure" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493090.png" group-title="KAICER BOX OFFICE",Amazon Prime Adventure
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3572
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3493092.png" group-title="KAICER BOX OFFICE",Amazon Prime Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3573
+#EXTINF:-1 tvg-id="" tvg-name="iflix Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470578.png" group-title="KAICER BOX OFFICE",iflix Arabia
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3574
+#EXTINF:-1 tvg-id="" tvg-name="iflix Turk" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470569.png" group-title="KAICER BOX OFFICE",iflix Turk
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3575
+#EXTINF:-1 tvg-id="" tvg-name="iflix Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450458.png" group-title="KAICER BOX OFFICE",iflix Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3576
+#EXTINF:-1 tvg-id="" tvg-name="iflix Comedy" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3450461.png" group-title="KAICER BOX OFFICE",iflix Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3577
+#EXTINF:-1 tvg-id="" tvg-name="iflix moudablaj" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3480607.png" group-title="KAICER BOX OFFICE",iflix moudablaj
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3578
+#EXTINF:-1 tvg-id="" tvg-name="iflix Prime" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_3470577.png" group-title="KAICER BOX OFFICE",iflix Prime
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3579
+#EXTINF:-1 tvg-id="" tvg-name="beOUT Action" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691689.png" group-title="KAICER BOX OFFICE",beOUT Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3580
+#EXTINF:-1 tvg-id="" tvg-name="beOUT Arabia" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_2029308.png" group-title="KAICER BOX OFFICE",beOUT Arabia
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3581
+#EXTINF:-1 tvg-id="" tvg-name="beOUT Cinema" tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o1098790_1691690.png" group-title="KAICER BOX OFFICE",beOUT Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3582
+#EXTINF:-1 tvg-id="" tvg-name="Masr7 Masr (مسرح مصر)" tvg-logo="https://shahidstatic5.akamaized.net/mediaObject/samples/Revamp/series/Logo/113248_309182_Logo/original/113248_309182_Logo.png?height=NaN&width=645.75&croppingPoint=mc&version=1&type=png" group-title="KAICER BOX OFFICE",Masr7 Masr (مسرح مصر)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3583
+#EXTINF:-1 tvg-id="" tvg-name="Scare tv" tvg-logo="" group-title="KAICER BOX OFFICE",Scare tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3585
+#EXTINF:-1 tvg-id="" tvg-name="ShowTime1" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1437591_p.png" group-title="KAICER BOX OFFICE",ShowTime1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3586
+#EXTINF:-1 tvg-id="" tvg-name="showTime2" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1441435_p.png" group-title="KAICER BOX OFFICE",showTime2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3587
+#EXTINF:-1 tvg-id="" tvg-name="sarhan ACTION" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1460135_p.png" group-title="KAICER BOX OFFICE",sarhan ACTION
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3590
+#EXTINF:-1 tvg-id="" tvg-name="sarhan CLASSIC" tvg-logo="https://imgs1.e-droid.net/srv/imgs/gal/1470605_p.png" group-title="KAICER BOX OFFICE",sarhan CLASSIC
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3591
+#EXTINF:-1 tvg-id="" tvg-name="ON Asia HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Asia HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3592
+#EXTINF:-1 tvg-id="" tvg-name="ON Horror HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Horror HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3593
+#EXTINF:-1 tvg-id="" tvg-name="ON Series HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Series HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3594
+#EXTINF:-1 tvg-id="" tvg-name="ON comedy HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON comedy HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3595
+#EXTINF:-1 tvg-id="" tvg-name="ON Docunentary HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Docunentary HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3596
+#EXTINF:-1 tvg-id="" tvg-name="ON LOVEH HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON LOVEH HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3597
+#EXTINF:-1 tvg-id="" tvg-name="ON Turkey HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Turkey HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3598
+#EXTINF:-1 tvg-id="" tvg-name="ON Arabic HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Arabic HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3599
+#EXTINF:-1 tvg-id="" tvg-name="ON 2K Cinema HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON 2K Cinema HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3600
+#EXTINF:-1 tvg-id="" tvg-name="ON Cartoon Zaman HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Cartoon Zaman HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3601
+#EXTINF:-1 tvg-id="" tvg-name="ON SCIFI HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON SCIFI HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3602
+#EXTINF:-1 tvg-id="" tvg-name="ON Movies HD" tvg-logo="" group-title="KAICER BOX OFFICE",ON Movies HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3603
+#EXTINF:-1 tvg-id="" tvg-name="REEL PX Family" tvg-logo="" group-title="KAICER BOX OFFICE",REEL PX Family
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3604
+#EXTINF:-1 tvg-id="" tvg-name="REEL PX Comedy" tvg-logo="" group-title="KAICER BOX OFFICE",REEL PX Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3605
+#EXTINF:-1 tvg-id="" tvg-name="REEL PX Cinema" tvg-logo="" group-title="KAICER BOX OFFICE",REEL PX Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3606
+#EXTINF:-1 tvg-id="" tvg-name="REEL PX Action" tvg-logo="" group-title="KAICER BOX OFFICE",REEL PX Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3607
+#EXTINF:-1 tvg-id="" tvg-name="REEL PX Unlimited" tvg-logo="" group-title="KAICER BOX OFFICE",REEL PX Unlimited
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3608
+#EXTINF:-1 tvg-id="" tvg-name="ZINA Bollwood HD" tvg-logo="" group-title="KAICER BOX OFFICE",ZINA Bollwood HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3609
+#EXTINF:-1 tvg-id="" tvg-name="ZINA KURDISH HD" tvg-logo="" group-title="KAICER BOX OFFICE",ZINA KURDISH HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3610
+#EXTINF:-1 tvg-id="" tvg-name="ZINA Quran HD" tvg-logo="" group-title="KAICER BOX OFFICE",ZINA Quran HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3611
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- NEWS ---★★●•" tvg-logo="" group-title="NEWS",•●★★--- NEWS ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/998
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera" tvg-logo="" group-title="NEWS",AR: Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="NEWS",Al Jazeera
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/999
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Documentry" tvg-logo="" group-title="NEWS",AR: Al Jazeera Documentry
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Documentry" tvg-logo="" group-title="NEWS",Al Jazeera Documentry
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1000
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL JAZEERA MUBASHER" tvg-logo="" group-title="NEWS",AR: AL JAZEERA MUBASHER
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA MUBASHER" tvg-logo="" group-title="NEWS",AL JAZEERA MUBASHER
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3208
-#EXTINF:-1 tvg-id="" tvg-name="AR: AlJazeera-English" tvg-logo="" group-title="NEWS",AR: AlJazeera-English
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera-English" tvg-logo="" group-title="NEWS",AlJazeera-English
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3209
-#EXTINF:-1 tvg-id="" tvg-name="AR: AlJazeera America " tvg-logo="" group-title="NEWS",AR: AlJazeera America 
+#EXTINF:-1 tvg-id="" tvg-name="AlJazeera Eng" tvg-logo="" group-title="NEWS",AlJazeera Eng
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3210
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Jazeera Mubasher LIVE" tvg-logo="" group-title="NEWS",AR: Al Jazeera Mubasher LIVE
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera FHD" tvg-logo="" group-title="NEWS",Al Jazeera FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1003
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al ALArabiya" tvg-logo="" group-title="NEWS",AR: Al ALArabiya
+#EXTINF:-1 tvg-id="" tvg-name="Al ALArabiya" tvg-logo="" group-title="NEWS",Al ALArabiya
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1001
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al ALArabiya Alhadaath" tvg-logo="" group-title="NEWS",AR: Al ALArabiya Alhadaath
+#EXTINF:-1 tvg-id="" tvg-name="Al ALArabiya Alhadaath" tvg-logo="" group-title="NEWS",Al ALArabiya Alhadaath
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1002
-#EXTINF:-1 tvg-id="" tvg-name="AR: BBC Arabic" tvg-logo="" group-title="NEWS",AR: BBC Arabic
+#EXTINF:-1 tvg-id="" tvg-name="BBC Arabic" tvg-logo="" group-title="NEWS",BBC Arabic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1005
-#EXTINF:-1 tvg-id="" tvg-name="AR: RT News" tvg-logo="" group-title="NEWS",AR: RT News
+#EXTINF:-1 tvg-id="" tvg-name="RT News" tvg-logo="" group-title="NEWS",RT News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1008
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sky News" tvg-logo="" group-title="NEWS",AR: Sky News
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="NEWS",Sky News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1007
-#EXTINF:-1 tvg-id="" tvg-name="AR: TRT-ELARABIYE" tvg-logo="" group-title="NEWS",AR: TRT-ELARABIYE
+#EXTINF:-1 tvg-id="" tvg-name="TRT-ELARABIYE" tvg-logo="" group-title="NEWS",TRT-ELARABIYE
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1006
-#EXTINF:-1 tvg-id="" tvg-name="AR: DW TV ARABIA" tvg-logo="" group-title="NEWS",AR: DW TV ARABIA
+#EXTINF:-1 tvg-id="" tvg-name="RT Arabic" tvg-logo="" group-title="NEWS",RT Arabic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1004
-#EXTINF:-1 tvg-id="" tvg-name=" AR: FR 24 arabic HD" tvg-logo="" group-title="NEWS", AR: FR 24 arabic HD
+#EXTINF:-1 tvg-id="" tvg-name=" FR 24 arabic HD" tvg-logo="" group-title="NEWS", FR 24 arabic HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3206
-#EXTINF:-1 tvg-id="" tvg-name="AR: Euro News  arab" tvg-logo="" group-title="NEWS",AR: Euro News  arab
+#EXTINF:-1 tvg-id="" tvg-name="DW Arabic" tvg-logo="" group-title="NEWS",DW Arabic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3207
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Alhurra" tvg-logo="" group-title="NEWS",AR:  Alhurra
+#EXTINF:-1 tvg-id="" tvg-name=" Alhurra" tvg-logo="" group-title="NEWS", Alhurra
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3211
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="NEWS",CNN
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3212
 #EXTINF:-1 tvg-id="" tvg-name="France 24 (En Francais)" tvg-logo="" group-title="NEWS",France 24 (En Francais)
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3213
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALAM" tvg-logo="" group-title="NEWS",AR: ALAM
+#EXTINF:-1 tvg-id="" tvg-name="Houra News" tvg-logo="" group-title="NEWS",Houra News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3214
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Rotana ---★★●•" tvg-logo="""" group-title="Rotana",•●★★--- Rotana ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/176
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Cinema " tvg-logo="[" group-title="Rotana",AR:Rotana Cinema 
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema " tvg-logo="[" group-title="Rotana",Rotana Cinema 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/106
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Cinema KSA" tvg-logo="[" group-title="Rotana",AR: Rotana Cinema KSA
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Cinema KSA" tvg-logo="[" group-title="Rotana",Rotana Cinema KSA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/107
-#EXTINF:-1 tvg-id="" tvg-name="AR:Rotana Aflam" tvg-logo="[" group-title="Rotana",AR:Rotana Aflam
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Aflam" tvg-logo="[" group-title="Rotana",Rotana Aflam
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/108
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana  Comedy " tvg-logo="[" group-title="Rotana",AR: Rotana  Comedy 
+#EXTINF:-1 tvg-id="" tvg-name="Rotana  Comedy " tvg-logo="[" group-title="Rotana",Rotana  Comedy 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/109
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Classic " tvg-logo="[" group-title="Rotana",AR: Rotana Classic 
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Classic " tvg-logo="[" group-title="Rotana",Rotana Classic 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/110
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Drama" tvg-logo="" group-title="Rotana",AR: Rotana Drama
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama" tvg-logo="" group-title="Rotana",Rotana Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3215
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Comedy" tvg-logo="" group-title="NEWS",AR: Rotana Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Comedy" tvg-logo="" group-title="Rotana",Rotana Comedy
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3216
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Clip" tvg-logo="" group-title="Rotana",AR: Rotana Clip
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Clip" tvg-logo="" group-title="Rotana",Rotana Clip
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3217
-#EXTINF:-1 tvg-id="" tvg-name="AR: Rotana Khaliji" tvg-logo="" group-title="Rotana",AR: Rotana Khaliji
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Kids HD" tvg-logo="" group-title="Rotana",Rotana Kids HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3469
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Khaliji" tvg-logo="" group-title="Rotana",Rotana Khaliji
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3218
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Egypt ---★★●•" tvg-logo="" group-title="Egypt",•●★★--- Egypt ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/511
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 1 SD" tvg-logo="" group-title="Egypt",AR: ON Time Sport 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="ON Time Sport 1 SD" tvg-logo="" group-title="Egypt",ON Time Sport 1 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2397
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 1HD" tvg-logo="" group-title="Egypt",AR: ON Time Sport 1HD
+#EXTINF:-1 tvg-id="" tvg-name="ON Time Sport 1HD" tvg-logo="" group-title="Egypt",ON Time Sport 1HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/507
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 2 SD" tvg-logo="" group-title="Egypt",AR: ON Time Sport 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ON Time Sport 2 SD" tvg-logo="" group-title="Egypt",ON Time Sport 2 SD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2396
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Time Sport 2 HD" tvg-logo="" group-title="Egypt",AR: ON Time Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ON Time Sport 2 HD" tvg-logo="" group-title="Egypt",ON Time Sport 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/949
-#EXTINF:-1 tvg-id="" tvg-name="AR: Time Sport HD" tvg-logo="" group-title="Egypt",AR: Time Sport HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/953
-#EXTINF:-1 tvg-id="" tvg-name="AR: Time Sport" tvg-logo="" group-title="Egypt",AR: Time Sport
+#EXTINF:-1 tvg-id="" tvg-name="Time Sport" tvg-logo="" group-title="Egypt",Time Sport
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/951
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alahly" tvg-logo="" group-title="Egypt",AR: Alahly
+#EXTINF:-1 tvg-id="" tvg-name="Alahly" tvg-logo="" group-title="Egypt",Alahly
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/952
-#EXTINF:-1 tvg-id="" tvg-name="AR: Zamalek TV" tvg-logo="" group-title="Egypt",AR: Zamalek TV
+#EXTINF:-1 tvg-id="" tvg-name="Zamalek TV" tvg-logo="" group-title="Egypt",Zamalek TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2068
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Sada Elbabad" tvg-logo="" group-title="Egypt",AR:  Sada Elbabad
+#EXTINF:-1 tvg-id="" tvg-name="Mksaby" tvg-logo="" group-title="Egypt",Mksaby
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3458
+#EXTINF:-1 tvg-id="" tvg-name=" Sada Elbabad" tvg-logo="" group-title="Egypt", Sada Elbabad
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/495
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Nile Sport" tvg-logo="" group-title="Egypt",AR:  Nile Sport
+#EXTINF:-1 tvg-id="" tvg-name=" Nile Sport" tvg-logo="" group-title="Egypt", Nile Sport
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/496
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Nile Comedy" tvg-logo="" group-title="Egypt",AR:  Nile Comedy
+#EXTINF:-1 tvg-id="" tvg-name=" Nile Comedy" tvg-logo="" group-title="Egypt", Nile Comedy
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/497
-#EXTINF:-1 tvg-id="" tvg-name="AR: Nile News" tvg-logo="" group-title="Egypt",AR: Nile News
+#EXTINF:-1 tvg-id="" tvg-name="Nile News" tvg-logo="" group-title="Egypt",Nile News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/498
-#EXTINF:-1 tvg-id="" tvg-name="AR: Oscar" tvg-logo="" group-title="Egypt",AR: Oscar
+#EXTINF:-1 tvg-id="" tvg-name="D Drama" tvg-logo="" group-title="Egypt",D Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/499
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC Drama" tvg-logo="" group-title="Egypt",AR:CBC Drama
+#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="" group-title="Egypt",CBC Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/500
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC Sofra" tvg-logo="" group-title="Egypt",AR:CBC Sofra
+#EXTINF:-1 tvg-id="" tvg-name="CBC Sofra" tvg-logo="" group-title="Egypt",CBC Sofra
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/501
-#EXTINF:-1 tvg-id="" tvg-name="AR:CBC" tvg-logo="" group-title="Egypt",AR:CBC
+#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="" group-title="Egypt",CBC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/502
-#EXTINF:-1 tvg-id="" tvg-name="AR:DMC" tvg-logo="" group-title="Egypt",AR:DMC
+#EXTINF:-1 tvg-id="" tvg-name="DMC" tvg-logo="" group-title="Egypt",DMC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/503
-#EXTINF:-1 tvg-id="" tvg-name="AR:Alnahar" tvg-logo="" group-title="Egypt",AR:Alnahar
+#EXTINF:-1 tvg-id="" tvg-name="Alnahar" tvg-logo="" group-title="Egypt",Alnahar
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/504
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALnahar Drama" tvg-logo="" group-title="Egypt",AR: ALnahar Drama
+#EXTINF:-1 tvg-id="" tvg-name="ALnahar Drama" tvg-logo="" group-title="Egypt",ALnahar Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/505
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON Drama" tvg-logo="" group-title="Egypt",AR: ON Drama
+#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="" group-title="Egypt",ON Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/506
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON E" tvg-logo="" group-title="Egypt",AR: ON E
+#EXTINF:-1 tvg-id="" tvg-name="ON E" tvg-logo="" group-title="Egypt",ON E
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/508
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alhayah" tvg-logo="" group-title="Egypt",AR: Alhayah
+#EXTINF:-1 tvg-id="" tvg-name="Alhayah" tvg-logo="" group-title="Egypt",Alhayah
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/509
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Maspero-Zaman" tvg-logo="" group-title="Egypt",AR:  Maspero-Zaman
+#EXTINF:-1 tvg-id="" tvg-name=" Maspero-Zaman" tvg-logo="" group-title="Egypt", Maspero-Zaman
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/950
-#EXTINF:-1 tvg-id="" tvg-name="AR: Mehwar" tvg-logo="" group-title="Egypt",AR: Mehwar
+#EXTINF:-1 tvg-id="" tvg-name="Mehwar" tvg-logo="" group-title="Egypt",Mehwar
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/510
+#EXTINF:-1 tvg-id="" tvg-name="AR : Zee Alwan" tvg-logo="" group-title="Egypt",AR : Zee Alwan
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3308
+#EXTINF:-1 tvg-id="" tvg-name="AR : ZEE AFLAM" tvg-logo="" group-title="Egypt",AR : ZEE AFLAM
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3309
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- SUDAN ---★★●•" tvg-logo="" group-title="SUDAN",•●★★--- SUDAN ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3158
-#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN" tvg-logo="" group-title="SUDAN",AR: SUDAN
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN" tvg-logo="" group-title="SUDAN",SUDAN
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3142
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan AlIstijaba" tvg-logo="" group-title="SUDAN",AR: Sudan AlIstijaba
+#EXTINF:-1 tvg-id="" tvg-name="Sudan AlIstijaba" tvg-logo="" group-title="SUDAN",Sudan AlIstijaba
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3143
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Ashorooq" tvg-logo="" group-title="SUDAN",AR: Sudan Ashorooq
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Ashorooq" tvg-logo="" group-title="SUDAN",Sudan Ashorooq
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3144
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan BlueNile" tvg-logo="" group-title="SUDAN",AR: Sudan BlueNile
+#EXTINF:-1 tvg-id="" tvg-name="Sudan BlueNile" tvg-logo="" group-title="SUDAN",Sudan BlueNile
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3145
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Drama" tvg-logo="" group-title="SUDAN",AR: Sudan Drama
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Drama" tvg-logo="" group-title="SUDAN",Sudan Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3146
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Jazeera_Green" tvg-logo="" group-title="SUDAN",AR: Sudan Jazeera_Green
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Jazeera_Green" tvg-logo="" group-title="SUDAN",Sudan Jazeera_Green
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3147
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Kassala" tvg-logo="" group-title="SUDAN",AR: Sudan Kassala
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Kassala" tvg-logo="" group-title="SUDAN",Sudan Kassala
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3148
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Khartoum" tvg-logo="" group-title="SUDAN",AR: Sudan Khartoum
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Khartoum" tvg-logo="" group-title="SUDAN",Sudan Khartoum
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3149
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Knowledge" tvg-logo="" group-title="SUDAN",AR: Sudan Knowledge
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Knowledge" tvg-logo="" group-title="SUDAN",Sudan Knowledge
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3150
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Monwaat" tvg-logo="" group-title="SUDAN",AR: Sudan Monwaat
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Monwaat" tvg-logo="" group-title="SUDAN",Sudan Monwaat
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3151
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Music" tvg-logo="" group-title="SUDAN",AR: Sudan Music
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Music" tvg-logo="" group-title="SUDAN",Sudan Music
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3152
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan OmDorman" tvg-logo="" group-title="SUDAN",AR: Sudan OmDorman
+#EXTINF:-1 tvg-id="" tvg-name="Sudan OmDorman" tvg-logo="" group-title="SUDAN",Sudan OmDorman
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3153
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Sport" tvg-logo="" group-title="SUDAN",AR: Sudan Sport
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3154
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Sport HD" tvg-logo="" group-title="SUDAN",AR: Sudan Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Sport HD" tvg-logo="" group-title="SUDAN",Sudan Sport HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3155
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudan Tybah" tvg-logo="" group-title="SUDAN",AR: Sudan Tybah
+#EXTINF:-1 tvg-id="" tvg-name="Sudan Tybah" tvg-logo="" group-title="SUDAN",Sudan Tybah
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3156
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sudania 24" tvg-logo="" group-title="SUDAN",AR: Sudania 24
+#EXTINF:-1 tvg-id="" tvg-name="Sudania 24" tvg-logo="" group-title="SUDAN",Sudania 24
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3157
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- PALESTINE ---★★●•" tvg-logo="""" group-title="Palastine",•●★★--- PALESTINE ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/493
-#EXTINF:-1 tvg-id="" tvg-name="AR:  Sport HD" tvg-logo="" group-title="Palastine",AR:  Sport HD
+#EXTINF:-1 tvg-id="" tvg-name=" Sport HD" tvg-logo="" group-title="Palastine", Sport HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2841
-#EXTINF:-1 tvg-id="" tvg-name="AR: betlahem 1 HD" tvg-logo="" group-title="Palastine",AR: betlahem 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="betlahem 1 HD" tvg-logo="" group-title="Palastine",betlahem 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2843
-#EXTINF:-1 tvg-id="" tvg-name="AR: Betlahem 2 HD" tvg-logo="" group-title="Palastine",AR: Betlahem 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Betlahem 2 HD" tvg-logo="" group-title="Palastine",Betlahem 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2842
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV1 HD" tvg-logo="" group-title="Palastine",AR: FajerTV1 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV1 HD" tvg-logo="" group-title="Palastine",FajerTV1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/584
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV2 HD" tvg-logo="" group-title="Palastine",AR: FajerTV2 HD
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV2 HD" tvg-logo="" group-title="Palastine",FajerTV2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/587
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV 480" tvg-logo="" group-title="Palastine",AR: FajerTV 480
+#EXTINF:-1 tvg-id="" tvg-name="palastine  live" tvg-logo="" group-title="Palastine",palastine  live
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/590
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV 1 1080" tvg-logo="" group-title="Palastine",AR: FajerTV 1 1080
+#EXTINF:-1 tvg-id="" tvg-name="FajerTV 1 1080" tvg-logo="" group-title="Palastine",FajerTV 1 1080
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/593
-#EXTINF:-1 tvg-id="" tvg-name="AR: FajerTV5 HD" tvg-logo="" group-title="Palastine",AR: FajerTV5 HD
+#EXTINF:-1 tvg-id="" tvg-name="radio marah" tvg-logo="" group-title="Palastine",radio marah
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/596
-#EXTINF:-1 tvg-id="" tvg-name="AR: Raya" tvg-logo="" group-title="Palastine",AR: Raya
+#EXTINF:-1 tvg-id="" tvg-name="Raya" tvg-logo="" group-title="Palastine",Raya
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/481
-#EXTINF:-1 tvg-id="" tvg-name="AR: Ajyal" tvg-logo="" group-title="Palastine",AR: Ajyal
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal" tvg-logo="" group-title="Palastine",Ajyal
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/482
-#EXTINF:-1 tvg-id="" tvg-name="Al salam" tvg-logo="" group-title="Palastine",Al salam
+#EXTINF:-1 tvg-id="" tvg-name="Fajr 1 SD" tvg-logo="" group-title="Palastine",Fajr 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3493
+#EXTINF:-1 tvg-id="" tvg-name="Fajr 2 SD" tvg-logo="" group-title="Palastine",Fajr 2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3494
+#EXTINF:-1 tvg-id="" tvg-name="A spor SD" tvg-logo="" group-title="Palastine",A spor SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3501
+#EXTINF:-1 tvg-id="" tvg-name="Al nagah" tvg-logo="" group-title="Palastine",Al nagah
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/483
-#EXTINF:-1 tvg-id="" tvg-name="AR: Palstine Today" tvg-logo="" group-title="Palastine",AR: Palstine Today
+#EXTINF:-1 tvg-id="" tvg-name="Palastine Sport 1 HD" tvg-logo="" group-title="Palastine",Palastine Sport 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3314
+#EXTINF:-1 tvg-id="" tvg-name="Kofeya" tvg-logo="" group-title="Palastine",Kofeya
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3315
+#EXTINF:-1 tvg-id="" tvg-name="HalowTV HD" tvg-logo="" group-title="Palastine",HalowTV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3316
+#EXTINF:-1 tvg-id="" tvg-name="Palstine Today" tvg-logo="" group-title="Palastine",Palstine Today
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/486
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alhorrya" tvg-logo="" group-title="Palastine",AR: Alhorrya
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2942
-#EXTINF:-1 tvg-id="" tvg-name="AR: OMG" tvg-logo="" group-title="Palastine",AR: OMG
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2943
-#EXTINF:-1 tvg-id="" tvg-name="AR: Aqsa tv" tvg-logo="" group-title="Palastine",AR: Aqsa tv
+#EXTINF:-1 tvg-id="" tvg-name="Aqsa tv" tvg-logo="" group-title="Palastine",Aqsa tv
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2944
-#EXTINF:-1 tvg-id="" tvg-name="AR: Hala Ramallah" tvg-logo="" group-title="Palastine",AR: Hala Ramallah
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3044
-#EXTINF:-1 tvg-id="" tvg-name="AR: nablus live" tvg-logo="" group-title="Palastine",AR: nablus live
+#EXTINF:-1 tvg-id="" tvg-name="nablus live" tvg-logo="" group-title="Palastine",nablus live
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3045
-#EXTINF:-1 tvg-id="" tvg-name="VARZESH TV 1" tvg-logo="" group-title="world sports",VARZESH TV 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2782
-#EXTINF:-1 tvg-id="" tvg-name="VARZESH TV 2" tvg-logo="" group-title="world sports",VARZESH TV 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2783
-#EXTINF:-1 tvg-id="" tvg-name="VARZESH TV 3" tvg-logo="" group-title="world sports",VARZESH TV 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2784
-#EXTINF:-1 tvg-id="" tvg-name="VARZESH TV 4" tvg-logo="" group-title="world sports",VARZESH TV 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2785
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fajr 1 HD" tvg-logo="[" group-title="Palastine",AR: Fajr 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="You sat" tvg-logo="[" group-title="Palastine",You sat
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/448
-#EXTINF:-1 tvg-id="" tvg-name="AR: Fajr 2 HD" tvg-logo="[" group-title="Palastine",AR: Fajr 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Fajr 2 HD" tvg-logo="[" group-title="Palastine",Fajr 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/449
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- JORDAN ---★★●•" tvg-logo="" group-title="JORDAN",•●★★--- JORDAN ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3116
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Almamlaka" tvg-logo="" group-title="JORDAN",AR: Jordan Almamlaka
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Almamlaka" tvg-logo="" group-title="JORDAN",Jordan Almamlaka
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3117
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Amen" tvg-logo="" group-title="JORDAN",AR: Jordan Amen
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3118
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Amman" tvg-logo="" group-title="JORDAN",AR: Jordan Amman
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Amman" tvg-logo="" group-title="JORDAN",Jordan Amman
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3119
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Nart" tvg-logo="" group-title="JORDAN",AR: Jordan Nart
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Nart" tvg-logo="" group-title="JORDAN",Jordan Nart
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3120
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Noor" tvg-logo="" group-title="JORDAN",AR: Jordan Noor
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Noor" tvg-logo="" group-title="JORDAN",Jordan Noor
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3121
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Ro2ya" tvg-logo="" group-title="JORDAN",AR: Jordan Ro2ya
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Ro2ya" tvg-logo="" group-title="JORDAN",Jordan Ro2ya
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3122
-#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN SPORTS" tvg-logo="" group-title="JORDAN",AR: JORDAN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN SPORTS" tvg-logo="" group-title="JORDAN",JORDAN SPORTS
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3123
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Today" tvg-logo="" group-title="JORDAN",AR: Jordan Today
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Today" tvg-logo="" group-title="JORDAN",Jordan Today
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3124
-#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN TV" tvg-logo="" group-title="JORDAN",AR: JORDAN TV
+#EXTINF:-1 tvg-id="" tvg-name="JORDAN TV" tvg-logo="" group-title="JORDAN",JORDAN TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3125
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Yarmouk" tvg-logo="" group-title="JORDAN",AR: Jordan Yarmouk
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Yarmouk" tvg-logo="" group-title="JORDAN",Jordan Yarmouk
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3126
-#EXTINF:-1 tvg-id="" tvg-name="AR: Jordan Zweina" tvg-logo="" group-title="JORDAN",AR: Jordan Zweina
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Zweina" tvg-logo="" group-title="JORDAN",Jordan Zweina
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3127
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- LIBYA ---★★●•" tvg-logo="" group-title="LIBYA",•●★★--- LIBYA ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3141
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA 218 HD" tvg-logo="" group-title="LIBYA",AR: LIBYA 218 HD
+#EXTINF:-1 tvg-id="" tvg-name="[LIB] Libya Sport Channel" tvg-logo="" group-title="LIBYA",[LIB] Libya Sport Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3455
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA 218 HD" tvg-logo="" group-title="LIBYA",LIBYA 218 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3128
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya 218 News" tvg-logo="" group-title="LIBYA",AR: Libya 218 News
+#EXTINF:-1 tvg-id="" tvg-name="Libya 218 News" tvg-logo="" group-title="LIBYA",Libya 218 News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3129
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya AlAhrar" tvg-logo="" group-title="LIBYA",AR: Libya AlAhrar
+#EXTINF:-1 tvg-id="" tvg-name="Libya AlAhrar" tvg-logo="" group-title="LIBYA",Libya AlAhrar
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3130
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alhadath" tvg-logo="" group-title="LIBYA",AR: Libya Alhadath
+#EXTINF:-1 tvg-id="" tvg-name="Libya Alhadath" tvg-logo="" group-title="LIBYA",Libya Alhadath
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3131
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Almarsad" tvg-logo="" group-title="LIBYA",AR: Libya Almarsad
+#EXTINF:-1 tvg-id="" tvg-name="Libya Almarsad" tvg-logo="" group-title="LIBYA",Libya Almarsad
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3132
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alwatanya" tvg-logo="" group-title="LIBYA",AR: Libya Alwatanya
+#EXTINF:-1 tvg-id="" tvg-name="Libya Alwatanya" tvg-logo="" group-title="LIBYA",Libya Alwatanya
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3133
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya elwatan" tvg-logo="" group-title="LIBYA",AR: Libya elwatan
+#EXTINF:-1 tvg-id="" tvg-name="Libya elwatan" tvg-logo="" group-title="LIBYA",Libya elwatan
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3134
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya 218 News" tvg-logo="" group-title="LIBYA",AR: Libya 218 News
+#EXTINF:-1 tvg-id="" tvg-name="Libya 218 News" tvg-logo="" group-title="LIBYA",Libya 218 News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3135
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA WTV" tvg-logo="" group-title="LIBYA",AR: LIBYA WTV
+#EXTINF:-1 tvg-id="" tvg-name="LIBYA WTV" tvg-logo="" group-title="LIBYA",LIBYA WTV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3136
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Panorama" tvg-logo="" group-title="LIBYA",AR: Libya Panorama
+#EXTINF:-1 tvg-id="" tvg-name="Libya Panorama" tvg-logo="" group-title="LIBYA",Libya Panorama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3137
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Tanasuh" tvg-logo="" group-title="LIBYA",AR: Libya Tanasuh
+#EXTINF:-1 tvg-id="" tvg-name="Libya Tanasuh" tvg-logo="" group-title="LIBYA",Libya Tanasuh
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3138
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Waad" tvg-logo="" group-title="LIBYA",AR: Libya Waad
+#EXTINF:-1 tvg-id="" tvg-name="Libya Waad" tvg-logo="" group-title="LIBYA",Libya Waad
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3139
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libyas Channel" tvg-logo="" group-title="LIBYA",AR: Libyas Channel
+#EXTINF:-1 tvg-id="" tvg-name="Libyas Channel" tvg-logo="" group-title="LIBYA",Libyas Channel
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3140
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- MAROC ---★★●•" tvg-logo="[" group-title="Maghreb Channel",•●★★--- MAROC ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/725
@@ -1015,7 +1081,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/726
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/727
 #EXTINF:-1 tvg-id="" tvg-name=" MA:2M " tvg-logo="" group-title="Maghreb Channel", MA:2M 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/728
-#EXTINF:-1 tvg-id="" tvg-name=" MA:ALRABIA " tvg-logo="" group-title="Maghreb Channel", MA:ALRABIA 
+#EXTINF:-1 tvg-id="" tvg-name=" MA: CHADA TV" tvg-logo="" group-title="Maghreb Channel", MA: CHADA TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/729
 #EXTINF:-1 tvg-id="" tvg-name=" MA:ASSADISA " tvg-logo="" group-title="Maghreb Channel", MA:ASSADISA 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/730
@@ -1031,27 +1097,27 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/734
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/735
 #EXTINF:-1 tvg-id="" tvg-name=" MA:TAMAZIGHT " tvg-logo="" group-title="Maghreb Channel", MA:TAMAZIGHT 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/736
-#EXTINF:-1 tvg-id="" tvg-name="AR: Arriadia FHD" tvg-logo="" group-title="Maghreb Channel",AR: Arriadia FHD
+#EXTINF:-1 tvg-id="" tvg-name="Arriadia FHD" tvg-logo="" group-title="Maghreb Channel",Arriadia FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3105
-#EXTINF:-1 tvg-id="" tvg-name="AR: Arriadia HD" tvg-logo="" group-title="Maghreb Channel",AR: Arriadia HD
+#EXTINF:-1 tvg-id="" tvg-name="Arriadia HD" tvg-logo="" group-title="Maghreb Channel",Arriadia HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3106
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alrrabia FHD" tvg-logo="" group-title="Maghreb Channel",AR: Alrrabia FHD
+#EXTINF:-1 tvg-id="" tvg-name="Alrrabia FHD" tvg-logo="" group-title="Maghreb Channel",Alrrabia FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3107
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alrrabia" tvg-logo="" group-title="Maghreb Channel",AR: Alrrabia
+#EXTINF:-1 tvg-id="" tvg-name="Alrrabia" tvg-logo="" group-title="Maghreb Channel",Alrrabia
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3108
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL MAGHRIBIA FHD" tvg-logo="" group-title="Maghreb Channel",AR: AL MAGHRIBIA FHD
+#EXTINF:-1 tvg-id="" tvg-name="AL MAGHRIBIA FHD" tvg-logo="" group-title="Maghreb Channel",AL MAGHRIBIA FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3109
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL MAGHRIBIA HD" tvg-logo="" group-title="Maghreb Channel",AR: AL MAGHRIBIA HD
+#EXTINF:-1 tvg-id="" tvg-name="AL MAGHRIBIA HD" tvg-logo="" group-title="Maghreb Channel",AL MAGHRIBIA HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3110
-#EXTINF:-1 tvg-id="" tvg-name="AR: Assadissa FHD" tvg-logo="" group-title="Maghreb Channel",AR: Assadissa FHD
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa FHD" tvg-logo="" group-title="Maghreb Channel",Assadissa FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3111
-#EXTINF:-1 tvg-id="" tvg-name="AR: Assadissa" tvg-logo="" group-title="Maghreb Channel",AR: Assadissa
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" group-title="Maghreb Channel",Assadissa
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3112
-#EXTINF:-1 tvg-id="" tvg-name="AR: Assabiaa FHD" tvg-logo="" group-title="Maghreb Channel",AR: Assabiaa FHD
+#EXTINF:-1 tvg-id="" tvg-name="Assabiaa FHD" tvg-logo="" group-title="Maghreb Channel",Assabiaa FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3113
-#EXTINF:-1 tvg-id="" tvg-name="AR: Tamazight HD" tvg-logo="" group-title="Maghreb Channel",AR: Tamazight HD
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight HD" tvg-logo="" group-title="Maghreb Channel",Tamazight HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3114
-#EXTINF:-1 tvg-id="" tvg-name="AR: Medi1 Afrique FHD" tvg-logo="" group-title="Maghreb Channel",AR: Medi1 Afrique FHD
+#EXTINF:-1 tvg-id="" tvg-name="Medi1 Afrique FHD" tvg-logo="" group-title="Maghreb Channel",Medi1 Afrique FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3115
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- TUNISIA ---★★●•" tvg-logo="http://tvchallenge.tn/logo/tunisia/tunisia.png" group-title="TUNISIA",•●★★--- TUNISIA ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/889
@@ -1103,12 +1169,8 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/910
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/912
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:Dzair 1" tvg-logo="" group-title="ALGERIA",Algerian:Dzair 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/913
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:ECHOUROUK NEWS HD*" tvg-logo="" group-title="ALGERIA",Algerian:ECHOUROUK NEWS HD*
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/914
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:SAMIRA TV" tvg-logo="" group-title="ALGERIA",Algerian:SAMIRA TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/915
-#EXTINF:-1 tvg-id="" tvg-name="AR:Baby-lon" tvg-logo="" group-title="KIDS",AR:Baby-lon
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/916
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:ENTV" tvg-logo="" group-title="ALGERIA",Algerian:ENTV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/917
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:Bahia Tv" tvg-logo="" group-title="ALGERIA",Algerian:Bahia Tv
@@ -1119,8 +1181,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/945
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/918
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:ALHADEF" tvg-logo="" group-title="ALGERIA",Algerian:ALHADEF
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/919
-#EXTINF:-1 tvg-id="" tvg-name="Algerian:Canal-6-Feed" tvg-logo="" group-title="ALGERIA",Algerian:Canal-6-Feed
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/944
 #EXTINF:-1 tvg-id="" tvg-name="AL MAGHRIBIA" tvg-logo="" group-title="ALGERIA",AL MAGHRIBIA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/943
 #EXTINF:-1 tvg-id="" tvg-name="Algerian:CHAMS TV" tvg-logo="" group-title="ALGERIA",Algerian:CHAMS TV
@@ -1177,50 +1237,40 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2012
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2011
 #EXTINF:-1 tvg-id="" tvg-name="SY: Al.KhabarTV HD*" tvg-logo="" group-title="SYRIA",SY: Al.KhabarTV HD*
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2010
-#EXTINF:-1 tvg-id="" tvg-name="SY: Drama-Al-Badawya" tvg-logo="" group-title="SYRIA",SY: Drama-Al-Badawya
+#EXTINF:-1 tvg-id="" tvg-name="SY: all tv" tvg-logo="" group-title="SYRIA",SY: all tv
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2007
 #EXTINF:-1 tvg-id="" tvg-name="SY:  LANA Tv HD*" tvg-logo="" group-title="SYRIA",SY:  LANA Tv HD*
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2009
-#EXTINF:-1 tvg-id="" tvg-name="SY: ORIENT" tvg-logo="" group-title="SYRIA",SY: ORIENT
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria Satellite Channel" tvg-logo="" group-title="SYRIA",SY: Syria Satellite Channel
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2004
-#EXTINF:-1 tvg-id="" tvg-name="SY: SAMA TV SYRIA HD*" tvg-logo="" group-title="SYRIA",SY: SAMA TV SYRIA HD*
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria alyoum" tvg-logo="" group-title="SYRIA",SY: Syria alyoum
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2008
 #EXTINF:-1 tvg-id="" tvg-name="SY: SYRIA.ALIKHBARIA" tvg-logo="" group-title="SYRIA",SY: SYRIA.ALIKHBARIA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2006
-#EXTINF:-1 tvg-id="" tvg-name="AR: Tarbawia" tvg-logo="" group-title="SYRIA",AR: Tarbawia
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2057
-#EXTINF:-1 tvg-id="" tvg-name="==== IRAQ =====" tvg-logo="" group-title="IRAQ",==== IRAQ =====
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- IRAQ ---★★●•" tvg-logo="" group-title="IRAQ",•●★★--- IRAQ ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3075
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HURRA" tvg-logo="" group-title="IRAQ",AR: AL HURRA
+#EXTINF:-1 tvg-id="" tvg-name="AL HURRA" tvg-logo="" group-title="IRAQ",AL HURRA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3076
-#EXTINF:-1 tvg-id="" tvg-name="AR: AVA" tvg-logo="" group-title="IRAQ",AR: AVA
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3077
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Fallujah" tvg-logo="" group-title="IRAQ",AR:Al Fallujah
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3078
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Iraqiya" tvg-logo="" group-title="IRAQ",AR:Al Iraqiya
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya" tvg-logo="" group-title="IRAQ",Al Iraqiya
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3079
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Iraqiya News" tvg-logo="" group-title="IRAQ",AR:Al Iraqiya News
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya News" tvg-logo="" group-title="IRAQ",Al Iraqiya News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3080
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Al Rafidain" tvg-logo="" group-title="IRAQ",AR:Al Al Rafidain
+#EXTINF:-1 tvg-id="" tvg-name="Al Al Rafidain" tvg-logo="" group-title="IRAQ",Al Al Rafidain
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3081
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Sharqiya" tvg-logo="" group-title="IRAQ",AR:Al Sharqiya
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3082
-#EXTINF:-1 tvg-id="" tvg-name="AR:Al Sharqiya News" tvg-logo="" group-title="IRAQ",AR:Al Sharqiya News
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya News" tvg-logo="" group-title="IRAQ",Al Sharqiya News
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3083
-#EXTINF:-1 tvg-id="" tvg-name="AR: Assyrian ANB" tvg-logo="" group-title="IRAQ",AR: Assyrian ANB
+#EXTINF:-1 tvg-id="" tvg-name="Assyrian ANB" tvg-logo="" group-title="IRAQ",Assyrian ANB
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3084
-#EXTINF:-1 tvg-id="" tvg-name="AR:Babylon TV" tvg-logo="" group-title="IRAQ",AR:Babylon TV
+#EXTINF:-1 tvg-id="" tvg-name="Babylon TV" tvg-logo="" group-title="IRAQ",Babylon TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3085
-#EXTINF:-1 tvg-id="" tvg-name="AR: News Dijlah" tvg-logo="" group-title="IRAQ",AR: News Dijlah
+#EXTINF:-1 tvg-id="" tvg-name="News Dijlah" tvg-logo="" group-title="IRAQ",News Dijlah
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3086
-#EXTINF:-1 tvg-id="" tvg-name="AR:Dijlah Tarab" tvg-logo="" group-title="IRAQ",AR:Dijlah Tarab
+#EXTINF:-1 tvg-id="" tvg-name="Dijlah Tarab" tvg-logo="" group-title="IRAQ",Dijlah Tarab
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3087
-#EXTINF:-1 tvg-id="" tvg-name="AR:KurdMax" tvg-logo="" group-title="IRAQ",AR:KurdMax
+#EXTINF:-1 tvg-id="" tvg-name="KurdMax" tvg-logo="" group-title="IRAQ",KurdMax
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3088
-#EXTINF:-1 tvg-id="" tvg-name="AR:Kurdistan TV" tvg-logo="" group-title="IRAQ",AR:Kurdistan TV
+#EXTINF:-1 tvg-id="" tvg-name="Kurdistan TV" tvg-logo="" group-title="IRAQ",Kurdistan TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3089
-#EXTINF:-1 tvg-id="" tvg-name="AR:Kurdsat" tvg-logo="" group-title="IRAQ",AR:Kurdsat
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3090
 #EXTINF:-1 tvg-id="" tvg-name="AR Rudaw TV" tvg-logo="" group-title="IRAQ",AR Rudaw TV
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3091
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Lebanon ---★★●•" tvg-logo="" group-title="LEBANON",•●★★--- Lebanon ---★★●•
@@ -1261,40 +1311,36 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3040
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3041
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA MUSIC LEBANON" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-arabica-tv-7293.jpg" group-title="LEBANON",ARABICA MUSIC LEBANON
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3042
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- World  ---★★●•" tvg-logo="""" group-title="arab  Sports",•●★★--- World  ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- arab  Sports  ---★★●•" tvg-logo="""" group-title="arab  Sports",•●★★--- arab  Sports  ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/123
-#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 1" tvg-logo="" group-title="arab  Sports",AR: AD Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1" tvg-logo="" group-title="arab  Sports",AD Sport 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/112
-#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 2" tvg-logo="" group-title="arab  Sports",AR: AD Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2" tvg-logo="" group-title="arab  Sports",AD Sport 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/113
-#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 3" tvg-logo="" group-title="arab  Sports",AR: AD Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 3" tvg-logo="" group-title="arab  Sports",AD Sport 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/114
-#EXTINF:-1 tvg-id="" tvg-name="AR: AD Sport 4" tvg-logo="" group-title="arab  Sports",AR: AD Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 4" tvg-logo="" group-title="arab  Sports",AD Sport 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/115
-#EXTINF:-1 tvg-id="" tvg-name="AR: KSA Sports 1" tvg-logo="" group-title="arab  Sports",AR: KSA Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1" tvg-logo="" group-title="arab  Sports",KSA Sports 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2053
-#EXTINF:-1 tvg-id="" tvg-name="AR: KSA Sports 2" tvg-logo="" group-title="arab  Sports",AR: KSA Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2" tvg-logo="" group-title="arab  Sports",KSA Sports 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2054
-#EXTINF:-1 tvg-id="" tvg-name="AR: KSA SPORTS 3" tvg-logo="" group-title="arab  Sports",AR: KSA SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="KSA SPORTS 3" tvg-logo="" group-title="arab  Sports",KSA SPORTS 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2055
-#EXTINF:-1 tvg-id="" tvg-name="AR: ksa Sport 4" tvg-logo="" group-title="arab  Sports",AR: ksa Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="ksa Sport 4" tvg-logo="" group-title="arab  Sports",ksa Sport 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2056
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sharjah Sports TV FHD" tvg-logo="" group-title="arab  Sports",AR: Sharjah Sports TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah Sports TV FHD" tvg-logo="" group-title="arab  Sports",Sharjah Sports TV FHD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3233
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 1" tvg-logo="" group-title="arab  Sports",AR: Alkass 1
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 1" tvg-logo="" group-title="arab  Sports",Alkass 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1461
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 2" tvg-logo="" group-title="arab  Sports",AR: Alkass 2
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 2" tvg-logo="" group-title="arab  Sports",Alkass 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1462
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 3" tvg-logo="" group-title="arab  Sports",AR: Alkass 3
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 3" tvg-logo="" group-title="arab  Sports",Alkass 3
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1463
-#EXTINF:-1 tvg-id="" tvg-name="AR: Alkass 4" tvg-logo="" group-title="arab  Sports",AR: Alkass 4
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 4" tvg-logo="" group-title="arab  Sports",Alkass 4
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1464
 #EXTINF:-1 tvg-id="" tvg-name="IR: Varzesh" tvg-logo="" group-title="arab  Sports",IR: Varzesh
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2113
-#EXTINF:-1 tvg-id="" tvg-name="IR: Varzesh 3" tvg-logo="" group-title="arab  Sports",IR: Varzesh 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2417
-#EXTINF:-1 tvg-id="" tvg-name="AL KAICER IPTV" tvg-logo="" group-title="Islami",AL KAICER IPTV
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3019
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- Islami ---★★●•" tvg-logo="""" group-title="Islami",•●★★--- Islami ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/116
 #EXTINF:-1 tvg-id="" tvg-name="AR: Saudi Qraan" tvg-logo="[]" group-title="Islami",AR: Saudi Qraan
@@ -1331,7 +1377,7 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2744
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2745
 #EXTINF:-1 tvg-id="" tvg-name="راديو احمد الطرابلسى" tvg-logo="" group-title="Islami",راديو احمد الطرابلسى
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2746
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- world sports ---★★●•" tvg-logo="" group-title="France",•●★★--- world sports ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- world sports ---★★●•" tvg-logo="" group-title="world sports",•●★★--- world sports ---★★●•
 http://iptv.allkaicerteam.com:8080/live/kaicer_VIPluwofs/mvl296/470000008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 (Serb)" tvg-logo="" group-title="world sports",Arena Sport 2 (Serb)
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1466
@@ -1413,36 +1459,38 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3175
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3176
 #EXTINF:-1 tvg-id="" tvg-name="AL: EXPLORER_NATYRA" tvg-logo="" group-title="world sports",AL: EXPLORER_NATYRA
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3177
-#EXTINF:-1 tvg-id="" tvg-name="AL:FILM AKSION HD" tvg-logo="" group-title="world sports",AL:FILM AKSION HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3178
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD1" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3262
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD2" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3263
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD3" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3264
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD4" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3265
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD5" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3266
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD6" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD6
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3267
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD7" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD7
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3268
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD8" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD8
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3269
-#EXTINF:-1 tvg-id="" tvg-name="GR: Cosmote Sport HD9" tvg-logo="" group-title="world sports",GR: Cosmote Sport HD9
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3270
-#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport HD1" tvg-logo="" group-title="world sports",GR: Nova Sport HD1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3271
-#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport HD2" tvg-logo="" group-title="world sports",GR: Nova Sport HD2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3272
-#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport HD3" tvg-logo="" group-title="world sports",GR: Nova Sport HD3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3273
-#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport HD4" tvg-logo="" group-title="world sports",GR: Nova Sport HD4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3274
-#EXTINF:-1 tvg-id="" tvg-name="GR: Nova Sport HD5" tvg-logo="" group-title="world sports",GR: Nova Sport HD5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3275
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="" group-title="world sports",[PT] ELEVEN SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3279
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORTS 2 HD" tvg-logo="" group-title="world sports",[PT] ELEVEN SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3280
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORTS 3 HD" tvg-logo="" group-title="world sports",[PT] ELEVEN SPORTS 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3281
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORTS 4 HD" tvg-logo="" group-title="world sports",[PT] ELEVEN SPORTS 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3282
+#EXTINF:-1 tvg-id="" tvg-name="[PT] ELEVEN SPORTS 5 HD" tvg-logo="" group-title="world sports",[PT] ELEVEN SPORTS 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3283
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Voetbal " tvg-logo="" group-title="world sports",NL:Ziggo Sport Voetbal 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3544
+#EXTINF:-1 tvg-id="" tvg-name="NL:Ziggo Sport Select HD" tvg-logo="" group-title="world sports",NL:Ziggo Sport Select HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3545
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 1 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3445
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 2 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3446
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 3 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 3 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3447
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 4 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 4 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3448
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 5 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 5 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3449
+#EXTINF:-1 tvg-id="" tvg-name="NL: FOX SPORTS 6 HD" tvg-logo="" group-title="world sports",NL: FOX SPORTS 6 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3450
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="" group-title="world sports",ZDF HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3460
+#EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="" group-title="world sports",20 Mediaset
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3461
+#EXTINF:-1 tvg-id="" tvg-name="Italia 1 HD" tvg-logo="" group-title="world sports",Italia 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3462
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="" group-title="world sports",|FR| RMC SPORT 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1073
 #EXTINF:-1 tvg-id="" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="" group-title="world sports",|FR| RMC SPORT 2 HD
@@ -1457,6 +1505,8 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1077
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1078
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="" group-title="world sports",|FR| BEIN SPORTS 3 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1079
+#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+  SPORT HD" tvg-logo="" group-title="world sports",|FR| CANAL+  SPORT HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1109
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="" group-title="world sports",|FR| BEIN MAX 4 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1080
 #EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="" group-title="world sports",|FR| BEIN MAX 5 HD
@@ -1479,22 +1529,110 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1088
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1089
 #EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24" tvg-logo="" group-title="world sports",|FR| FOOT+ 24/24
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1090
-#EXTINF:-1 tvg-id="" tvg-name="|FR| L'EQUIPE 21 HD" tvg-logo="" group-title="world sports",|FR| L'EQUIPE 21 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1091
-#EXTINF:-1 tvg-id="" tvg-name="|FR| GOLF+ HD" tvg-logo="" group-title="world sports",|FR| GOLF+ HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1092
-#EXTINF:-1 tvg-id="" tvg-name="|FR| OL TV HD" tvg-logo="" group-title="world sports",|FR| OL TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1093
-#EXTINF:-1 tvg-id="" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="" group-title="world sports",|FR| INFOSPORT+ HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1094
-#EXTINF:-1 tvg-id="" tvg-name="|FR| RMC NEWS SPORT HD" tvg-logo="" group-title="world sports",|FR| RMC NEWS SPORT HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1095
-#EXTINF:-1 tvg-id="" tvg-name="|FR| AUTO MOTO HD" tvg-logo="" group-title="world sports",|FR| AUTO MOTO HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1098
-#EXTINF:-1 tvg-id="" tvg-name="|FR| KOMBAT SPORT" tvg-logo="" group-title="world sports",|FR| KOMBAT SPORT
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1099
-#EXTINF:-1 tvg-id="" tvg-name="|FR| CANAL+ HD" tvg-logo="" group-title="world sports",|FR| CANAL+ HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1100
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="world sports",UK: BT SPORT 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/838
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="world sports",UK: BT SPORT 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/839
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="world sports",UK: BT SPORT 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/840
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="world sports",DE: ZDF FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1455
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info HD" tvg-logo="" group-title="world sports",DE: ZDF info HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1456
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="world sports",DE: ZDF NEO HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1457
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1242
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1243
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1244
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1245
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="world sports",ES: DAZN 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3470
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="" group-title="world sports",ES: DAZN 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3471
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV HD" tvg-logo="""" group-title="world sports",ES: La Liga TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/371
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="""" group-title="world sports",ES: LA 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/373
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="""" group-title="world sports",ES: LA 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/374
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="" group-title="world sports",ES: REAL MADRID TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/380
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca tv" tvg-logo="" group-title="world sports",ES: Barca tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3219
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA TV (ES)" tvg-logo="" group-title="world sports", LIGA TV (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/415
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV BAR (ES)" tvg-logo="[" group-title="world sports", LALIGA TV BAR (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/416
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA 123 HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA 123 HD (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/417
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="world sports",ES: Movistar F1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/350
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar toros HD" tvg-logo="" group-title="world sports",ES: Movistar toros HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/351
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="world sports",ES: Movistar  Deportes 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/352
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD Dual II" tvg-logo="" group-title="world sports",ES: Movistar  Estrenos HD Dual II
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/353
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="world sports",ES: Movistar Futbol HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/354
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL  LIGA  HD" tvg-logo="" group-title="world sports",ES: CANAL  LIGA  HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/355
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA CAMPEONES HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA CAMPEONES HD (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/418
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 1" tvg-logo="" group-title="world sports",US: TSN 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3057
+#EXTINF:-1 tvg-id="" tvg-name="US:  TSN 2" tvg-logo="" group-title="world sports",US:  TSN 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3056
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3" tvg-logo="" group-title="world sports",US: TSN 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3055
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 4" tvg-logo="" group-title="world sports",US: TSN 4
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3054
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 5" tvg-logo="" group-title="world sports",US: TSN 5
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3053
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN HD" tvg-logo="" group-title="world sports",US: ESPN HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3049
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="world sports",US: ESPN 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3050
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN News HD" tvg-logo="" group-title="world sports",US: ESPN News HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3051
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U HD" tvg-logo="" group-title="world sports",US: ESPN U HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3052
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sport USA" tvg-logo="" group-title="world sports",US: Bein Sport USA
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/739
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports Ñ" tvg-logo="" group-title="world sports",US: beIN Sports Ñ
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/740
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS pop" tvg-logo="" group-title="world sports",US: CBS pop
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/741
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="" group-title="world sports",US: ESPN
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/742
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2" tvg-logo="" group-title="world sports",US: ESPN 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/743
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN NEWS" tvg-logo="" group-title="world sports",US: ESPN NEWS
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/750
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U" tvg-logo="" group-title="world sports",US: ESPN U
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/752
+#EXTINF:-1 tvg-id="" tvg-name="US: Eleven Sports US" tvg-logo="" group-title="world sports",US: Eleven Sports US
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/753
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" tvg-logo="" group-title="world sports",US: FOX SPORTS 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/754
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" tvg-logo="" group-title="world sports",US: FOX SPORTS 2 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/755
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Arizona" tvg-logo="" group-title="world sports",US: Fox Sports Arizona
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/764
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Detroit" tvg-logo="" group-title="world sports",US: Fox Sports Detroit
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/765
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Florida" tvg-logo="" group-title="world sports",US: Fox Sports Florida
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/766
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox  Sport 1 4K+" tvg-logo="" group-title="world sports",US: Fox  Sport 1 4K+
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/773
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Los Angeles" tvg-logo="" group-title="world sports",US: Fox Los Angeles
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/774
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports San Diego" tvg-logo="" group-title="world sports",US: Fox Sports San Diego
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/775
 #EXTINF:-1 tvg-id="" tvg-name="US: wwe Network" tvg-logo="" group-title="world sports",US: wwe Network
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/954
 #EXTINF:-1 tvg-id="" tvg-name="BG: ELEVEN 2 SPORTS BELGIUM (FR) HD" tvg-logo="" group-title="world sports",BG: ELEVEN 2 SPORTS BELGIUM (FR) HD
@@ -1521,67 +1659,29 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/819
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/820
 #EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO" tvg-logo="" group-title="world sports",CA: SPORTSNET ONTARIO
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/821
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1" tvg-logo="" group-title="world sports",CA: TSN 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/823
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2" tvg-logo="" group-title="world sports",CA: TSN 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/824
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3" tvg-logo="" group-title="world sports",CA: TSN 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/825
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4" tvg-logo="" group-title="world sports",CA: TSN 4
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/826
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5" tvg-logo="" group-title="world sports",CA: TSN 5
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/827
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 1 HD" tvg-logo="" group-title="world sports",Latino: Fox Sports 1 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/828
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Sports 2 HD" tvg-logo="" group-title="world sports",Latino: Fox Sports 2 HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/829
 #EXTINF:-1 tvg-id="" tvg-name="Latino: WIN SPORT HD" tvg-logo="" group-title="world sports",Latino: WIN SPORT HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/830
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 PORTUGAL FHD" tvg-logo="" group-title="world sports",PT: ELEVEN SPORTS 1 PORTUGAL FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/831
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 PORTUGAL HD" tvg-logo="" group-title="world sports",PT: ELEVEN SPORTS 1 PORTUGAL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/832
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 PORTUGAL FHD" tvg-logo="" group-title="world sports",PT: ELEVEN SPORTS 2 PORTUGAL FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/833
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 PORTUGAL HD" tvg-logo="" group-title="world sports",PT: ELEVEN SPORTS 2 PORTUGAL HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/834
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="world sports",UK: BT SPORT 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/838
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="world sports",UK: BT SPORT 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/839
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="world sports",UK: BT SPORT 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/840
-#EXTINF:-1 tvg-id="" tvg-name="TR: Lig tv (BeinSPorts) 2 HD" tvg-logo="" group-title="world sports",TR: Lig tv (BeinSPorts) 2 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2623
-#EXTINF:-1 tvg-id="" tvg-name="TR: Lig TV (BeinSPorts) 3 HD" tvg-logo="" group-title="world sports",TR: Lig TV (BeinSPorts) 3 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2624
-#EXTINF:-1 tvg-id="" tvg-name="TR: LIG TV (BeinSPorts) 1 HD" tvg-logo="" group-title="world sports",TR: LIG TV (BeinSPorts) 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2625
-#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="""" group-title="world sports",ES: REAL MADRID TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/380
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca tv" tvg-logo="" group-title="world sports",ES: Barca tv
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3219
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="world sports",ES: Movistar  Deportes 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/352
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="world sports",ES: Movistar Futbol HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/354
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL  LIGA  HD" tvg-logo="" group-title="world sports",ES: CANAL  LIGA  HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/355
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA TV (ES)" tvg-logo="" group-title="world sports", LIGA TV (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/415
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV BAR (ES)" tvg-logo="[" group-title="world sports", LALIGA TV BAR (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/416
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA 123 HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA 123 HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/417
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA CAMPEONES HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA CAMPEONES HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/418
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAS ERSTE FHD" tvg-logo="" group-title="world sports",DE: DAS ERSTE FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1241
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1242
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1243
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1244
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1245
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT  FR 1 SD" tvg-logo="" group-title="world sports",beIN SPORT  FR 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3475
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORT FR 2 SD" tvg-logo="" group-title="world sports", beIN SPORT FR 2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3476
+#EXTINF:-1 tvg-id="" tvg-name=" beIN SPORT FR 3 SD" tvg-logo="" group-title="world sports", beIN SPORT FR 3 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3477
+#EXTINF:-1 tvg-id="" tvg-name="TF1 SD" tvg-logo="" group-title="world sports",TF1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3478
+#EXTINF:-1 tvg-id="" tvg-name="L'EQUIPE SD" tvg-logo="" group-title="world sports",L'EQUIPE SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3479
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="" group-title="world sports",SPORT TV 1 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3480
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 SD" tvg-logo="" group-title="world sports",SPORT TV 2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3481
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 ٍSD" tvg-logo="" group-title="world sports",SPORT TV 3 ٍSD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3482
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4 SD" tvg-logo="" group-title="world sports", SPORT TV 4 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3483
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 SD" tvg-logo="" group-title="world sports",SPORT TV 5 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3484
