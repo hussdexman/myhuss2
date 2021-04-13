@@ -1379,6 +1379,66 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2745
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2746
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- world sports ---★★●•" tvg-logo="" group-title="world sports",•●★★--- world sports ---★★●•
 http://iptv.allkaicerteam.com:8080/live/kaicer_VIPluwofs/mvl296/470000008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="world sports",UK: BT SPORT 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/838
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="world sports",UK: BT SPORT 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/839
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="world sports",UK: BT SPORT 3
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/840
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="world sports",DE: ZDF FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1455
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info HD" tvg-logo="" group-title="world sports",DE: ZDF info HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1456
+#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="world sports",DE: ZDF NEO HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1457
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1242
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1243
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 Bar FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1244
+#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 FHD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1245
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES HD" tvg-logo="" group-title="world sports",ES: MOVISTAR LIGA DE CAMPEONES HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2345
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR Liga Campeones HD" tvg-logo="" group-title="world sports",ES: MOVISTAR Liga Campeones HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2344
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="world sports",ES: Movistar Futbol HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/354
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="world sports",ES: Movistar  Deportes 1 HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/352
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL  LIGA  HD" tvg-logo="" group-title="world sports",ES: CANAL  LIGA  HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/355
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA CAMPEONES HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA CAMPEONES HD (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/418
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="world sports",ES: DAZN 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3470
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="" group-title="world sports",ES: DAZN 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3471
+#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV HD" tvg-logo="""" group-title="world sports",ES: La Liga TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/371
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="""" group-title="world sports",ES: LA 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/373
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="""" group-title="world sports",ES: LA 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/374
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="" group-title="world sports",ES: REAL MADRID TV HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/380
+#EXTINF:-1 tvg-id="" tvg-name="ES: Barca tv" tvg-logo="" group-title="world sports",ES: Barca tv
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3219
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA TV (ES)" tvg-logo="" group-title="world sports", LIGA TV (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/415
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV BAR (ES)" tvg-logo="[" group-title="world sports", LALIGA TV BAR (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/416
+#EXTINF:-1 tvg-id="" tvg-name=" LIGA 123 HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA 123 HD (ES)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/417
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="world sports",ES: Movistar F1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/350
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar toros HD" tvg-logo="" group-title="world sports",ES: Movistar toros HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/351
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD Dual II" tvg-logo="" group-title="world sports",ES: Movistar  Estrenos HD Dual II
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/353
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 (Serb)" tvg-logo="" group-title="world sports",Arena Sport 1 (Serb)
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1465
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 (Serb)" tvg-logo="" group-title="world sports",Arena Sport 2 (Serb)
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1466
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 (Serb" tvg-logo="" group-title="world sports",Arena Sport 3 (Serb
@@ -1387,8 +1447,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1467
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1468
 #EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 (Serb)" tvg-logo="" group-title="world sports",Arena Sport 5 (Serb)
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1469
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 (Serb)" tvg-logo="" group-title="world sports",Arena Sport 1 (Serb)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1465
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV " tvg-logo="" group-title="world sports",PT: Sport TV 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2165
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1 HD " tvg-logo="" group-title="world sports",PT: Sport TV 1 HD 
@@ -1529,60 +1587,6 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1088
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1089
 #EXTINF:-1 tvg-id="" tvg-name="|FR| FOOT+ 24/24" tvg-logo="" group-title="world sports",|FR| FOOT+ 24/24
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1090
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="world sports",UK: BT SPORT 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/838
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="world sports",UK: BT SPORT 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/839
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="world sports",UK: BT SPORT 3
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/840
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF FHD" tvg-logo="" group-title="world sports",DE: ZDF FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1455
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF info HD" tvg-logo="" group-title="world sports",DE: ZDF info HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1456
-#EXTINF:-1 tvg-id="" tvg-name="DE: ZDF NEO HD" tvg-logo="" group-title="world sports",DE: ZDF NEO HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1457
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1242
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 1 FHD" tvg-logo="" group-title="world sports",DE: DAZN 1 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1243
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 Bar FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 Bar FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1244
-#EXTINF:-1 tvg-id="" tvg-name="DE: DAZN 2 FHD" tvg-logo="" group-title="world sports",DE: DAZN 2 FHD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/1245
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 1" tvg-logo="" group-title="world sports",ES: DAZN 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3470
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 2" tvg-logo="" group-title="world sports",ES: DAZN 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3471
-#EXTINF:-1 tvg-id="" tvg-name="ES: La Liga TV HD" tvg-logo="""" group-title="world sports",ES: La Liga TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/371
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1" tvg-logo="""" group-title="world sports",ES: LA 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/373
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2" tvg-logo="""" group-title="world sports",ES: LA 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/374
-#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="" group-title="world sports",ES: REAL MADRID TV HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/380
-#EXTINF:-1 tvg-id="" tvg-name="ES: Barca tv" tvg-logo="" group-title="world sports",ES: Barca tv
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3219
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA TV (ES)" tvg-logo="" group-title="world sports", LIGA TV (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/415
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGA TV BAR (ES)" tvg-logo="[" group-title="world sports", LALIGA TV BAR (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/416
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA 123 HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA 123 HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/417
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar F1" tvg-logo="" group-title="world sports",ES: Movistar F1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/350
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar toros HD" tvg-logo="" group-title="world sports",ES: Movistar toros HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/351
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Deportes 1 HD" tvg-logo="" group-title="world sports",ES: Movistar  Deportes 1 HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/352
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar  Estrenos HD Dual II" tvg-logo="" group-title="world sports",ES: Movistar  Estrenos HD Dual II
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/353
-#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Futbol HD" tvg-logo="" group-title="world sports",ES: Movistar Futbol HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/354
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL  LIGA  HD" tvg-logo="" group-title="world sports",ES: CANAL  LIGA  HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/355
-#EXTINF:-1 tvg-id="" tvg-name=" LIGA CAMPEONES HD (ES)" tvg-logo="[""]" group-title="world sports", LIGA CAMPEONES HD (ES)
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/418
 #EXTINF:-1 tvg-id="" tvg-name="US: TSN 1" tvg-logo="" group-title="world sports",US: TSN 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3057
 #EXTINF:-1 tvg-id="" tvg-name="US:  TSN 2" tvg-logo="" group-title="world sports",US:  TSN 2
