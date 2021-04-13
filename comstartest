@@ -173,6 +173,14 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/17
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/18
 #EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD " tvg-logo="[" group-title="beIN Entertainment",beIN Movies 4 HD 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/19
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 1 Premiere SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 1 Premiere SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3502
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 2 Action SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 2 Action SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3503
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 3 Drama SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 3 Drama SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3504
+#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4 Family SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 4 Family SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3505
 #EXTINF:-1 tvg-id="" tvg-name="beIN BOXOFFICE HD1" tvg-logo="" group-title="beIN Entertainment",beIN BOXOFFICE HD1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3276
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="" group-title="beIN Entertainment",beIN Series 1 HD
@@ -181,21 +189,21 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/20
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/21
 #EXTINF:-1 tvg-id="" tvg-name=" beIN Outdoor" tvg-logo="[" group-title="beIN Entertainment", beIN Outdoor
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/13
-#EXTINF:-1 tvg-id="" tvg-name=" beIN AMC" tvg-logo="[" group-title="beIN Entertainment", beIN AMC
+#EXTINF:-1 tvg-id="" tvg-name=" beIN AMC" tvg-logo="" group-title="beIN Entertainment", beIN AMC
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/14
 #EXTINF:-1 tvg-id="" tvg-name="beIN  Drama" tvg-logo="[" group-title="beIN Entertainment",beIN  Drama
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/15
-#EXTINF:-1 tvg-id="" tvg-name="beIN  Gourmet" tvg-logo="[" group-title="beIN Entertainment",beIN  Gourmet
+#EXTINF:-1 tvg-id="" tvg-name="beIN  Gourmet" tvg-logo="" group-title="beIN Entertainment",beIN  Gourmet
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/16
+#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="" group-title="beIN Entertainment",beIN FATAFEAT HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/25
 #EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD" tvg-logo="[" group-title="beIN Entertainment",beIN Jeem HD
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/22
 #EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies" tvg-logo="[" group-title="beIN Entertainment",beIN Fox Movies
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/23
-#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="[" group-title="beIN Entertainment",beIN FATAFEAT HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/25
 #EXTINF:-1 tvg-id="" tvg-name="beIN Baraeem" tvg-logo="" group-title="beIN Entertainment",beIN Baraeem
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2028
-#EXTINF:-1 tvg-id="" tvg-name="AR :beIN_BOOMERANG" tvg-logo="" group-title="beIN Entertainment",AR :beIN_BOOMERANG
+#EXTINF:-1 tvg-id="" tvg-name="beIN BOOMERANG" tvg-logo="" group-title="beIN Entertainment",beIN BOOMERANG
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2945
 #EXTINF:-1 tvg-id="" tvg-name="beIN DTX" tvg-logo="" group-title="beIN Entertainment",beIN DTX
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2946
@@ -205,186 +213,176 @@ http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2947
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2948
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabic" tvg-logo="" group-title="beIN Entertainment",Cartoon Network Arabic
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2949
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 1 Premiere SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 1 Premiere SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3502
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 2 Action SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 2 Action SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3503
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 3 Drama SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 3 Drama SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3504
-#EXTINF:-1 tvg-id="" tvg-name="beIN MOVIES 4 Family SD" tvg-logo="" group-title="beIN Entertainment",beIN MOVIES 4 Family SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3505
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- ART Channels ---★★●•" tvg-logo="""" group-title="ART Channels",•●★★--- ART Channels ---★★●•
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/122
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="ART Channels",ART Aflam 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/997
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam  2" tvg-logo="[" group-title="ART Channels",ART Aflam  2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/102
-#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="[" group-title="ART Channels",ART Cinema
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/103
-#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 1" tvg-logo="[" group-title="ART Channels",ART Hekayat 1
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/104
-#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 2" tvg-logo="[" group-title="ART Channels",ART Hekayat 2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/105
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- OSN HD ---★★●•" tvg-logo="" group-title="OSN HD",•●★★--- OSN HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/124
-#EXTINF:-1 tvg-id="" tvg-name="OSN: NICKELODEON HD" tvg-logo="" group-title="OSN HD",OSN: NICKELODEON HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3541
-#EXTINF:-1 tvg-id="" tvg-name="OSN :MIX HD" tvg-logo="" group-title="OSN HD",OSN :MIX HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3542
-#EXTINF:-1 tvg-id="" tvg-name="OSN :POP UP HD" tvg-logo="" group-title="OSN HD",OSN :POP UP HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3543
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo SD" tvg-logo="[" group-title="OSN HD",OSN Nat Geo SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/85
-#EXTINF:-1 tvg-id="" tvg-name="OSN Alyoum" tvg-logo="[" group-title="OSN HD",OSN Alyoum
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/86
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo pepole " tvg-logo="[" group-title="OSN HD",OSN Nat Geo pepole 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/88
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star World SD" tvg-logo="[" group-title="OSN HD",OSN Star World SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/89
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies SD" tvg-logo="[" group-title="OSN HD",OSN Star Movies SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/90
-#EXTINF:-1 tvg-id="" tvg-name="OSN:  ITV Choice" tvg-logo="" group-title="OSN HD",OSN:  ITV Choice
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2172
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies first " tvg-logo="" group-title="OSN HD",OSN Movies first 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/170
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First  " tvg-logo="" group-title="OSN HD",OSN Movies First  
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/175
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First SD" tvg-logo="" group-title="OSN HD",OSN Movies First SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3499
+#EXTINF:-1 tvg-id="" tvg-name="OSN  Movies First +2" tvg-logo="" group-title="OSN HD",OSN Movies First +2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/84
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies firest" tvg-logo="" group-title="OSN HD",[OSN] Movies firest
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2825
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] FX HD" tvg-logo="" group-title="OSN HD",[OSN] FX HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2826
-#EXTINF:-1 tvg-id="" tvg-name="OSN: E" tvg-logo="" group-title="OSN HD",OSN: E
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3284
-#EXTINF:-1 tvg-id="" tvg-name="OSN  Movies First +2" tvg-logo="[" group-title="OSN HD",OSN  Movies First +2
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/84
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="[" group-title="OSN HD",OSN Movies
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/153
-#EXTINF:-1 tvg-id="" tvg-name="OSN Disney XD HD" tvg-logo="" group-title="OSN HD",OSN Disney XD HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2543
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Mosalsalat" tvg-logo="" group-title="OSN HD",[OSN] Alfa Mosalsalat
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/995
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Comedy " tvg-logo="" group-title="OSN HD",[OSN] Comedy 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2542
-#EXTINF:-1 tvg-id="" tvg-name="OSN : ID" tvg-logo="" group-title="OSN HD",OSN : ID
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/154
-#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="[" group-title="OSN HD",OSN Action
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/155
-#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="[" group-title="OSN HD",OSN YAHALA HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/156
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo" tvg-logo="[" group-title="OSN HD",OSN Nat Geo
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/157
-#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Pepole" tvg-logo="[" group-title="OSN HD",OSN Nat Geo Pepole
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/158
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies" tvg-logo="" group-title="OSN HD",OSN Star Movies
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/159
-#EXTINF:-1 tvg-id="" tvg-name="OSN Star World " tvg-logo="" group-title="OSN HD",OSN Star World 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/160
-#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Cinema" tvg-logo="" group-title="OSN HD",OSN Ya Hala Cinema
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/161
-#EXTINF:-1 tvg-id="" tvg-name="OSN Disny Junior" tvg-logo="" group-title="OSN HD",OSN Disny Junior
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/162
-#EXTINF:-1 tvg-id="" tvg-name="OSN E" tvg-logo="[" group-title="OSN HD",OSN E
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/164
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery " tvg-logo="[" group-title="OSN HD",OSN Discovery 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/165
-#EXTINF:-1 tvg-id="" tvg-name="OSN History Channel" tvg-logo="" group-title="OSN HD",OSN History Channel
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/167
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science " tvg-logo="" group-title="OSN HD",OSN Discovery Science 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/168
-#EXTINF:-1 tvg-id="" tvg-name="OSN  OSN BBC First" tvg-logo="" group-title="OSN HD",OSN  OSN BBC First
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/169
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First " tvg-logo="" group-title="OSN HD",OSN Movies First 
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/170
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney" tvg-logo="" group-title="OSN HD",OSN Movies Disney
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/171
-#EXTINF:-1 tvg-id="" tvg-name="OSN  Movies First  " tvg-logo="[" group-title="OSN HD",OSN  Movies First  
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/175
-#EXTINF:-1 tvg-id="" tvg-name=" OSN: Disney Channel" tvg-logo="[" group-title="OSN HD", OSN: Disney Channel
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/667
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Movies First  ++2" tvg-logo="" group-title="OSN HD",OSN: Movies First  ++2
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies First" tvg-logo="" group-title="OSN HD",[OSN] Movies First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/980
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies First ++2" tvg-logo="" group-title="OSN HD",[OSN] Movies First ++2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/738
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies" tvg-logo="" group-title="OSN HD",OSN Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/153
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies " tvg-logo="" group-title="OSN HD",[OSN] Movies 
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/963
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] wwe" tvg-logo="" group-title="OSN HD",[OSN] wwe
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/994
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Food" tvg-logo="" group-title="OSN HD",[OSN] Food
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/993
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies SD" tvg-logo="" group-title="OSN HD",OSN Movies SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3491
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="[" group-title="OSN HD",OSN Action
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/155
+#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION SD" tvg-logo="" group-title="OSN HD",OSN ACTION SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3488
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Comedy" tvg-logo="" group-title="OSN HD",[OSN] OSN Comedy
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/965
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Comedy " tvg-logo="" group-title="OSN HD",[OSN] Comedy 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2542
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies Family" tvg-logo="" group-title="OSN HD",[OSN] Movies Family
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/974
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Family HD" tvg-logo="" group-title="OSN HD",OSN Movies Family HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/971
+#EXTINF:-1 tvg-id="" tvg-name="OSN POP UP HD" tvg-logo="" group-title="OSN HD",OSN POP UP HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3543
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] FX HD" tvg-logo="" group-title="OSN HD",[OSN] FX HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2826
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Enigma" tvg-logo="" group-title="OSN HD",[OSN] Enigma
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/987
+#EXTINF:-1 tvg-id="" tvg-name="OSN Serie First SD" tvg-logo="" group-title="OSN HD",OSN Serie First SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3500
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Mezze" tvg-logo="" group-title="OSN HD",[OSN] Mezze
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/975
+#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-HD" tvg-logo="" group-title="OSN HD",OSN ON-DEMAND-EXTRA-HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2832
+#EXTINF:-1 tvg-id="" tvg-name="OSN OSN BBC First" tvg-logo="" group-title="OSN HD",OSN OSN BBC First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/169
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] BBC First" tvg-logo="" group-title="OSN HD",[OSN] BBC First
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/986
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies" tvg-logo="" group-title="OSN HD",OSN Star Movies
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/159
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star Movies SD" tvg-logo="" group-title="OSN HD",OSN Star Movies SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/90
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World " tvg-logo="" group-title="OSN HD",OSN Star World 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/160
+#EXTINF:-1 tvg-id="" tvg-name="OSN Star World SD" tvg-logo="" group-title="OSN HD",OSN Star World SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/89
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Disney" tvg-logo="" group-title="OSN HD",OSN Movies Disney
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/171
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Kids" tvg-logo="" group-title="OSN HD",[OSN] OSN Kids
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/976
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disney XD HD" tvg-logo="" group-title="OSN HD",OSN Disney XD HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2543
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Nick JR" tvg-logo="" group-title="OSN HD",[OSN] Nick JR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/979
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Nick JR" tvg-logo="" group-title="OSN HD",OSN: Nick JR
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2829
+#EXTINF:-1 tvg-id="" tvg-name="OSN Disny Junior" tvg-logo="" group-title="OSN HD",OSN Disny Junior
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/162
+#EXTINF:-1 tvg-id="" tvg-name=" OSN Disney Channel" tvg-logo="" group-title="OSN HD", OSN Disney Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/667
+#EXTINF:-1 tvg-id="" tvg-name="OSN: NICKELODEON HD" tvg-logo="" group-title="OSN HD",OSN: NICKELODEON HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3541
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Play" tvg-logo="" group-title="OSN HD",[OSN] OSN Play
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/973
+#EXTINF:-1 tvg-id="" tvg-name="OSN :MIX HD" tvg-logo="" group-title="OSN HD",OSN :MIX HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3542
+#EXTINF:-1 tvg-id="" tvg-name="OSN YAHALA HD" tvg-logo="" group-title="OSN HD",OSN YAHALA HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/156
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3495
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Ya Hala Aloula" tvg-logo="" group-title="OSN HD",[OSN] Ya Hala Aloula
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/988
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA AL-OULA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA AL-OULA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3496
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ya Hala Cinema" tvg-logo="" group-title="OSN HD",OSN Ya Hala Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/161
+#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA CINEMA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA CINEMA SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3497
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Cinema 1" tvg-logo="" group-title="OSN HD",[OSN] Alfa Cinema 1
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/991
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Cinema 2" tvg-logo="" group-title="OSN HD",[OSN] Alfa Cinema 2
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/992
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="OSN HD",ART Aflam 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/997
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam  2" tvg-logo="" group-title="OSN HD",ART Aflam  2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/102
+#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="" group-title="OSN HD",ART Cinema
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/103
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 1" tvg-logo="" group-title="OSN HD",ART Hekayat 1
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/104
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 2" tvg-logo="" group-title="OSN HD",ART Hekayat 2
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/105
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alyoum" tvg-logo="" group-title="OSN HD",OSN Alyoum
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/86
+#EXTINF:-1 tvg-id="" tvg-name="OSN AL YAWM HD" tvg-logo="" group-title="OSN HD",OSN AL YAWM HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2828
+#EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Safwa" tvg-logo="" group-title="OSN HD",OSN Alfa Safwa
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2830
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Alfa Mosalsalat" tvg-logo="" group-title="OSN HD",[OSN] Alfa Mosalsalat
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/995
+#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat_2 SD" tvg-logo="" group-title="OSN HD",OSN Musalsalat_2 SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3506
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Aghani" tvg-logo="" group-title="OSN HD",[OSN] OSN Aghani
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/966
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] wwe" tvg-logo="" group-title="OSN HD",[OSN] wwe
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/994
+#EXTINF:-1 tvg-id="" tvg-name="WWE SD" tvg-logo="" group-title="OSN HD",WWE SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3492
+#EXTINF:-1 tvg-id="" tvg-name="OSN NatGeo AD HD" tvg-logo="" group-title="OSN HD",OSN NatGeo AD HD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/157
+#EXTINF:-1 tvg-id="" tvg-name="OSN NatGeo AD SD" tvg-logo="" group-title="OSN HD",OSN NatGeo AD SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/85
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Nat Geo Abudhabi" tvg-logo="" group-title="OSN HD",[OSN] Nat Geo Abudhabi
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/983
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo pepole " tvg-logo="" group-title="OSN HD",OSN Nat Geo pepole 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/88
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Nat Geo People" tvg-logo="" group-title="OSN HD",[OSN] Nat Geo People
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/981
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Pepole" tvg-logo="" group-title="OSN HD",OSN Nat Geo Pepole
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/158
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Animal Planet" tvg-logo="" group-title="OSN HD",[OSN] Animal Planet
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/962
+#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET SD" tvg-logo="" group-title="OSN HD",OSN ANIMAL PLANET SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3489
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Nat Geo Wild" tvg-logo="" group-title="OSN HD",[OSN] Nat Geo Wild
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/982
+#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO WILD SD" tvg-logo="" group-title="OSN HD",OSN NAT GEO WILD SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3498
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery " tvg-logo="" group-title="OSN HD",OSN Discovery 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/165
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SD" tvg-logo="" group-title="OSN HD",OSN Discovery SD
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3490
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Discovery H" tvg-logo="" group-title="OSN HD",[OSN] Discovery H
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/969
+#EXTINF:-1 tvg-id="" tvg-name="OSN History Channel" tvg-logo="" group-title="OSN HD",OSN History Channel
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/167
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science " tvg-logo="" group-title="OSN HD",OSN Discovery Science 
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/168
+#EXTINF:-1 tvg-id="" tvg-name="OSN BBC Earth" tvg-logo="" group-title="OSN HD",OSN BBC Earth
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2831
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] Food" tvg-logo="" group-title="OSN HD",[OSN] Food
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/993
+#EXTINF:-1 tvg-id="" tvg-name="OSN ITV Choice" tvg-logo="" group-title="OSN HD",OSN ITV Choice
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2172
+#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Living" tvg-logo="" group-title="OSN HD",[OSN] OSN Living
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/977
+#EXTINF:-1 tvg-id="" tvg-name="OSN: E!" tvg-logo="" group-title="OSN HD",OSN: E!
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3284
+#EXTINF:-1 tvg-id="" tvg-name="OSN E!" tvg-logo="" group-title="OSN HD",OSN E!
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/164
+#EXTINF:-1 tvg-id="" tvg-name="OSN ID" tvg-logo="" group-title="OSN HD",OSN ID
+http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/154
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN HBO" tvg-logo="" group-title="OSN HD",[OSN] OSN HBO
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/964
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] SYFY" tvg-logo="" group-title="OSN HD",[OSN] SYFY
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/990
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Ya Hala Aloula" tvg-logo="" group-title="OSN HD",[OSN] OSN Ya Hala Aloula
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/988
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] : Enigma" tvg-logo="" group-title="OSN HD",[OSN] : Enigma
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/987
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] BBC First" tvg-logo="" group-title="OSN HD",[OSN] BBC First
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/986
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Animal Planet" tvg-logo="" group-title="OSN HD",[OSN] OSN Animal Planet
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/962
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Nat Geo Abudhabi" tvg-logo="" group-title="OSN HD",[OSN] OSN Nat Geo Abudhabi
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/983
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Nat Geo Wild" tvg-logo="" group-title="OSN HD",[OSN] OSN Nat Geo Wild
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/982
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Comedy" tvg-logo="" group-title="OSN HD",[OSN] OSN Comedy
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/965
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Nat Geo People" tvg-logo="" group-title="OSN HD",[OSN] OSN Nat Geo People
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/981
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Movies First" tvg-logo="" group-title="OSN HD",[OSN] OSN Movies First
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/980
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Nick JR" tvg-logo="" group-title="OSN HD",[OSN] Nick JR
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/979
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Living" tvg-logo="" group-title="OSN HD",[OSN] OSN Living
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/977
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Kids" tvg-logo="" group-title="OSN HD",[OSN] OSN Kids
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/976
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Mezze" tvg-logo="" group-title="OSN HD",[OSN] Mezze
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/975
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] Movies Family" tvg-logo="" group-title="OSN HD",[OSN] Movies Family
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/974
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Play" tvg-logo="" group-title="OSN HD",[OSN] OSN Play
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/973
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Family HD" tvg-logo="" group-title="OSN HD",OSN Movies Family HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/971
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Discovery H" tvg-logo="" group-title="OSN HD",[OSN] OSN Discovery H
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/969
 #EXTINF:-1 tvg-id="" tvg-name="[OSN] Paramount" tvg-logo="" group-title="OSN HD",[OSN] Paramount
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/968
-#EXTINF:-1 tvg-id="" tvg-name="[OSN] OSN Aghani" tvg-logo="" group-title="OSN HD",[OSN] OSN Aghani
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/966
-#EXTINF:-1 tvg-id="" tvg-name="OSN:  AL YAWM HD" tvg-logo="" group-title="OSN HD",OSN:  AL YAWM HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2828
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Nick JR" tvg-logo="" group-title="OSN HD",OSN: Nick JR
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2829
-#EXTINF:-1 tvg-id="" tvg-name="OSN:  Alfa Safwa" tvg-logo="" group-title="OSN HD",OSN:  Alfa Safwa
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2830
-#EXTINF:-1 tvg-id="" tvg-name="OSN: OSN BBC First" tvg-logo="" group-title="OSN HD",OSN: OSN BBC First
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2831
-#EXTINF:-1 tvg-id="" tvg-name="OSN ON-DEMAND-EXTRA-HD" tvg-logo="" group-title="OSN HD",OSN ON-DEMAND-EXTRA-HD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/2832
-#EXTINF:-1 tvg-id="" tvg-name="OSN ACTION SD" tvg-logo="" group-title="OSN HD",OSN ACTION SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3488
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies  SD" tvg-logo="" group-title="OSN HD",OSN Movies  SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3491
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First SD" tvg-logo="" group-title="OSN HD",OSN Movies First SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3499
-#EXTINF:-1 tvg-id="" tvg-name="OSN Serie First SD" tvg-logo="" group-title="OSN HD",OSN Serie First SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3500
-#EXTINF:-1 tvg-id="" tvg-name="OSN ANIMAL PLANET SD" tvg-logo="" group-title="OSN HD",OSN ANIMAL PLANET SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3489
-#EXTINF:-1 tvg-id="" tvg-name="OSN NAT GEO WILD SD" tvg-logo="" group-title="OSN HD",OSN NAT GEO WILD SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3498
-#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SD" tvg-logo="" group-title="OSN HD",OSN Discovery SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3490
-#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3495
-#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA AL-OULA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA AL-OULA SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3496
-#EXTINF:-1 tvg-id="" tvg-name="OSN YA HALA CINEMA SD" tvg-logo="" group-title="OSN HD",OSN YA HALA CINEMA SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3497
-#EXTINF:-1 tvg-id="" tvg-name="WWE SD" tvg-logo="" group-title="OSN HD",WWE SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3492
-#EXTINF:-1 tvg-id="" tvg-name="OSN Musalsalat_2 SD" tvg-logo="" group-title="OSN HD",OSN Musalsalat_2 SD
-http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/3506
 #EXTINF:-1 tvg-id="" tvg-name="•●★★--- MBC HD ---★★●•" tvg-logo="" group-title="MY HD + MBC",•●★★--- MBC HD ---★★●•
 http://iptv.allkaicerteam.com:8080/kaicer_VIPluwofs/mvl296/125
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="" group-title="MY HD + MBC",MBC 1 HD
