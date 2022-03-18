@@ -171,7 +171,7 @@ http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2948
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2949
 #EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth HD" tvg-logo="" group-title="beIN Entertainment",beIN BBC Earth HD
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/3945
-#EXTINF:-1 tvg-id="" tvg-name="•●★★--- MBC HD ---★★●•" tvg-logo="" group-title="MBC HD",•●★★--- MBC HD ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- MBC HD ---★★●•" tvg-logo="" group-title="MBC",•●★★--- MBC HD ---★★●•
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/125
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="" group-title="MBC",MBC 1 HD
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/845
@@ -343,15 +343,15 @@ http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/161
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/991
 #EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Cinema 2" tvg-logo="" group-title="OSN HD",OSN Alfa Cinema 2
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/992
-#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="" group-title="OSN",ART Cinema
+#EXTINF:-1 tvg-id="" tvg-name="ART Cinema" tvg-logo="" group-title="OSN HD",ART Cinema
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/103
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="ART Channels",ART Aflam 1
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam 1" tvg-logo="" group-title="OSN HD",ART Aflam 1
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/997
-#EXTINF:-1 tvg-id="" tvg-name="ART Aflam  2" tvg-logo="" group-title="OSN",ART Aflam  2
+#EXTINF:-1 tvg-id="" tvg-name="ART Aflam  2" tvg-logo="" group-title="OSN HD",ART Aflam  2
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/102
-#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 1" tvg-logo="" group-title="OSN",ART Hekayat 1
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 1" tvg-logo="" group-title="OSN HD",ART Hekayat 1
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/104
-#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 2" tvg-logo="" group-title="OSN",ART Hekayat 2
+#EXTINF:-1 tvg-id="" tvg-name="ART Hekayat 2" tvg-logo="" group-title="OSN HD",ART Hekayat 2
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/105
 #EXTINF:-1 tvg-id="" tvg-name="OSN Alfa Fann" tvg-logo="" group-title="OSN HD",OSN Alfa Fann
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2830
@@ -439,11 +439,11 @@ http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2420
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2421
 #EXTINF:-1 tvg-id="" tvg-name="[NETFLIX] Horror" tvg-logo="" group-title="KAICER BOX OFFICE",[NETFLIX] Horror
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2422
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_Comedy+" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_Comedy+
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX Comedy+" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX Comedy+
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2505
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_SCI FI" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_SCI FI
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX SCI FI" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX SCI FI
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2506
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX_HOME_CINEMA_1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX_HOME_CINEMA_1
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HOME CINEMA 1" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX HOME CINEMA 1
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2507
 #EXTINF:-1 tvg-id="" tvg-name="NETFLIX N action" tvg-logo="" group-title="KAICER BOX OFFICE",NETFLIX N action
 http://tv.allkaicerteam.com:8080/Kaicer_VIPHMwNER/XvL1tf/2463
